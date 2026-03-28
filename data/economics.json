@@ -1,0 +1,602 @@
+[
+  {
+    "title": "RBI Hikes Repo Rate by 50 Basis Points Amid Persistent Inflation",
+    "description": "The Reserve Bank of India's Monetary Policy Committee voted 5-1 to raise the benchmark repo rate by 50 basis points to 6.75%, citing retail inflation running above the 6% upper tolerance band for three consecutive months. Governor flagged elevated food and fuel prices as primary drivers. Home loan and business loan EMIs are expected to rise within 30 days as banks reprice floating-rate loans. Working capital costs for MSMEs will increase by an estimated 8-12% on existing credit lines.",
+    "category": "Interest Rates",
+    "source": "Reserve Bank of India MPC Statement"
+  },
+  {
+    "title": "Indian Rupee Hits Record Low of ₹87.4 Against US Dollar",
+    "description": "The Indian rupee depreciated to a historic low of ₹87.4 per US dollar driven by a strengthening dollar index, rising US Treasury yields, and sustained foreign institutional investor outflows from domestic equity markets totaling $4.2 billion in the current month. The RBI is believed to have intervened by selling dollars from its forex reserves to prevent runaway depreciation. Import-dependent industries including edible oil, electronics, and petrochemicals face immediate margin pressure as input costs rise in rupee terms.",
+    "category": "Currency",
+    "source": "NSE Forex Market Data"
+  },
+  {
+    "title": "Wholesale Price Index Rises to 7.8% — Highest in 18 Months",
+    "description": "India's Wholesale Price Index inflation accelerated to 7.8% driven by a sharp 14.2% rise in food articles, particularly vegetables and pulses, alongside a 9.6% jump in fuel and power prices. Manufactured products inflation also edged up to 5.1%. Economists warn that elevated WPI typically transmits to retail consumer prices with a 4-6 week lag, threatening to keep CPI above the RBI's comfort zone. Industries using primary commodities as raw materials are already reporting margin compression.",
+    "category": "Inflation",
+    "source": "Ministry of Commerce and Industry, Office of the Economic Adviser"
+  },
+  {
+    "title": "Onion Prices Surge 180% in Maharashtra; Government Imposes Export Ban",
+    "description": "Retail onion prices in Maharashtra reached ₹120 per kg following heavy unseasonal rainfall that damaged the Nashik and Pune growing regions, destroying an estimated 35% of the standing kharif crop. The central government responded by imposing an immediate export ban and releasing buffer stocks from NAFED reserves. Restaurants across Mumbai and Pune report sharp cost increases with thali prices expected to rise by ₹15-25. The Lasalgaon wholesale market saw arrivals drop by 40% compared to the same period last season.",
+    "category": "Agricultural Commodity Shock",
+    "source": "NAFED, Maharashtra Agricultural Marketing Board"
+  },
+  {
+    "title": "Andhra Pradesh Mandates 15% Increase in Agricultural Labour Minimum Wage",
+    "description": "The Andhra Pradesh government revised minimum wages for agricultural labour upward by 15%, effective from the first of next month. Daily wages for unskilled farm workers increase from ₹320 to ₹368. The revision follows a tripartite labour committee recommendation citing rising living costs. Farmers and agribusiness operators in the Krishna, Guntur, and East Godavari districts flag that cultivation costs for paddy and aquaculture will rise by 12-18%, potentially affecting procurement prices for rice millers and seafood exporters in the state.",
+    "category": "Labour / Wage Policy",
+    "source": "Andhra Pradesh Labour Department Gazette"
+  },
+  {
+    "title": "Global Crude Oil Prices Surge Past $98 Per Barrel on OPEC+ Supply Cut",
+    "description": "Brent crude oil prices surged past $98 per barrel after OPEC+ nations, led by Saudi Arabia and Russia, announced a coordinated extension of their 1.3 million barrel per day production cut for an additional quarter. The decision came as global demand remains robust heading into the northern hemisphere winter. Indian fuel prices, currently under government-administered pricing, face mounting pressure as the upstream cost for state-owned refiners rises sharply. Aviation turbine fuel costs have already risen 11% this month, impacting airline operating margins.",
+    "category": "Energy / Commodity",
+    "source": "OPEC Secretariat, Platts Energy Intelligence"
+  },
+  {
+    "title": "US Federal Reserve Signals 'Higher for Longer' Rate Policy; Emerging Markets Feel Pressure",
+    "description": "The US Federal Reserve held its benchmark federal funds rate at a 22-year high and signaled in its updated dot-plot that rates may remain elevated for longer than markets previously anticipated. Fed Chair's statement emphasized that the central bank is not confident inflation is sustainably returning to 2%. The decision triggered dollar strengthening across global markets. Emerging market currencies including the Indian rupee, Indonesian rupiah, and Thai baht all depreciated 1.2-2.8% in the immediate 48 hours. Indian importers are recalculating landed costs across electronics, machinery, and chemical sectors.",
+    "category": "Interest Rates / Global",
+    "source": "US Federal Reserve FOMC Statement"
+  },
+  {
+    "title": "Telangana State GST Revenue Shortfall of ₹2,800 Crore Triggers Spending Freeze",
+    "description": "Telangana's state government announced a partial spending freeze on non-essential capital expenditure after GST revenue collections came in ₹2,800 crore below budget estimates for the first half of the fiscal year. State finance officials cited weaker-than-expected manufacturing activity and consumption slowdown. Contractors with pending government project payments face delays of 60-90 days. Real estate and construction activity linked to government infrastructure projects in Hyderabad is expected to slow, with secondary impacts on cement, steel, and labour markets in the region.",
+    "category": "Fiscal Policy",
+    "source": "Telangana Finance Department Budget Review"
+  },
+  {
+    "title": "LPG Commercial Cylinder Price Raised by ₹147; Restaurant Sector Reacts",
+    "description": "The central government revised commercial LPG cylinder prices upward by ₹147 per 19-kg cylinder, the second increase in three months, citing elevated global LPG prices and reduced subsidy availability. The new price of ₹1,846 per cylinder represents a 26% rise over the previous year. The Indian Hotel and Restaurant Association estimates the increase adds ₹12,000-18,000 to the monthly operating costs of a mid-size restaurant using 80-100 cylinders per month. South Indian states, where LPG use in small eateries and tiffin businesses is widespread, are among the most affected regions.",
+    "category": "Energy / Fuel",
+    "source": "Petroleum Planning and Analysis Cell, Ministry of Petroleum"
+  },
+  {
+    "title": "Black Sea Grain Corridor Collapses; Global Wheat Futures Spike 22%",
+    "description": "The breakdown of the international grain export agreement allowing safe passage of Ukrainian vessels through the Black Sea triggered an immediate 22% spike in Chicago Board of Trade wheat futures, reaching $8.40 per bushel — the highest level in 14 months. Ukraine accounts for approximately 10% of global wheat exports. Indian domestic wheat and flour prices are expected to follow with a 5-8 week lag. Flour mills in Punjab, Haryana, and UP are being monitored for panic buying. Bangladesh, Egypt, and Indonesia — major Indian export competitors for wheat products — are scrambling for alternative supplies.",
+    "category": "Geopolitical / Commodity",
+    "source": "CBOT Futures Data, UN Food and Agriculture Organization"
+  },
+  {
+    "title": "Container Freight Rates on Asia-Europe Routes Triple in Six Weeks",
+    "description": "Shipping container freight rates on Asia-to-Europe routes surged from $1,400 per 40-foot equivalent unit to $4,300 in just six weeks following Houthi attacks on Red Sea shipping lanes that forced major carriers Maersk, MSC, and Hapag-Lloyd to reroute vessels around the Cape of Good Hope. The longer route adds 10-14 days to transit times and approximately $1,200 in additional fuel and operational costs per container. Indian garment, pharmaceutical, and auto-component exporters shipping to European customers face margin pressure as buyers push back on price revision requests.",
+    "category": "Logistics / Shipping",
+    "source": "Freightos Baltic Index, Drewry World Container Index"
+  },
+  {
+    "title": "India CPI Inflation Rises to 6.8%; Vegetables Contribute 340 Basis Points",
+    "description": "India's Consumer Price Index inflation rose to 6.8%, breaching the RBI's upper tolerance threshold of 6% for the second consecutive month, according to data released by the Ministry of Statistics. Vegetables alone contributed 340 basis points to the overall inflation reading with tomato prices rising 180%, green chillies up 95%, and leafy vegetables up 65% month-on-month following erratic monsoon patterns. Core inflation (excluding food and fuel) remained relatively contained at 4.1%, suggesting the spike is supply-side driven. Urban households in Tier-1 cities have seen their effective food basket cost rise 18-22% over three months.",
+    "category": "Inflation",
+    "source": "Ministry of Statistics and Programme Implementation"
+  },
+  {
+    "title": "Andhra Pradesh Aquaculture Exports Hit by EU Quality Rejection; ₹850 Crore Revenue at Risk",
+    "description": "The European Union's food safety authority flagged elevated antibiotic residue levels in shrimp shipments from Andhra Pradesh, triggering enhanced border checks on all aquaculture exports from the state. Approximately 23 processing plants in the Nellore and Krishna districts have been placed under surveillance, and three have been temporarily suspended from exporting to EU markets. The EU accounts for 28% of Andhra Pradesh's shrimp export revenue worth an estimated ₹850 crore annually. Farm-gate shrimp prices in the state have already fallen 18% as processors reduce procurement.",
+    "category": "Export Disruption / Regulatory",
+    "source": "Marine Products Export Development Authority, EU RASFF Database"
+  },
+  {
+    "title": "Global Semiconductor Shortage Deepens; Lead Times for MCUs Extend to 52 Weeks",
+    "description": "Lead times for automotive-grade microcontroller units (MCUs) from major manufacturers including Renesas, Infineon, and STMicroelectronics have extended to 52 weeks following a fire at a key wafer fabrication plant in Japan and simultaneous demand surge from automotive OEMs transitioning to EV platforms. Indian auto component manufacturers supplying Tier-1 global customers are being asked to secure allocations immediately or face production schedule revisions. Two-wheeler manufacturers in Pune and Chennai are assessing the need to cut production rates by 10-15% if the shortage persists into the next quarter.",
+    "category": "Supply Chain / Technology",
+    "source": "Susquehanna Financial Group Supply Chain Report, SIAM India"
+  },
+  {
+    "title": "Tomato Prices Collapse 85% in Karnataka After Bumper Harvest; Farmers Demand MSP",
+    "description": "Tomato wholesale prices in Karnataka's Kolar district crashed from ₹120 per kg to ₹18 per kg within three weeks following an unexpectedly large harvest coinciding with reduced demand from processors and the hospitality sector. Farmers who invested heavily in cultivation based on peak-season prices are facing severe losses estimated at ₹2,400 crore across the state. Farmer organisations are demanding immediate government procurement at minimum support price. Cold storage facilities in the region are at 92% capacity. Food processing companies see this as an opportunity to build ketchup and puree inventory at favourable input costs.",
+    "category": "Agricultural Commodity",
+    "source": "Karnataka State Agricultural Marketing Board, APMC Kolar"
+  },
+  {
+    "title": "Iran Threatens to Close Strait of Hormuz; LPG and Naphtha Markets on Alert",
+    "description": "Escalating tensions in the Persian Gulf following drone strikes on commercial tankers have prompted Iranian military officials to issue statements threatening closure of the Strait of Hormuz — through which approximately 20% of global oil and 30% of global LNG trade transits. Insurance premiums for vessels in the region have already spiked 340%. Indian refiners that depend on Gulf crude imports are on high alert, with Indian Oil, BPCL, and HPCL initiating emergency procurement from West African and US suppliers. LPG availability in South India, which is heavily dependent on Gulf imports, is expected to tighten within 21 days if tensions escalate.",
+    "category": "Geopolitical / Energy",
+    "source": "Lloyd's Market Association, Ministry of Petroleum India"
+  },
+  {
+    "title": "India Imposes 20% Export Duty on Non-Basmati Rice; Global Rice Prices Surge",
+    "description": "The Government of India imposed a 20% export duty on non-basmati white rice and completely banned broken rice exports citing food security concerns ahead of a potentially deficient monsoon season. India accounts for 40% of global rice trade. International rice prices immediately surged 28% with benchmark Thai 5% broken prices reaching $660 per tonne — the highest in 15 years. Countries heavily dependent on Indian rice exports including Senegal, Ivory Coast, and Bangladesh are facing acute import cost pressures. Domestic paddy procurement prices in Andhra Pradesh and Telangana are expected to soften 8-12% as export avenues close.",
+    "category": "Trade Policy / Commodity",
+    "source": "Directorate General of Foreign Trade, FAO Rice Market Monitor"
+  },
+  {
+    "title": "Visakhapatnam Port Strike: 72-Hour Work Stoppage Affects ₹1,200 Crore in Cargo",
+    "description": "Port workers at Visakhapatnam (Vizag) Port Authority went on strike for 72 hours demanding wage revision and regularisation of contract workers, disrupting the movement of approximately ₹1,200 crore in cargo including coal, fertilizers, steel coils, and general merchandise. Twenty-three vessels at anchor could not berth during the period. Steel plants in the Visakhapatnam-Kakinada industrial corridor reported delays in raw material receipt. Fertilizer shipments for the rabi season are at risk of delay, which could affect planting schedules in Andhra Pradesh and Odisha if the standoff continues.",
+    "category": "Labour / Logistics",
+    "source": "Visakhapatnam Port Authority, All India Port and Dock Workers Federation"
+  },
+  {
+    "title": "Punjab Wheat Crop Damaged by Untimely Hailstorm; 18% Production Loss Estimated",
+    "description": "Severe hailstorms across 14 districts in Punjab damaged standing wheat crop in the final 10 days before harvest, with state agriculture officials estimating 18% production loss affecting approximately 1.8 million hectares. The damage is concentrated in Ludhiana, Bathinda, and Patiala districts. Wheat arrivals at Ludhiana and Khanna mandis are expected to be significantly lower this procurement season. The central Food Corporation of India is revising its procurement estimates downward by 4-5 million tonnes, which may necessitate import consideration. Flour millers across North India are pre-booking stocks in anticipation of tighter supply.",
+    "category": "Natural Disaster / Agricultural",
+    "source": "Punjab Agriculture Department, Food Corporation of India"
+  },
+  {
+    "title": "China's Yuan Devalues 4.2% in Controlled Adjustment; Asian Export Competition Intensifies",
+    "description": "China's central bank, the People's Bank of China, allowed the yuan to depreciate 4.2% against the US dollar through a controlled adjustment of the daily fixing mechanism, citing slowing export growth and the need to stimulate the economy. The move significantly improves the competitiveness of Chinese manufactured goods in global markets. Indian textile manufacturers, particularly in Tiruppur, Surat, and Ludhiana, report that Chinese competitors on B2B procurement platforms have already reduced prices by 6-8% in dollar terms. Indian exporters of garments, toys, and basic chemicals to third markets face renewed competitive pressure.",
+    "category": "Currency / Trade",
+    "source": "People's Bank of China, Confederation of Indian Textile Industry"
+  },
+  {
+    "title": "Cyclone Asani Makes Landfall Near Machilipatnam; Coastal Andhra Pradesh Hit",
+    "description": "Cyclone Asani, a severe cyclonic storm, made landfall near Machilipatnam in Krishna district, Andhra Pradesh, with wind speeds of 120 km/h, inundating coastal agricultural land and damaging aquaculture farms across 280 villages. Preliminary estimates indicate 45,000 acres of paddy crop under water in Krishna and Guntur districts. Shrimp farming infrastructure in the Krishna delta suffered damage estimated at ₹680 crore. The Krishnapatnam Port suspended operations for 96 hours. Power supply disruption across 1,200 villages is hampering cold chain operations critical to seafood preservation, creating spoilage risks for processors in the area.",
+    "category": "Natural Disaster",
+    "source": "India Meteorological Department, Andhra Pradesh Disaster Management Authority"
+  },
+  {
+    "title": "Union Budget Cuts Fertilizer Subsidy by 18%; Farmers and Agri-Input Dealers Respond",
+    "description": "The Union Budget reduced the fertilizer subsidy allocation by 18%, from ₹1.75 lakh crore to ₹1.43 lakh crore, as part of fiscal consolidation measures. Urea prices for farmers are expected to increase by ₹45-60 per 50-kg bag once the subsidy revision is transmitted. Di-ammonium phosphate (DAP) prices may rise by ₹120-150 per bag. The revision will increase per-acre cultivation costs by approximately ₹800-1,200 for paddy and ₹600-900 for wheat. Agricultural input dealers in Andhra Pradesh, Telangana, and Punjab are expecting a demand slowdown in the upcoming kharif season as farmer purchasing power tightens.",
+    "category": "Fiscal Policy / Agriculture",
+    "source": "Union Budget Documents, Fertilizer Association of India"
+  },
+  {
+    "title": "Global Palm Oil Supply Tightens as Indonesia Restricts Exports Again",
+    "description": "Indonesia, the world's largest palm oil exporter, reintroduced export restrictions requiring domestic market obligation compliance following a domestic cooking oil shortage. Export quotas were reduced by 25% for the quarter. Global palm oil futures on Bursa Malaysia rose 18% in five trading sessions. India, which imports approximately 8 million tonnes of palm oil annually — its largest edible oil import — faces tighter supply and higher costs. Refined edible oil prices in Indian wholesale markets are expected to rise ₹12-18 per litre within 30 days. Hotels, restaurants, and bakeries are the most immediately exposed end-users.",
+    "category": "Trade Policy / Commodity",
+    "source": "Indonesian Ministry of Trade, Solvent Extractors Association of India"
+  },
+  {
+    "title": "Steel Prices Rise 14% as China Announces Domestic Infrastructure Push",
+    "description": "Hot-rolled coil steel prices on the Shanghai Futures Exchange rose 14% following China's announcement of a ¥2.1 trillion domestic infrastructure and housing stimulus package that is expected to absorb significant domestic steel capacity previously exported. India, which has been receiving competitively priced Chinese steel imports, will see reduced availability and higher prices. Domestic steel producers — Tata Steel, JSW Steel, and SAIL — are expected to follow international prices upward. Construction contractors, auto manufacturers, and white goods producers face input cost increases of ₹4,000-6,500 per tonne.",
+    "category": "Commodity / Trade",
+    "source": "Shanghai Futures Exchange, Steel Ministry India"
+  },
+  {
+    "title": "Hyderabad Real Estate Market Cools as Home Loan Rates Cross 9.5%",
+    "description": "Average home loan interest rates offered by major banks in Hyderabad have crossed 9.5% per annum following three consecutive RBI rate hikes, up from 6.9% two years prior. The EMI on a ₹60 lakh loan over 20 years has increased by ₹8,400 per month compared to the low-rate period. New residential unit registrations in the Hyderabad Metropolitan Development Authority area fell 22% in the latest quarter. Builders in the outer ring road zone are offering delayed possession periods and subvention schemes to maintain sales velocity. The cooling has secondary effects on cement, steel, and interior fit-out businesses in the region.",
+    "category": "Real Estate / Interest Rates",
+    "source": "Telangana Registration and Stamps Department, National Housing Bank"
+  },
+  {
+    "title": "India's Current Account Deficit Widens to 3.1% of GDP on Oil Import Bill",
+    "description": "India's current account deficit widened to 3.1% of GDP in the latest quarter, the highest in six quarters, driven by a surge in the oil import bill following crude price increases and a 9% rise in gold imports ahead of the wedding season. The deficit of $28.4 billion exceeded economist forecasts of $22 billion. The wider CAD puts additional downward pressure on the rupee and may necessitate further RBI intervention. Foreign exchange reserves fell to $588 billion from a peak of $642 billion. The pressure could prompt the government to revisit import duties on non-essential goods.",
+    "category": "Macroeconomics / Trade Balance",
+    "source": "Reserve Bank of India Balance of Payments Data"
+  },
+  {
+    "title": "Red Sea Shipping Disruption Adds 18 Days to India-Europe Transit; Pharma Exports Affected",
+    "description": "Ongoing security threats in the Red Sea and Bab-el-Mandeb Strait have caused 94% of container vessels to reroute around the Cape of Good Hope, adding an average of 18 days to India-Europe transit times. Indian pharmaceutical exporters, who supply 25% of Europe's generic medicine requirements, are grappling with expiry management challenges for time-sensitive drugs and inventory planning disruptions for European hospital customers. Air freight is being used as an emergency alternative, but at 6-8x the cost. The Pharmaceutical Export Promotion Council estimates additional logistics costs of ₹1,800 crore for the sector over the disruption period.",
+    "category": "Logistics / Geopolitical",
+    "source": "Pharmaceutical Export Promotion Council, Drewry Shipping Research"
+  },
+  {
+    "title": "Kharif Sowing Drops 11% as Southwest Monsoon Delivers Deficient Rainfall",
+    "description": "Kharif crop sowing area declined 11% compared to the same period in the previous year as the India Meteorological Department confirmed that the southwest monsoon delivered 19% below-normal rainfall over the crucial June-August period. Severely deficient rainfall was recorded in Maharashtra, Rajasthan, Karnataka, and parts of Madhya Pradesh. Soybean sowing in Madhya Pradesh fell 23%, groundnut planting in Gujarat dropped 18%, and coarse cereal sowing across the Deccan plateau declined 15%. Agricultural economists project a 7-9 million tonne shortfall in total kharif output, with food price inflation expected to intensify in Q3 and Q4.",
+    "category": "Natural Disaster / Agricultural",
+    "source": "India Meteorological Department, Ministry of Agriculture"
+  },
+  {
+    "title": "GST Council Raises Tax Rate on Packaged Food Items from 5% to 12%",
+    "description": "The GST Council approved an increase in the tax rate on specified packaged and labelled food items — including branded namkeens, packaged atta, and pre-packaged rice — from 5% to 12%, effective from the first of next month. FMCG companies including Britannia, Haldirams, and ITC's food division estimate the increase will either compress margins or necessitate retail price increases of 6-9% on affected SKUs. Modern trade and quick-commerce channels report pre-announcement surge buying in the category. Small food manufacturers and regional brand operators face more acute challenges as they have less margin buffer than large listed companies.",
+    "category": "Tax Policy / FMCG",
+    "source": "GST Council Resolution, FMCG Industry Federation"
+  },
+  {
+    "title": "Coal Shortage at Thermal Power Plants; Industrial States Face 8-Hour Power Cuts",
+    "description": "Coal stock levels at thermal power plants across India fell to an average of 7 days of requirement — well below the recommended 24-day buffer — as domestic coal production lagged power demand surging during an extended heat wave with temperatures exceeding 45°C across North and Central India. Several states including Uttar Pradesh, Madhya Pradesh, and Maharashtra declared 8-hour power cuts for industrial consumers, including factories and commercial establishments. Manufacturing units in auto clusters and textile hubs report daily production losses of 15-25%. The crisis is putting upward pressure on open-access power prices, which spiked to ₹17 per unit on the power exchange.",
+    "category": "Energy / Infrastructure",
+    "source": "Central Electricity Authority, Ministry of Coal"
+  },
+  {
+    "title": "Global Coffee Prices Reach 12-Year High as Vietnam Crop Fails",
+    "description": "Robusta coffee futures on the London International Financial Futures Exchange surged to a 12-year high after Vietnam — the world's largest robusta producer — confirmed that drought conditions linked to El Niño had reduced its crop output by 22%. India's coffee-using industries, including instant coffee manufacturers, cafes, and filter coffee suppliers primarily in South India, face significant raw material cost increases. The cost of a tonne of robusta coffee has risen from $2,100 to $3,800. South Indian coffee roasters and cafe chains operating in Tamil Nadu, Karnataka, and Andhra Pradesh are assessing price revision requirements for their product offerings.",
+    "category": "Agricultural Commodity / Global",
+    "source": "International Coffee Organization, London ICE Futures"
+  },
+  {
+    "title": "Bangladesh Garment Sector Turmoil Creates Export Opportunity and Supply Risk for India",
+    "description": "Political turmoil and widespread factory shutdowns across Bangladesh's $42 billion garment export sector — which supplies 85% of the country's export revenue — has forced major global buyers including H&M, Zara, and Gap to urgently seek alternative sourcing from India, Vietnam, and Sri Lanka. Indian textile mills in Tiruppur, Surat, and NCR are receiving emergency order inquiries. However, capacity constraints mean Indian factories can absorb only 30-40% of the diverted orders in the short term. Yarn and fabric prices in Tiruppur have already risen 9% on surge demand, increasing input costs for garment exporters themselves.",
+    "category": "Geopolitical / Trade Disruption",
+    "source": "Apparel Export Promotion Council India, BGMEA Bangladesh"
+  },
+  {
+    "title": "Andhra Pradesh Electricity Tariff Increased by 12% for Commercial and Industrial Users",
+    "description": "The Andhra Pradesh Electricity Regulatory Commission approved a 12% tariff increase for commercial and industrial electricity consumers, effective from the next billing cycle, citing rising power procurement costs and the state DISCOMS' accumulated debt of ₹18,400 crore. For a medium-sized rice mill in Nellore consuming 50,000 units per month, the monthly electricity bill rises by approximately ₹72,000. Cold storage operators in Guntur district, critical for onion and chilli preservation, face cost pressures that may be passed on to farmers through reduced storage rates or higher preservation charges.",
+    "category": "Energy / Regulatory",
+    "source": "AP Electricity Regulatory Commission Tariff Order"
+  },
+  {
+    "title": "Rupee-Dollar Volatility Forces Indian IT Firms to Revise Revenue Guidance",
+    "description": "Wild swings in the INR/USD exchange rate — oscillating between ₹83.2 and ₹87.8 within a single quarter — have forced three mid-cap Indian IT services firms to revise their annual revenue guidance downward by 2-4% in rupee terms as hedging programs failed to fully capture the volatility benefits. Meanwhile, firms with higher unhedged exposure benefited from currency tailwinds. The CFOs of major IT companies are revising their hedging strategies for the coming quarters. The divergence in currency impact between hedged and unhedged companies is creating a competitive distortion within the sector.",
+    "category": "Currency / Corporate Impact",
+    "source": "BSE/NSE Regulatory Filings, Association of Indian IT Companies"
+  },
+  {
+    "title": "Global Neon Gas Shortage Threatens Semiconductor Production; Indian Electronics at Risk",
+    "description": "A severe shortage of neon gas — a critical feedstock for semiconductor laser lithography — has emerged following the destruction of two major neon gas processing plants in Ukraine by missile strikes. Ukraine supplies approximately 50% of the world's semiconductor-grade neon. Chipmakers including TSMC, Samsung, and Micron are scrambling to qualify alternative neon sources. Lead times for neon delivery have extended from 3 days to 6-8 months. Indian electronics assembly operations that depend on imported semiconductor components could face supply shortfalls within 90 days as chipmaker output is constrained. Consumer electronics pricing pressure is expected to emerge within 6 months.",
+    "category": "Geopolitical / Supply Chain",
+    "source": "Semiconductor Industry Association, Reuters Commodity Desk"
+  },
+  {
+    "title": "India-Pakistan Border Tension Triggers Suspension of Attari-Wagah Trade",
+    "description": "Following a diplomatic incident, India suspended trade through the Attari-Wagah integrated check post, halting the cross-border movement of goods worth approximately $1.2 billion annually. Pakistan-origin dry fruits — including walnuts, almonds, and pistachios — which transit through Afghanistan and enter via Wagah, face supply disruption. Dry fruit traders in Delhi's Khari Baoli market and Amritsar commodity markets are reporting immediate price spikes of 15-22%. The closure also affects cement and textile exports from India to Pakistan, impacting businesses in Punjab and Rajasthan.",
+    "category": "Geopolitical / Trade",
+    "source": "Ministry of Commerce India, FICCI Border Trade Report"
+  },
+  {
+    "title": "Locust Swarm Alert Issued for Rajasthan; Threat to Rabi Crop Elevated",
+    "description": "The Locust Warning Organisation of India issued a high-alert warning for districts in Rajasthan and parts of Gujarat following confirmation of large locust swarms crossing from Pakistan. The swarms, comprising an estimated 80 billion insects per square kilometre, pose a severe threat to standing rabi crops including wheat, mustard, and vegetables. Aerial spraying operations using 22 aircraft and 47 vehicles have been deployed. However, the scale of the swarms exceeds containment capacity in border districts. Commodity futures for mustard seed on NCDEX have already risen 8% on the alert. Farmers in Barmer, Jaisalmer, and Bikaner districts are on highest alert.",
+    "category": "Natural Disaster / Agricultural",
+    "source": "Locust Warning Organisation India, Ministry of Agriculture"
+  },
+  {
+    "title": "Sri Lanka Economic Crisis Creates Demand Surge in South Indian Border Trade",
+    "description": "As Sri Lanka grapples with its worst economic crisis in seven decades — with foreign reserves nearly depleted and essential commodities in short supply — informal and formal cross-border trade through Rameswaram and Talaimannar is seeing a surge in demand for rice, dhal, medicines, and fuel. Tamil Nadu businesses near coastal districts report a 35% increase in demand from Sri Lankan buyers paying in cash dollars. However, formal export channels are strained by Sri Lanka's inability to open letters of credit. Indian pharmaceutical companies with exposure to Sri Lankan institutional buyers face payment default risks.",
+    "category": "Sovereign Crisis / Trade",
+    "source": "Tamil Nadu Chamber of Commerce, IMF Sri Lanka Desk"
+  },
+  {
+    "title": "SEBI Tightens Margin Requirements for Commodity Derivatives; Hedging Costs Rise",
+    "description": "SEBI revised upward the Initial Margin requirements for commodity derivative contracts on MCX and NCDEX by 15-25% for select agricultural and metal contracts, citing volatility spikes. For a rice trader hedging 500 tonnes of paddy on NCDEX, the margin requirement increases from ₹18 lakh to ₹22.5 lakh per lot. Smaller agri-commodity traders and millers that use futures markets for price risk management face higher capital lock-up. Industry bodies represent that the increased margin requirements may reduce hedging participation, leaving smaller businesses more exposed to spot price volatility.",
+    "category": "Regulatory / Financial Markets",
+    "source": "Securities and Exchange Board of India Circular"
+  },
+  {
+    "title": "Global Shipping Container Shortage Eases But Imbalances Persist on India Routes",
+    "description": "While global container availability has broadly improved from the pandemic-era crisis, significant imbalances persist on India-specific trade lanes. Empty container repositioning remains slow in Tier-2 Indian ports including Krishnapatnam, Gangavaram, and Mundra, creating backlogs for exporters of seafood, granite, and agricultural products. Premium surcharges for priority container allocation on India-Europe lanes remain at $380 per TEU above base freight rates. Granite exporters in Andhra Pradesh and seafood processors in Visakhapatnam report losing orders to Vietnamese and Thai competitors due to unreliable container availability.",
+    "category": "Logistics / Shipping",
+    "source": "Container Shipping Lines Association India, Vizag Port Trust"
+  },
+  {
+    "title": "Diesel Price Hike of ₹8 Per Litre Announced; Logistics and Agriculture Costs Surge",
+    "description": "State-owned oil marketing companies revised diesel retail prices upward by ₹8 per litre — the first revision in 14 months — following sustained high global crude prices and growing OMC under-recoveries. Diesel, which powers 70% of India's freight transport, is a critical cost component for logistics companies, farmers using irrigation pumps, and generators for back-up power. The All India Motor Transport Congress estimates freight rates will increase 12-15% within two weeks of the price hike. Cold chain operators running refrigerated trucks report the fuel cost component of their operations rising by ₹22,000 per vehicle per month.",
+    "category": "Energy / Fuel",
+    "source": "Indian Oil Corporation Pricing Statement, AIMTC"
+  },
+  {
+    "title": "IMF Downgrades Global Growth Forecast; Trade-Sensitive Economies Reassess Outlook",
+    "description": "The International Monetary Fund revised its global growth forecast downward from 3.2% to 2.8% citing synchronised monetary tightening across major economies, persistent inflation in services, and escalating geopolitical fragmentation of trade flows. India's growth forecast was trimmed from 6.3% to 5.9%. Trade-sensitive sectors including gems and jewellery exports, IT services, and specialty chemicals are revising their order books as overseas buyer demand softens. Investment banks have begun downgrading Indian export-oriented sectors citing the dimmer global demand environment.",
+    "category": "Global Macroeconomics",
+    "source": "International Monetary Fund World Economic Outlook"
+  },
+  {
+    "title": "Sugar Export Ban Extended as Domestic Prices Approach Threshold; Confectionery Industry Concerned",
+    "description": "The Food Ministry extended India's ban on sugar exports for an additional six months, citing the need to maintain domestic availability ahead of the festival season and uncertainty about the upcoming sugarcane harvest following an irregular monsoon. Brazil, the world's other major sugar exporter, is experiencing crop stress from drought, keeping international prices elevated at 28 cents per pound. Domestic sugar mills in Maharashtra and UP are sitting on rising inventories but cannot access export markets. The confectionery and beverage industry, which welcomes stable domestic prices, is monitoring international prices for any disruption to their raw material security.",
+    "category": "Trade Policy / Commodity",
+    "source": "Ministry of Food and Consumer Affairs, Indian Sugar Mills Association"
+  },
+  {
+    "title": "Natural Gas Prices in Europe Spike 45%; Indian Chemical Industry on Alert",
+    "description": "European natural gas prices spiked 45% following unexpected supply disruptions from a Norwegian pipeline and below-average wind energy generation that increased gas demand for power generation. While India does not directly import European gas, the price spike is driving European chemical manufacturers — particularly fertilizer and petrochemical producers — to curtail output, reducing global supply of ammonia, urea, and PVC. Indian downstream industries using these as raw materials face a tightening import supply outlook. Domestic gas prices in India under the modified PNGRB framework are also expected to be revised upward at the next quarterly review.",
+    "category": "Energy / Commodity / Global",
+    "source": "TTF Gas Exchange Netherlands, Petroleum and Natural Gas Regulatory Board India"
+  },
+  {
+    "title": "Tuberculosis Drug Shortage After Chinese API Plant Blast; Indian Pharma Supply Chain Disrupted",
+    "description": "An explosion at a major Active Pharmaceutical Ingredient manufacturing facility in Hubei Province, China — one of the world's largest producers of rifampicin and isoniazid, the primary tuberculosis drugs — has created an acute shortage in the global API supply chain. Indian pharmaceutical manufacturers, who import 68% of their API requirements from China, are scrambling to qualify alternative Indian API producers or access limited available stock. The National Health Mission's TB drug procurement program is being reviewed as bulk tender delivery commitments may be affected. Spot prices for rifampicin API have tripled from $12/kg to $36/kg.",
+    "category": "Supply Chain / Pharmaceutical",
+    "source": "Pharmaceuticals Export Council of India, WHO Drug Shortages Monitor"
+  },
+  {
+    "title": "Vijayawada Floods Damage Industrial Zones; Recovery Estimated at 3-4 Months",
+    "description": "Unprecedented flooding in Vijayawada following the breach of the Budameru rivulet levee inundated three industrial estates — Auto Nagar, Kondapalli Industrial Zone, and Nunna industrial area — causing damage to machinery, raw materials, and finished goods estimated at ₹2,100 crore. Approximately 1,200 manufacturing units were affected, primarily in auto components, plastics, and food processing. Water levels took 9 days to recede from factory floors. Insurance surveyors are on site but assessments indicate 40% of affected businesses are underinsured for flood damage. Full production restoration is estimated at 3-4 months for most units.",
+    "category": "Natural Disaster / Industrial",
+    "source": "Andhra Pradesh Industrial Infrastructure Corporation, CII Andhra Pradesh"
+  },
+  {
+    "title": "Global Copper Prices Surge 28% on Chile Mine Strike and Chinese Demand Revival",
+    "description": "London Metal Exchange copper prices surged 28% over six weeks driven by a combination of a prolonged strike at Codelco's Chuquicamata mine in Chile — the world's largest open-pit copper mine — and renewed demand from Chinese infrastructure and electric vehicle battery manufacturers. Copper is used extensively in electrical wiring, motors, plumbing, and electronics. Indian electrical equipment manufacturers, construction companies, and EV charging infrastructure providers face raw material cost increases of ₹30,000-42,000 per tonne. Copper cable producers in Gujarat and Maharashtra are raising product prices, which will transmit to real estate and infrastructure project costs.",
+    "category": "Commodity / Global",
+    "source": "London Metal Exchange, Copper Development Association India"
+  },
+  {
+    "title": "Indian Government Imposes Quality Control Orders on Steel Imports; Domestic Prices Rise",
+    "description": "The Ministry of Steel notified Quality Control Orders mandating Bureau of Indian Standards certification for 32 steel product categories, effectively raising the barrier for cheaper imports from China, Vietnam, and South Korea. Domestic steel prices responded immediately, rising ₹2,200-3,800 per tonne as import competition reduced. While this benefits Indian steel producers and protects domestic industry, downstream users including construction, auto, and consumer durables manufacturers face higher input costs. The construction sector estimates the QCO-driven steel price increase will add 3-4% to residential project completion costs.",
+    "category": "Trade Policy / Commodity",
+    "source": "Ministry of Steel Notification, Joint Plant Committee India"
+  },
+  {
+    "title": "Vegetable Oil Prices Fall 18% as Indonesia Removes Export Restrictions",
+    "description": "Palm oil and refined vegetable oil prices fell sharply on Indian commodity exchanges after Indonesia announced the removal of its export levy and quota restrictions on palm oil, opening the tap on a significant backlog of inventory. Crude palm oil futures on MCX fell 18% over four weeks. Indian edible oil refiners and importers who had built costly buffer inventories at elevated prices are facing mark-to-market losses. Consumers and food service operators benefit from lower cooking oil costs, with retail prices expected to fall ₹10-15 per litre over the next 30 days. FMCG companies using palm oil as an ingredient will see margin improvement.",
+    "category": "Commodity / Trade Policy",
+    "source": "Malaysian Palm Oil Board, Solvent Extractors Association of India"
+  },
+  {
+    "title": "Bangladesh Floods Block Land Route; Kolkata-Agartala Road Trade Disrupted",
+    "description": "Severe flooding across Bangladesh has disrupted the NH-8 equivalent Agartala-Kolkata land route that passes through Bangladesh under the motor vehicle agreement. The only alternative is the longer route through Guwahati adding 1,400 km and 3-4 days of transit. Tripura, Meghalaya, and Mizoram face supply disruptions for essential commodities including vegetables, cement, and fuel. Retail prices for essential commodities in Agartala are rising 20-30%. The disruption also affects Bangladesh's own transit-dependent supply chains, worsening that country's already stressed import situation.",
+    "category": "Natural Disaster / Logistics",
+    "source": "North East India Commerce Association, Bangladesh Flood Forecasting Centre"
+  },
+  {
+    "title": "WTO Rules Against India's Sugar Subsidies; ₹11,000 Crore Export Support Scheme at Risk",
+    "description": "The World Trade Organization appellate body ruled against India's sugar export subsidy schemes, including the Production Assistance and Buffer Stock schemes, finding them inconsistent with WTO Agreement on Agriculture commitments. India must bring its sugar support policies into compliance or face retaliatory tariffs from complainant nations — Brazil, Australia, and Guatemala. The ruling puts ₹11,000 crore in annual sugar export support at risk. Indian sugar mills, particularly those in Uttar Pradesh and Maharashtra, may lose export competitiveness if support is withdrawn, reducing sugarcane procurement prices and farmer income.",
+    "category": "Trade Policy / Regulatory",
+    "source": "World Trade Organization Dispute Resolution Body"
+  },
+  {
+    "title": "Cobalt Prices Collapse 62% as DRC Supply Floods Market; Indian EV Battery Plans Reassessed",
+    "description": "Cobalt prices on the London Metal Exchange crashed 62% from peak levels as the Democratic Republic of Congo — which produces 75% of the world's cobalt — increased mine output aggressively, creating a global surplus. The price collapse is reshaping battery economics globally, making cobalt-rich NMC battery chemistries more competitive against LFP batteries. Indian EV manufacturers and battery cell makers who had shifted sourcing strategies away from cobalt now face strategic reassessment. Cobalt-heavy battery plans may become economically viable again at these prices, affecting technology roadmap decisions for companies like Tata Motors and Ola Electric.",
+    "category": "Commodity / Technology",
+    "source": "London Metal Exchange, Electric Vehicle Society of India"
+  },
+  {
+    "title": "India's Foreign Institutional Investor Outflows Hit $9.8 Billion in Single Month",
+    "description": "Foreign institutional investors withdrew $9.8 billion from Indian equity and debt markets in a single month — the highest single-month outflow since the COVID-19 crisis — as global risk aversion increased following unexpected inflation data from the United States and concerns about geopolitical escalation in West Asia. The Sensex fell 8.4% and the Nifty50 fell 8.7% over the same period. The rupee depreciated 2.8%. Companies with significant foreign shareholding saw amplified selling pressure. The wealth effect on urban consumer spending may dampen demand in premium consumption categories over the following quarter.",
+    "category": "Capital Markets / Currency",
+    "source": "SEBI Bulk Deal Data, NSDL FPI Data"
+  },
+  {
+    "title": "Tuna and Seafood Exports from Tamil Nadu Hit by EU Labelling Directive",
+    "description": "A new EU regulation mandating enhanced species-level traceability labelling and catch documentation for all seafood imports has created significant compliance challenges for Tamil Nadu's tuna and fish processing exporters. The new requirements take effect in 90 days, but less than 30% of the state's 340 registered seafood exporters have initiated compliance processes. Non-compliant shipments face automatic rejection at EU ports. The EU is Tamil Nadu's third-largest seafood export destination with annual revenues of approximately ₹1,400 crore. Trade bodies are seeking a 180-day grace period from the European Commission.",
+    "category": "Regulatory / Export",
+    "source": "Marine Products Export Development Authority, EU Official Journal"
+  },
+  {
+    "title": "Monsoon Delay Pushes Back Kharif Planting by 3 Weeks in Telangana; Cotton Crop Concerns Rise",
+    "description": "The arrival of the southwest monsoon over Telangana was delayed by 22 days compared to the normal date, pushing back cotton sowing schedules in Adilabad, Warangal, and Nalgonda districts — the state's primary cotton belt. Cotton requires a long growing season, and the delayed planting means the crop will be exposed to potential early winter frost before maturity. Agribusiness companies supplying cotton seed report demand backlog as farmers wait for rains. Textile mills in Warangal and fabric producers with Telangana cotton sourcing are monitoring the situation, with supply tightness projected for the upcoming lint season.",
+    "category": "Natural Disaster / Agricultural",
+    "source": "India Meteorological Department, Cotton Corporation of India"
+  },
+  {
+    "title": "Taiwan Strait Military Exercises Disrupt Air and Sea Freight; Tech Supply Chain on Alert",
+    "description": "Large-scale Chinese military exercises around Taiwan forced the temporary closure of several commercial flight corridors and rerouting of shipping lanes in the Taiwan Strait — through which 88% of the world's largest container ships pass. Three major Taiwanese semiconductor fabs temporarily suspended non-essential employee movement to facilities. Air cargo carrying electronic components and time-sensitive goods for Indian electronics assembly plants faced 2-3 day delays and premium pricing. India's electronics import supply chain, dependent on Taiwanese chips and Korean panels, is on high alert as geopolitical risk scenario planning is being activated by procurement teams.",
+    "category": "Geopolitical / Supply Chain",
+    "source": "Taiwan Straits Shipping Monitoring, OECD Trade Alert"
+  },
+  {
+    "title": "India Ranks Among Top Performers in S&P Global Trade Index as Supply Chains Relocate",
+    "description": "The S&P Global Supply Chain Resilience Index ranked India as the second-most attractive alternative sourcing destination as global manufacturers accelerate China-plus-one diversification strategies. Electronics, pharmaceuticals, textiles, and chemicals are the primary sectors attracting relocation interest. Industrial park developers in Andhra Pradesh, Rajasthan, and Gujarat report a 40% increase in foreign company enquiries for greenfield manufacturing sites. However, logistics infrastructure gaps, power reliability, and skilled labour availability are being cited as constraints that prevent faster conversion of interest into committed investment.",
+    "category": "Trade / Investment",
+    "source": "S&P Global Supply Chain Intelligence, Invest India"
+  },
+  {
+    "title": "Crude Palm Oil Futures Collapse Wipes ₹4,200 Crore From Indian Importer Balance Sheets",
+    "description": "A sudden 24% decline in crude palm oil futures on Bursa Malaysia — driven by unexpectedly large Indonesian harvest estimates and weakening Chinese import demand — has created significant inventory losses for Indian importers who had built strategic reserves at elevated prices in anticipation of continued supply tightness. The mark-to-market loss across the industry is estimated at ₹4,200 crore on inventories of approximately 2.1 million tonnes held by importers, refiners, and stockists. Several smaller edible oil traders in Gujarat and Rajasthan are reported to be under financial stress due to leveraged positions.",
+    "category": "Commodity / Financial",
+    "source": "Solvent Extractors Association of India, Bursa Malaysia"
+  },
+  {
+    "title": "Kolkata Port Congestion Reaches Critical Levels; 47 Ships Waiting at Anchor",
+    "description": "A combination of equipment breakdowns, labour absenteeism post-festival season, and a surge in import cargo has created severe congestion at Kolkata-Haldia Port Complex, with 47 commercial vessels waiting at anchor — up from a normal queue of 8-12. Dwell times for containerised cargo have extended from the normal 4 days to 18 days. Import-dependent businesses in West Bengal and Bangladesh (transshipping through Kolkata) face raw material delays. Jute manufacturers, edible oil refiners, and machinery importers are the most severely affected categories. The port authority has declared a congestion surcharge of $240 per TEU.",
+    "category": "Logistics / Infrastructure",
+    "source": "Kolkata Port Trust, FICCI Eastern Region"
+  },
+  {
+    "title": "European Carbon Border Adjustment Mechanism Takes Effect; Indian Steel and Cement Exporters Face New Tariffs",
+    "description": "The European Union's Carbon Border Adjustment Mechanism formally came into force, imposing a carbon cost equivalent on imports of steel, cement, aluminium, fertilizer, and electricity from countries without equivalent carbon pricing. Indian steel exports to Europe will face an estimated additional tariff of €42-58 per tonne depending on the carbon intensity of the producing facility. Indian cement producers exploring European markets face similar barriers. JSW Steel and Tata Steel Europe operations are better positioned than Sail and smaller producers due to higher investment in low-carbon production. The CBAM is expected to add ₹8,000-12,000 crore in additional costs for affected Indian exporters annually.",
+    "category": "Regulatory / Trade",
+    "source": "European Commission CBAM Implementation Regulation"
+  },
+  {
+    "title": "RBI Mandates Banks to Increase Priority Sector Lending; Credit Flow to SMEs May Improve",
+    "description": "The Reserve Bank of India issued revised Priority Sector Lending guidelines increasing the mandatory allocation from 40% to 43% of adjusted net bank credit, with specific sub-targets for agriculture, MSMEs, and weaker sections enhanced. Banks falling short of targets must deposit the shortfall with NABARD at sub-market rates. This structural change should increase credit availability for agricultural businesses, small manufacturers, and micro-enterprises over the medium term. However, banks are expected to adopt stricter borrower assessment processes to manage NPA risks, meaning quality borrowers will benefit while marginal ones may face tighter conditions.",
+    "category": "Banking / Credit Policy",
+    "source": "Reserve Bank of India Master Direction"
+  },
+  {
+    "title": "Severe Drought in East Africa Drives Up Global Sesame and Pulse Prices",
+    "description": "A severe drought across Ethiopia, Somalia, and Kenya — driven by three consecutive failed rainy seasons — has decimated agricultural output in the region. East Africa is a significant producer of sesame seeds, cowpeas, and specific pulse varieties. Global sesame prices rose 38% as East African export supplies dropped 45%. Indian importers who source sesame from Ethiopia for the domestic sweet and confectionery industry face sharply higher landed costs. India also exports processed sesame globally, and the supply tightening from East Africa is benefiting Indian sesame farmers in Rajasthan and Gujarat with higher domestic prices.",
+    "category": "Natural Disaster / Commodity / Global",
+    "source": "FAO Emergency Watch Report, APEDA India"
+  },
+  {
+    "title": "Indian Government Mandates 5% Ethanol Blending in Petrol; Sugarcane Diversion to Rise",
+    "description": "The government accelerated its ethanol blending program by mandating 5% (increasing to 8%) ethanol blending in petrol for all oil marketing companies in all states. The program will require an additional 4.2 billion litres of ethanol annually, significantly increasing demand for sugarcane-derived ethanol. Sugar mills are expected to divert more cane juice to ethanol production instead of sugar, potentially tightening domestic sugar supply. States like Maharashtra, UP, and Karnataka — the largest sugarcane producers — will benefit most. However, the diversion may put upward pressure on domestic sugar prices over the next 18 months.",
+    "category": "Energy Policy / Agriculture",
+    "source": "Ministry of Petroleum Ethanol Policy Notification"
+  },
+  {
+    "title": "Pharmaceutical Sector Hit as Chinese API Suppliers Demand Pre-Payment Amid Trust Deficit",
+    "description": "Following several payment defaults by Indian pharmaceutical companies to Chinese API suppliers in the aftermath of currency volatility and business disruptions, a group of Chinese chemical producers has shifted to requiring 50-100% advance payment for all new orders from Indian buyers. This has increased working capital requirements for Indian pharma companies by an estimated ₹8,000-12,000 crore at the sector level. Smaller generics manufacturers with limited credit lines face the most severe pressure, with some unable to place orders at all. The development accelerates the case for domestic API production under the PLI scheme but real supply alternatives are 2-3 years away.",
+    "category": "Supply Chain / Financial",
+    "source": "Indian Pharmaceutical Alliance, Pharmaceuticals Export Council India"
+  },
+  {
+    "title": "Telangana State Government Delays Rythu Bandhu Payments; Rural Spending Slows",
+    "description": "The Telangana state government deferred the Rythu Bandhu farmer investment support scheme payments by two crop seasons — affecting 5.8 million farmers who were entitled to receive ₹10,000 per acre per season — due to state fiscal constraints. The deferred payments represent ₹7,200 crore in rural income that has been postponed. Agri-input dealers across the state report a 30-40% drop in fertilizer, pesticide, and seed sales as farmers unable to access the support money curtail spending. Rural retail businesses, two-wheeler dealers, and microfinance institutions report slowing collections in affected districts.",
+    "category": "Fiscal Policy / Agriculture",
+    "source": "Telangana Agriculture Department, State Finance Ministry"
+  },
+  {
+    "title": "Indian Rupee Strengthens to ₹82.1; Export-Oriented Sectors See Margin Pressure",
+    "description": "The Indian rupee appreciated sharply to ₹82.1 per US dollar following a surge in foreign portfolio investment inflows driven by India's inclusion in a major global bond index. While rupee appreciation reduces import costs and helps contain inflation, export-oriented sectors including IT services, textiles, garments, and pharmaceuticals see margin pressure as their dollar-denominated revenues convert to fewer rupees. IT companies with unhedged positions estimate a 1.8-2.4% headwind to operating margins. Textile exporters in Tiruppur flag that at ₹82, their competitiveness against Vietnamese and Bangladeshi competitors is significantly eroded.",
+    "category": "Currency / Trade",
+    "source": "NSE Forex Data, Federation of Indian Export Organisations"
+  },
+  {
+    "title": "Global Lithium Carbonate Price Falls 72% From Peak; Indian EV Economics Improve",
+    "description": "Lithium carbonate prices on the Wuxi Stainless Steel Exchange fell 72% from their record high of $80,000 per tonne to $22,000 per tonne driven by a global surge in lithium mining capacity from Australia, Chile, and China coinciding with a slower-than-expected EV adoption in Western markets. For Indian EV manufacturers using LFP battery chemistry, the raw material cost reduction translates to a potential ex-factory vehicle cost reduction of ₹25,000-45,000 per vehicle. The improved battery economics are expected to accelerate EV adoption, particularly in the two-wheeler and three-wheeler segments where price sensitivity is highest.",
+    "category": "Commodity / Technology",
+    "source": "London Metal Exchange, Society of Electric Vehicle Manufacturers India"
+  },
+  {
+    "title": "India's Goods and Services Tax Collection Hits Record ₹1.87 Lakh Crore; Fiscal Position Improves",
+    "description": "India's monthly Goods and Services Tax collection reached a record ₹1.87 lakh crore, exceeding the previous record by 12.4% and running 18% above the budget estimate pace. The robust collection reflects both economic activity and improved compliance through e-invoicing mandates and enhanced GST Network analytics. The fiscal windfall improves the central government's ability to sustain infrastructure spending and capital expenditure programs without widening the fiscal deficit. Analysts note that the strong GST numbers are a coincident indicator of economic activity, particularly in manufacturing and services, suggesting near-term business conditions remain supportive.",
+    "category": "Fiscal Policy / Macroeconomics",
+    "source": "Ministry of Finance GST Monthly Data"
+  },
+  {
+    "title": "Myanmar Political Crisis Disrupts Teak and Timber Exports; Indian Furniture Industry Sourcing Under Pressure",
+    "description": "The ongoing political crisis in Myanmar, combined with international sanctions on the military government's timber revenue, has severely disrupted teak and hardwood exports from the country. Myanmar accounts for approximately 72% of the world's teak timber supply. Indian furniture manufacturers and construction companies that source teak for premium furniture and joinery are facing supply shortfalls and price increases of 45-65% for available stock. Alternative sources including plantation teak from Costa Rica and Ecuador are limited in volume and significantly more expensive. The Indian furniture cluster in Saharanpur and Jodhpur is the most severely affected region.",
+    "category": "Geopolitical / Supply Chain",
+    "source": "Forest Industries Association India, UN Comtrade"
+  },
+  {
+    "title": "North India Wheat Belt Faces Severe Pest Outbreak; Yellow Rust Detected in 6 Districts",
+    "description": "Yellow rust disease (Puccinia striiformis) has been detected in wheat crops across six districts in Haryana and four in Punjab, with agronomists warning that weather conditions — cool temperatures and high humidity — are ideal for rapid spread. The outbreak, if not contained, could damage 15-20% of the standing wheat crop in affected districts. The Indian Council of Agricultural Research is deploying emergency extension teams and fungicide distribution. Wheat commodity traders on NCDEX report a 5% price uptick in anticipation of potential supply reduction. The government has maintained its crop production estimate but is monitoring the situation closely.",
+    "category": "Natural Disaster / Agricultural",
+    "source": "ICAR-IARI Pest Monitoring Bulletin, Haryana Agriculture Department"
+  },
+  {
+    "title": "Microfinance Sector Stress: Rising NPAs in Rural AP and Telangana Trigger Credit Tightening",
+    "description": "Non-performing assets in the microfinance sector in rural Andhra Pradesh and Telangana rose to 8.2% — nearly double the national microfinance NPA average — following a combination of failed kharif crop, post-cyclone income disruption, and debt waiver political uncertainty. Several Microfinance Institutions have suspended fresh loan disbursements in 42 rural blocks. The credit tightening is affecting women-led self-help groups and micro-enterprises that depend on microfinance for working capital. Agri-input dealers, local kirana stores, and small artisan businesses in rural clusters report difficulty in accessing revolving credit.",
+    "category": "Financial / Credit",
+    "source": "MFIN Micrometer Report, RBI State-Level Supervision Data"
+  },
+  {
+    "title": "Global Aluminum Prices Rise 19% After Russia's Rusal Faces New Sanctions",
+    "description": "Aluminium prices on the London Metal Exchange surged 19% following the United States and EU imposing new sanctions on Russia's Rusal — one of the world's largest aluminium producers controlling 6% of global supply. The sanctions prohibit US and European entities from purchasing Rusal aluminium, forcing global buyers to source from alternative suppliers with tighter availability. Indian aluminium users — including cable manufacturers, packaging companies, automotive part makers, and consumer durables producers — face input cost increases of ₹22,000-28,000 per tonne. Indian primary aluminium producers Hindalco and Vedanta are benefiting from higher prices.",
+    "category": "Geopolitical / Commodity",
+    "source": "US OFAC Sanctions Register, London Metal Exchange"
+  },
+  {
+    "title": "India's PLI Scheme Attracts ₹85,000 Crore in Committed Investment; Employment and Supply Chain Implications",
+    "description": "The Production Linked Incentive scheme across 14 sectors has attracted committed investment of ₹85,000 crore with actual disbursements crossing ₹12,000 crore to qualifying manufacturers. Electronics, pharmaceuticals, medical devices, and food processing have seen the highest uptake. The PLI-linked manufacturing capacity is creating secondary demand for industrial land, utilities, and supply chain services in industrial corridors. States including Andhra Pradesh, Gujarat, Tamil Nadu, and Rajasthan are competing for PLI-linked anchor manufacturers. Local supplier development is becoming critical as PLI manufacturers seek to build domestic supply chains.",
+    "category": "Industrial Policy / Investment",
+    "source": "Ministry of Commerce and Industry PLI Monitoring Dashboard"
+  },
+  {
+    "title": "IT Sector Faces Demand Slowdown as US Tech Giants Freeze Discretionary Spending",
+    "description": "A wave of IT spending freezes and budget cuts by major US technology companies has rippled through India's IT services sector, with Infosys, Wipro, and HCL Technologies all guiding for slower revenue growth in the coming quarters. Deal pipeline conversion rates have slowed from 65% to 42% as American client decision cycles extend. Discretionary transformation projects are being deferred while clients focus on operational run-the-business IT. Entry-level hiring across the sector has been paused by most major employers. Fresher recruitment numbers in engineering colleges are falling, with secondary effects on campus placement ecosystems and entry-level professional services.",
+    "category": "Sectoral / Trade",
+    "source": "NASSCOM Industry Data, Company Investor Filings"
+  },
+  {
+    "title": "Andhra Pradesh Sand Mining Restriction Halts Construction Projects Worth ₹6,200 Crore",
+    "description": "The Andhra Pradesh High Court upheld a temporary ban on sand mining in 28 river blocks following environmental compliance violations, disrupting the supply of river sand — a critical construction material — across the state. Construction projects under the AP Capital Region Development Authority, housing programs, and private real estate developments are halting work due to sand unavailability. Sand prices in the black market have tripled. Cement and steel inventory that had been procured for upcoming construction phases is now idle. Contractors with time-bound project completion penalties face escalating liability.",
+    "category": "Regulatory / Construction",
+    "source": "Andhra Pradesh High Court Order, CRDA Andhra Pradesh"
+  },
+  {
+    "title": "Global Soybean Prices Spike on La Niña Crop Threat in South America",
+    "description": "Chicago Board of Trade soybean futures rose 21% after NOAA confirmed the development of a La Niña weather pattern expected to deliver below-normal rainfall across Argentina and Southern Brazil — the world's two largest soybean exporters — during the critical January-March growing period. Together these countries supply 52% of global soybean exports. India, which imports soybean oil and uses soybean meal for poultry and aquaculture feed, faces significant downstream cost increases. Poultry feed costs in Andhra Pradesh — India's largest poultry state — are expected to rise 18-24%, putting pressure on broiler meat and egg prices for consumers.",
+    "category": "Natural Disaster / Commodity / Global",
+    "source": "CBOT, NOAA La Niña Watch, ICRIER Agricultural Monitor"
+  },
+  {
+    "title": "Pakistan's Debt Default Risk Elevated; Trade and Banking Exposure Being Reviewed",
+    "description": "Pakistan's foreign exchange reserves fell to a critically low level of $4.2 billion — barely 3 weeks of import cover — and the IMF program review was stalled over fiscal compliance concerns, raising the probability of a sovereign debt restructuring. Indian businesses with any exposure to Pakistan — primarily through informal trade, third-country transaction, or payment flows — are reassessing their risk. Indian banks with correspondent banking relationships involving Pakistan-linked transactions are conducting enhanced due diligence. The crisis may redirect some Pakistani import demand toward third countries, creating indirect trade opportunities and risks.",
+    "category": "Sovereign Risk / Regional",
+    "source": "State Bank of Pakistan Data, IMF Staff Report"
+  },
+  {
+    "title": "India's Manufacturing PMI Drops to 51.2; New Export Orders Weakest in 14 Months",
+    "description": "India's Manufacturing Purchasing Managers Index fell to 51.2 in the latest monthly reading from 57.4 the previous month — remaining in expansion territory but showing the sharpest single-month deceleration in two years. New export orders sub-index fell to its weakest reading in 14 months, reflecting softer global demand. Input cost pressures remained elevated while output price growth slowed, suggesting margin compression for manufacturers. Inventory builds increased as production outpaced current demand. The PMI data is a leading indicator of Q2 manufacturing sector performance and is being closely watched by monetary policy makers.",
+    "category": "Economic Indicator",
+    "source": "S&P Global India Manufacturing PMI"
+  },
+  {
+    "title": "Ammonia Prices Surge 55% as Natural Gas Crisis Shuts European Fertilizer Plants",
+    "description": "A prolonged natural gas supply crisis in Europe has forced the shutdown of 22 ammonia and nitrogen fertilizer production facilities in Germany, Netherlands, and Belgium — together representing 18% of European fertilizer production capacity. Global ammonia prices surged 55% and urea spot prices followed up 32%. India, which is the world's largest urea importer, faces a higher import cost burden at a time when the fertilizer subsidy bill is already stretched. The government may need to revise upward the fertilizer subsidy allocation by ₹22,000-28,000 crore if urea import prices remain at current levels through the next rabi season.",
+    "category": "Energy / Commodity / Agriculture",
+    "source": "CRU Fertilizer Intelligence, Ministry of Chemicals and Fertilizers India"
+  },
+  {
+    "title": "Hyderabad Pharma Cluster Faces Water Scarcity; Bollaram Industrial Zone on Alert",
+    "description": "Acute groundwater depletion in the Bollaram and Patancheru industrial zones near Hyderabad — home to over 250 pharmaceutical, bulk drug, and chemical manufacturing units — has prompted the Hyderabad Metropolitan Water Supply authority to restrict industrial water allocation by 35%. Several pharmaceutical formulation plants that require large volumes of purified water for GMP-compliant manufacturing are assessing contingency measures including water tankers and recycling investments. The restrictions could reduce production capacity by 12-18% in the affected units over the summer months, with ripple effects on drug supply timelines.",
+    "category": "Environmental / Industrial",
+    "source": "Telangana Groundwater Department, Bulk Drug Manufacturers Association Hyderabad"
+  },
+  {
+    "title": "Cashew Export Prices Fall 22% as Vietnam Floods Market; Kerala and Goa Processors Hit",
+    "description": "Indian cashew export realisations fell 22% as Vietnamese cashew processors — with lower cost structures and higher processing efficiency — aggressively increased their market share in Europe and North America, undercutting Indian prices. Vietnam processes 90% of its cashew from raw nut imports (largely from West Africa), giving it flexibility unavailable to Indian processors who depend more on domestic supply. Cashew processing units in Kerala and Goa employing approximately 4.5 lakh workers (predominantly women) are operating at 60% capacity. The industry is seeking anti-dumping investigation support from the Ministry of Commerce.",
+    "category": "Trade / Sectoral",
+    "source": "Cashew Export Promotion Council of India, APEDA"
+  },
+  {
+    "title": "Zinc Prices Fall 16% on Oversupply; Galvanizing and Infrastructure Cost Implications",
+    "description": "London Metal Exchange zinc prices declined 16% on expectations of significant new mine supply coming online in Australia and Peru combined with weaker-than-expected Chinese construction activity reducing demand. Zinc is used primarily for galvanizing steel — a process critical for infrastructure, automotive, and construction applications. Indian galvanizing companies and steel producers using zinc coatings will benefit from lower input costs. Downstream infrastructure and construction projects will see modest savings on galvanized steel specifications. However, Indian zinc miner Hindustan Zinc may face revenue pressure at lower zinc prices.",
+    "category": "Commodity",
+    "source": "London Metal Exchange, International Zinc Association"
+  },
+  {
+    "title": "Extreme Heat Wave Triggers Agricultural Labour Migration; Rabi Harvest Facing Labour Shortage",
+    "description": "A prolonged heat wave with temperatures exceeding 47°C in Rajasthan, Madhya Pradesh, and parts of Maharashtra has triggered large-scale temporary migration of agricultural labourers to cooler regions, creating acute labour shortages for the rabi wheat harvest in Punjab and Haryana. Farm wages in Punjab rose 35% in spot labour markets as farmers competed for available workers. The shortage may delay harvest by 10-15 days, exposing the standing crop to heat stress that reduces grain quality. Combine harvester rental prices have also doubled as farmers accelerate mechanisation to compensate for labour unavailability.",
+    "category": "Climate / Labour / Agricultural",
+    "source": "Punjab Agriculture Department, Labour Bureau India"
+  },
+  {
+    "title": "Poultry Sector Faces Avian Influenza Scare; Egg and Chicken Prices Collapse Then Spike",
+    "description": "Detection of H5N1 Avian Influenza in poultry farms across three districts in Maharashtra triggered a culling drive affecting 1.4 million birds and a temporary consumer demand collapse driven by fear, even though health authorities confirmed the virus does not transmit through properly cooked poultry. Wholesale chicken prices fell 45% in the immediate two weeks post-announcement, causing severe losses for farmers. Following government messaging and restoration of consumer confidence, prices rebounded sharply, spiking 35% above pre-crisis levels as supply from culled birds was sharply reduced. The volatility highlights structural vulnerability in India's poultry supply chain.",
+    "category": "Natural Disaster / Agriculture",
+    "source": "Department of Animal Husbandry, National Egg Coordination Committee"
+  },
+  {
+    "title": "India Signs FTA with UAE; Gem and Jewellery Exporters See Immediate Benefit",
+    "description": "The Comprehensive Economic Partnership Agreement between India and UAE entered full force with immediate tariff elimination on 97% of Indian goods exported to UAE including gems, jewellery, textiles, pharmaceuticals, and engineering goods. Indian gem and jewellery exporters to UAE — who previously faced 5% duty — immediately benefit with a pricing advantage versus competitors from Turkey, Italy, and Thailand. The Gems and Jewellery Export Promotion Council estimates export growth of $2.8 billion over two years from the CEPA. Special Economic Zone units in SEEPZ Mumbai and GJEPC-certified exporters in Surat are the primary beneficiaries.",
+    "category": "Trade Policy / FTA",
+    "source": "Ministry of Commerce FTA Notification, GJEPC"
+  },
+  {
+    "title": "Bank NPAs in Stressed Agricultural Regions Rise; Credit Access for Farmers Tightens",
+    "description": "Non-performing asset ratios in agriculture loan portfolios at public sector banks in Andhra Pradesh, Vidarbha (Maharashtra), and parts of Rajasthan rose to 14.8% — double the national agriculture NPA average — following crop failures and an absence of effective crop insurance claim settlements. Several district cooperative banks in these regions have crossed 20% NPA levels, triggering RBI supervisory action and restrictions on fresh lending. The credit tightening is creating a vicious cycle: farmers cannot access credit to invest in next season's crop, perpetuating agrarian distress. Agri-input companies and rural retailers report a 30-45% drop in credit-linked sales.",
+    "category": "Banking / Agricultural Finance",
+    "source": "Reserve Bank of India State-Level Banking Data, NABARD"
+  },
+  {
+    "title": "Solar Module Prices Fall to Record Low; Rooftop Solar Adoption Accelerates for Businesses",
+    "description": "Solar module prices continued their multi-year decline, hitting a new record low of $0.18 per watt — down 68% over three years — driven by massive Chinese manufacturing overcapacity. For Indian businesses considering rooftop solar installations, the economics have become dramatically more favourable with payback periods shortening to 3.2 years on average. Industrial and commercial rooftop installations accelerated 78% in the latest quarter. Businesses in states with high commercial tariffs — including Karnataka, Tamil Nadu, and Maharashtra — are showing the fastest adoption. The trend reduces energy vulnerability for businesses that invest in solar assets.",
+    "category": "Energy / Technology",
+    "source": "Bridge to India Solar Research, Ministry of New and Renewable Energy"
+  },
+  {
+    "title": "Food Delivery Platform Commission Increase Triggers Restaurant Alliance Protest",
+    "description": "India's two largest food delivery platforms announced a 4-6 percentage point increase in commission rates, taking the average commission from 22% to 26-28% of order value. Restaurant chains and single-outlet operators reported the increase would make delivery-only economics untenable for many items on their menu. The National Restaurant Association of India called for an investigation under competition law, citing platform market dominance. Some restaurant clusters in Bengaluru and Mumbai coordinated a 3-day delivery blackout protest. The conflict highlights the growing dependency of the food services sector on aggregator platforms and the power asymmetry in the relationship.",
+    "category": "Regulatory / Business Environment",
+    "source": "National Restaurant Association India, Zomato & Swiggy Policy Announcements"
+  },
+  {
+    "title": "Iron Ore Export Duty Imposed at 50%; Steel Producers Benefit, Mining Companies Hit",
+    "description": "The Government of India imposed a 50% export duty on iron ore and iron ore pellets, effectively eliminating their export competitiveness to maintain domestic supply for steelmakers. The move benefits domestic steel producers who secure cheaper raw material but severely impacts iron ore mining companies in Odisha, Jharkhand, and Karnataka and iron ore pellet plant operators in Goa and Odisha. Shares of mining companies fell 18-24% on the announcement. The domestic iron ore price differential to global prices widens, putting Indian steelmakers in a cost-advantaged position relative to global peers. Downstream steel-using industries see indirect benefit.",
+    "category": "Trade Policy / Commodity",
+    "source": "Ministry of Finance Notification, Indian Steel Association"
+  },
+  {
+    "title": "Gulf Remittances to Kerala Rise Amid Middle East Construction Boom",
+    "description": "Remittance inflows to Kerala from Gulf Cooperation Council countries surged 28% following a massive construction and infrastructure boom linked to post-oil diversification investment programs in Saudi Arabia, UAE, and Qatar. Approximately 2.4 million Keralites work in GCC countries, and the remittance surge is providing significant liquidity to Kerala's economy. Real estate prices in Thrissur, Kozhikode, and Ernakulam districts are rising 12-18% driven by remittance-backed purchases. Consumer goods retailers, gold jewellers, and automobile dealers in Kerala report exceptional sales performance. The trend also reflects improving Gulf labour market conditions and visa regularisation programs.",
+    "category": "Macroeconomics / Regional",
+    "source": "Reserve Bank of India Remittance Data, Kerala Non-Resident Keralites Affairs Department"
+  },
+  {
+    "title": "Digital Payment Infrastructure Disruption: UPI Outage Affects 48 Hours of Transactions",
+    "description": "A major technical failure at the NPCI's UPI switching infrastructure caused intermittent service disruptions for 48 hours, affecting 300+ million UPI transactions that are typically processed daily. Small businesses, street vendors, and restaurants that have transitioned primarily to digital payments found their cash-on-hand reserves insufficient to manage the period of disruption. QR code-based payments at kirana stores failed entirely for extended periods. The incident highlighted the systemic risk concentration in a single digital payment rail and prompted NPCI to announce a redundancy upgrade programme. Affected merchants reported revenue losses of 30-40% during peak disruption hours.",
+    "category": "Infrastructure / Digital",
+    "source": "National Payments Corporation of India Incident Report"
+  },
+  {
+    "title": "Vietnam Textile Sector Gains Momentum; India Loses EU Textile Market Share",
+    "description": "Indian textile exporters lost approximately 3.2 percentage points of market share in EU apparel imports over the past year as Vietnam — benefiting from the EU-Vietnam Free Trade Agreement with 0% duty — undercut Indian manufacturers on price. India, which does not have an FTA with EU, still faces 9.6-12% duty on garments. The competitive disadvantage is most acute for commodity cotton garments where price sensitivity is highest. Premium brands and sustainability-focused buyers continue to prefer Indian suppliers for quality and ethical sourcing considerations, but volume-based order decisions are increasingly tilting toward Vietnam.",
+    "category": "Trade Policy / Competition",
+    "source": "Confederation of Indian Textile Industry, EU Trade Statistics"
+  },
+  {
+    "title": "Groundnut Oil Prices Spike 32% After Drought Damages Gujarat Crop",
+    "description": "Retail groundnut oil prices surged 32% following confirmation that erratic monsoon rainfall in Gujarat's Saurashtra region — the primary groundnut growing area accounting for 65% of national production — damaged approximately 28% of the standing kharif groundnut crop. Gujarat government's crop damage assessment estimated losses of ₹4,800 crore to farmers. Domestic groundnut oil crushers are competing aggressively for reduced kharif arrivals, pushing up raw material costs sharply. South India's filter coffee culture, which traditionally uses groundnut oil, and the snack food industry (chivda, sev manufacturers) are among the most affected downstream consumers.",
+    "category": "Natural Disaster / Commodity",
+    "source": "Gujarat Agriculture Department, National Horticultural Board"
+  },
+  {
+    "title": "India's E-Commerce Sector Faces New FDI and Inventory Rules; Marketplace Models Disrupted",
+    "description": "Revised FDI and e-commerce policy guidelines restrict online marketplace platforms from offering deep discounts funded by equity-linked commercial arrangements with sellers, mandate additional local procurement compliance, and require disclosure of seller information on every listing. The new rules target large marketplace operators. Domestic electronics, fashion, and appliance sellers report disruption in their promotional planning calendars. Several large brands that had exclusive online launch arrangements are renegotiating distribution strategies. The policy shift is expected to benefit traditional retail channels and smaller online sellers who had been squeezed by the discount-first model of well-funded marketplace operators.",
+    "category": "Regulatory / E-Commerce",
+    "source": "Department for Promotion of Industry and Internal Trade Notification"
+  },
+  {
+    "title": "Andhra Pradesh Faces Severe Drought in Rayalaseema; Rabi Sowing Reduced 40%",
+    "description": "Rayalaseema, comprising the districts of Kurnool, Kadapa, Anantapur, and Chittoor in Andhra Pradesh, is experiencing one of its most severe drought years on record, with the southwest monsoon delivering 54% below-normal rainfall. Groundwater levels in the region have fallen to record lows, rendering bore wells in 1,200 villages non-functional. Rabi sowing of groundnuts, maize, and sunflower has reduced 40% compared to the previous year's average. Crop failure across the season will severely impact farmer income in the region. NREGA employment programs are being scaled up but are insufficient to compensate for lost agricultural income. Distress migration to Bengaluru and Hyderabad is increasing.",
+    "category": "Natural Disaster / Agricultural / Social",
+    "source": "Andhra Pradesh Agriculture Department, IMD Rayalaseema Drought Assessment"
+  },
+  {
+    "title": "Global Shipping Costs Normalise; Indian Importers Save ₹28,000 Crore Annually",
+    "description": "Global container shipping freight rates have normalised to near pre-pandemic levels following the resolution of port congestion, return of shipping capacity, and moderation in global goods demand. India-US west coast freight rates have fallen from a peak of $18,000 per 40-foot container to $1,800. Indian importers of electronics, machinery, chemicals, and consumer goods are seeing significant landed cost improvements. The easing of logistics costs is a meaningful dis-inflationary factor for the Indian economy, contributing to lower imported goods prices. Supply chain diversification investments made during the period of high freight rates are now being reassessed for ROI justification.",
+    "category": "Logistics / Macroeconomics",
+    "source": "Freightos Baltic Index, Federation of Indian Import Organisations"
+  },
+  {
+    "title": "Karnataka Raises Minimum Wage by 20%; Garment and Manufacturing Sector Adjusting",
+    "description": "The Karnataka government issued a minimum wage revision order increasing minimum wages for unskilled workers by 20% and semi-skilled workers by 17%, citing cost of living increases in Bengaluru and other urban centres. The garment manufacturing sector in Bengaluru, which employs approximately 4.5 lakh workers, will see wage bill increases of ₹800-1,200 per worker per month. Garment exporters serving international brands with fixed-price purchase orders are most affected, as they cannot pass on cost increases to buyers mid-contract. Several manufacturers are assessing automation investments in sewing and cutting operations to reduce dependence on manual labour over the medium term.",
+    "category": "Labour Policy",
+    "source": "Karnataka Department of Labour Minimum Wage Notification"
+  },
+  {
+    "title": "Major Earthquake Near Myanmar Border Disrupts Northeast India Supply Chain",
+    "description": "A magnitude 6.8 earthquake with epicentre near the India-Myanmar border caused significant damage to highway infrastructure on NH-37 and NH-54 — the primary road links for Mizoram, Manipur, and Nagaland — and triggered landslides that blocked the roads at 14 points. Essential commodity supply to the three states is severely disrupted. Fuel prices in Imphal and Aizawl have risen 40% as petrol station stocks deplete. Food prices are rising sharply as vegetable and grain supplies from the rest of India are interrupted. Military helicopters are being used for emergency supplies to remote areas. Road restoration is expected to take 45-75 days.",
+    "category": "Natural Disaster / Infrastructure",
+    "source": "National Disaster Management Authority, Border Roads Organisation"
+  },
+  {
+    "title": "Indian Gold Imports Spike 45% on Price Dip; Current Account Under Pressure",
+    "description": "A temporary correction in global gold prices of 9% triggered a surge in Indian gold imports, which rose 45% year-on-year as consumers, jewellers, and investors accelerated purchases ahead of the wedding season. Monthly gold import value reached $5.8 billion — its highest in 28 months — putting additional pressure on India's current account deficit, which already faces headwinds from elevated oil import costs. The RBI expressed concern about gold import volumes in its semi-annual financial stability report. Import duty on gold currently stands at 15%, and any revision will immediately impact jewellery retail pricing and grey market dynamics.",
+    "category": "Commodity / Trade Balance",
+    "source": "Ministry of Commerce Import Data, World Gold Council India"
+  },
+  {
+    "title": "India's Credit Rating Outlook Revised to Positive by Moody's; Investment Cycle Expected to Accelerate",
+    "description": "Moody's Investors Service revised India's sovereign credit rating outlook from Stable to Positive — a step toward a potential rating upgrade from Baa3 — citing improving fiscal management, declining public debt trajectory, infrastructure investment momentum, and structural reform implementation. The outlook revision is expected to reduce India's sovereign borrowing costs and improve the credit conditions for Indian corporates in international debt markets. Indian companies with outstanding foreign currency bonds saw their spreads narrow by 18-25 basis points. The rating action is expected to unlock additional foreign direct investment across manufacturing, infrastructure, and services sectors over a 12-18 month horizon.",
+    "category": "Sovereign / Macroeconomics",
+    "source": "Moody's Investors Service Rating Action Statement"
+  }
+]

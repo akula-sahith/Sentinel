@@ -1,0 +1,716 @@
+ [
+    {
+      "title": "Cyclone Remal Devastates West Bengal Coast, Bengal Delta Agriculture Collapses",
+      "description": "Cyclone Remal made landfall near Sagar Island with 135 km/h sustained winds and a 3-metre storm surge inundating 1.8 lakh hectares of standing paddy and vegetable crops across South 24 Parganas, North 24 Parganas, and Purba Medinipur. Over 80,000 MT of potato stored in Hooghly cold storages suffered water ingress damage. Haldia Port suspended bulk cargo operations for 8 days. Tomato and brinjal prices in Kolkata markets rose 45% within two weeks of landfall. Estimated agricultural losses across the Bengal delta reached ₹4,800 crore.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / West Bengal State Disaster Management Authority"
+    },
+    {
+      "title": "Kerala Wayanad Catastrophic Landslide Buries Plantation Settlements, Pepper and Coffee Supply Disrupted",
+      "description": "Catastrophic landslides triggered by 572 mm of rainfall in 48 hours buried the plantation settlements of Mundakkai and Chooralmala in Wayanad district killing over 400 people and destroying 3,500 hectares of tea coffee and pepper plantations. Wayanad produces 60% of Kerala's black pepper output. Global pepper prices rose 22% as traders assessed supply damage. Cardamom and coffee procurement by exporters in Kozhikode and Kochi was suspended for 6 weeks pending road restoration. Insurance claims exceeded ₹1,800 crore.",
+      "category": "natural_disaster",
+      "source": "Kerala State Disaster Management Authority / Spices Board of India"
+    },
+    {
+      "title": "Cyclone Dana Devastates Odisha Coast, Srikakulam Cashew Belt Comprehensively Destroyed",
+      "description": "Cyclone Dana made landfall in Odisha's Bhadrak district with 100 km/h winds tracking through Srikakulam, Vizianagaram, and Parvathipuram Manyam districts. India's largest cashew cultivation belt across 1.4 lakh hectares reported 60–70% orchard damage. Cashew export projections revised down by $340 million for the following season. Paradip and Dhamara ports suspended operations for 7 days delaying bulk cargo worth ₹2,200 crore.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / Cashew Export Promotion Council of India"
+    },
+    {
+      "title": "Cyclone Fengal Puducherry Landfall Triggers Record Rainfall, Cuddalore Chemical Estate Flooded",
+      "description": "Cyclone Fengal made landfall near Puducherry depositing a record 50 cm of rainfall in a single day across Cuddalore, Villupuram, and South Arcot districts — the highest 24-hour rainfall ever recorded in Tamil Nadu. Cuddalore SIPCOT chemical industrial estate housing 200 manufacturing units was submerged for 9 days causing production losses of ₹1,800 crore. Paddy standing in 1.8 lakh hectares was declared unharvestable. Pharmaceutical API manufacturers face regulatory re-validation before restart.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / Tamil Nadu State Disaster Management Authority"
+    },
+    {
+      "title": "Andhra Pradesh Northeast Monsoon Depression Floods 14 Districts, Chilli Belt Severely Damaged",
+      "description": "An intense northeast monsoon depression caused catastrophic flooding across 14 districts of Andhra Pradesh inundating 2.8 lakh hectares of paddy. Kurnool Nandyal and Prakasam districts reported complete crop loss across 80,000 hectares. Guntur and Krishna districts — India's chilli capital — faced 35% production loss with wholesale chilli prices rising 48% within three weeks. Insurance claims under PMFBY exceeded ₹3,200 crore.",
+      "category": "natural_disaster",
+      "source": "AP State Disaster Management Authority / India Meteorological Department Chennai"
+    },
+    {
+      "title": "Japan Noto Peninsula Major Earthquake Disrupts Precision Component Supply to Indian Manufacturers",
+      "description": "A major earthquake struck Ishikawa Prefecture's Noto Peninsula severely damaging precision ceramic and forging component manufacturing facilities supplying the global automotive and semiconductor industries. Several specialised suppliers to Indian auto component manufacturers suspended operations for 4–8 weeks. Indian automotive OEMs including major passenger car and commercial vehicle manufacturers report expected component shortages affecting 3–5 weeks of production schedules. Just-in-time inventory models proved critically vulnerable.",
+      "category": "natural_disaster",
+      "source": "Japan Meteorological Agency / Automotive Component Manufacturers Association of India"
+    },
+    {
+      "title": "Brazil Rio Grande do Sul Catastrophic Floods Destroy Soy Corn and Wine Production Belt",
+      "description": "Brazil's southernmost state experienced its worst floods in recorded history with over 90% of municipalities declared under emergency. Soy and corn production areas suffered total crop losses across 800,000 hectares. Rio Grande do Sul's wine producing valleys lost an entire vintage. Indian crush industry faces deferred input supply and spot price premium of $18–22 per tonne for soy. Global corn futures rose 14% within two weeks of the disaster's full scope becoming clear.",
+      "category": "natural_disaster",
+      "source": "Brazilian Federal Emergency Management Agency / Solvent Extractors Association of India"
+    },
+    {
+      "title": "Spain Valencia Flash Floods Kill 220, Destroy Mediterranean Citrus and Agricultural Export Infrastructure",
+      "description": "Catastrophic flash flooding across Valencia province killed over 220 people and destroyed 85,000 hectares of citrus orchards rice paddies and greenhouse vegetable operations in Spain's most productive agricultural region. Spain accounts for 28% of Europe's citrus exports. Global orange and clementine prices rose 32%. Indian citrus exporters from Nagpur and Andhra Pradesh receive emergency orders from European buyers seeking alternative sourcing providing a short-term export windfall.",
+      "category": "natural_disaster",
+      "source": "Spanish Emergency Response Agency / European Commission Agriculture Monitor"
+    },
+    {
+      "title": "Typhoon Yagi Devastates Vietnam and Philippines, Rice and Electronics Supply Chains Severely Disrupted",
+      "description": "Super Typhoon Yagi — the strongest typhoon to hit the region in a decade — caused catastrophic damage across northern Vietnam and the Philippines with 230 km/h sustained winds. Vietnam's Red River Delta rice crop suffered 40% damage across 1.8 million hectares. Samsung and LG electronics component facilities in Hanoi's industrial corridors suspended operations for 3 weeks. Indian electronics assemblers dependent on Vietnamese PCB components face 4–6 week supply disruptions affecting ₹2,400 crore in production.",
+      "category": "natural_disaster",
+      "source": "Vietnam National Centre for Hydro-Meteorological Forecasting / Semiconductor Industry Association"
+    },
+    {
+      "title": "Hurricane Helene Devastates US Southeast, Global Reinsurance Costs Spike Affecting Indian Insurers",
+      "description": "Hurricane Helene made landfall in Florida as a Category 4 storm before tracking inland and causing catastrophic flooding across Georgia South Carolina and North Carolina. Insured losses exceeded $47 billion. Global reinsurance premiums rose 35% in the following quarter. Indian commercial insurance costs for property and business interruption coverage rose 18–22% at renewal as reinsurers recalibrate global catastrophe models affecting every medium and large business across India.",
+      "category": "natural_disaster",
+      "source": "National Hurricane Center USA / General Insurance Council of India"
+    },
+    {
+      "title": "Hurricane Milton Strikes Tampa Bay Causing Historic Storm Surge, Indian Phosphate Imports Delayed",
+      "description": "Hurricane Milton made landfall near Siesta Key Florida as a Category 3 storm after rapidly intensifying to Category 5 in the Gulf of Mexico. Tampa Bay's industrial waterfront sustained 4–6 metre inundation. Port Tampa Bay — Florida's largest port by tonnage — suspended operations for 14 days. Global shipping insurance premiums for Gulf of Mexico routing rose 45%. Indian phosphate imports transiting through Tampa face 3-week delays disrupting Rabi season fertiliser supply.",
+      "category": "natural_disaster",
+      "source": "National Hurricane Center USA / Swiss Re Sigma"
+    },
+    {
+      "title": "Sikkim Glacial Lake Outburst Destroys Teesta Hydropower Projects, Northeast India Grid Destabilised",
+      "description": "A glacial lake outburst from South Lhonak Lake in North Sikkim released 40 million cubic metres of water completely destroying the 1,200 MW Teesta-III hydropower project and severely damaging five smaller plants with combined capacity of 600 MW. The northeast power grid lost 1,800 MW of installed capacity overnight. Sikkim's industrial sector faces 40–50% power deficit for 18–24 months. Tea estates and food processing units face acute power rationing at costs 6 times normal tariffs.",
+      "category": "natural_disaster",
+      "source": "Central Water Commission India / NHPC Limited"
+    },
+    {
+      "title": "Dubai and UAE Unprecedented Flash Floods Paralyse Gulf Business Hub, Indian Remittances Disrupted",
+      "description": "The UAE experienced its heaviest rainfall in 75 years with Dubai recording 254 mm in 24 hours — equivalent to two years of normal annual rainfall — flooding Dubai International Airport submerging major highways and disrupting Jebel Ali Port for 4 days. Indian businesses operating through Dubai as a re-export and trade finance hub face settlement delays of 2–3 weeks. Indian expatriates report workplace disruption affecting billions in monthly remittances.",
+      "category": "natural_disaster",
+      "source": "UAE National Centre of Meteorology / Dubai Chamber of Commerce"
+    },
+    {
+      "title": "Morocco High Atlas Earthquake Damages Phosphate Mining Infrastructure, Indian DAP Imports Costlier",
+      "description": "A magnitude 6.8 earthquake struck Morocco's High Atlas region near Marrakech killing over 2,800 people and damaging road infrastructure critical to OCP Group's phosphate mining in the Khouribga plateau. Morocco controls 70% of global phosphate reserves. Transportation disruptions are projected to reduce phosphate export capacity by 15–20% for 4–6 months. India's DAP fertiliser imports face a price increase of $45–60 per tonne with Rabi season procurement under serious cost pressure.",
+      "category": "natural_disaster",
+      "source": "Moroccan National Seismic Monitoring Network / OCP Group"
+    },
+    {
+      "title": "Libya Dam Collapse Destroys Derna City, Mediterranean Crude Export Capacity Severely Reduced",
+      "description": "The catastrophic collapse of two upstream dams in Libya's Wadi Derna basin killed approximately 11,000 people and destroyed the port city of Derna. Libya's eastern oil export capacity fell by 120,000 barrels per day for over a month as terminal access roads were washed away. Brent crude rose 3.2% on global supply tightening. India's state refiners who had signed spot term contracts for Libyan light crude activated contingency procurement from West Africa at a $4 per barrel premium.",
+      "category": "natural_disaster",
+      "source": "Libyan Red Crescent / S&P Global Commodity Insights"
+    },
+    {
+      "title": "Bangladesh Catastrophic Monsoon Floods Submerge Garment Export Zones, Indian Factories Surge",
+      "description": "Record flooding across Bangladesh's Sylhet Mymensingh and Cumilla divisions inundated key garment export processing zones in Narayanganj and Gazipur. Over 400 garment factories halted production for 2–4 weeks. Global fast fashion buyers including H&M Primark and Next activated emergency sourcing from India's Tiruppur and Bengaluru clusters. Indian garment manufacturers report a 50% surge in rush orders with premium pricing of 12–18% above normal contract rates.",
+      "category": "natural_disaster",
+      "source": "Bangladesh Meteorological Department / Apparel Export Promotion Council India"
+    },
+    {
+      "title": "Nepal Monsoon Floods and Landslides Cut Himalayan Trade Corridors, Indian Exporters Face Disruption",
+      "description": "Record monsoon rainfall across Nepal triggered over 2,800 landslides blocking all major trade corridors connecting India with China through Nepal including the Tatopani and Rasuwagadhi border checkpoints. Trade worth $1.8 billion annually through these corridors was suspended for 6–8 weeks. Indian exporters of FMCG pharmaceuticals and construction materials to Nepal report order accumulation creating a post-flood supply surge opportunity worth ₹1,200 crore.",
+      "category": "natural_disaster",
+      "source": "Nepal Meteorological Forecasting Division / Department of Commerce Nepal"
+    },
+    {
+      "title": "Pakistan Monsoon Floods Submerge Sindh and Punjab, Cotton and Rice Crops Destroyed",
+      "description": "Pakistan's monsoon brought 180% of normal rainfall across Sindh and Punjab provinces submerging 8 million hectares of agricultural land. Cotton production suffered a further 2.8 million bale reduction. Basmati rice exports from Punjab fell 35% below contracted volumes. Indian cotton yarn exporters received emergency procurement orders from Pakistani textile mills. Informal trade payment settlement through UAE intermediaries faced complications from heightened sanctions scrutiny.",
+      "category": "natural_disaster",
+      "source": "Pakistan Meteorological Department / Cotton Association of India"
+    },
+    {
+      "title": "East Africa Kenya Tanzania Floods Kill 300, Tea and Coffee Exports Severely Disrupted",
+      "description": "An exceptionally active Indian Ocean Dipole event triggered catastrophic floods across Kenya Tanzania and Ethiopia killing over 300 people. Kenya's tea-growing highlands in Kericho and Nandi were severely impacted with access roads washed out for 6 weeks. Kenya supplies 22% of global black tea exports. Tea auction prices at Mombasa and Kolkata rose 30%. Indian consumer prices for packet tea rose 12% within 8 weeks. Ethiopian coffee arabica supply disruption pushed ICE futures above $3.80 per pound.",
+      "category": "natural_disaster",
+      "source": "Kenya Red Cross / East Africa Tea Trade Association"
+    },
+    {
+      "title": "Uttarakhand Cloudburst Season Breaks Landslide Records, Char Dham Tourism Revenue Wiped Out",
+      "description": "The monsoon season across Uttarakhand's Garhwal and Kumaon divisions triggered a record 3,200 landslides — the highest ever recorded in a single season — destroying 23 bridges and blocking the Char Dham yatra motorway at multiple points. Hotel operators and transport businesses in Rishikesh Haridwar and the Char Dham corridor report combined revenue losses of ₹3,400 crore. Apple and stone fruit orchards in the Kumaon hills reported 40% production loss from concurrent hailstorm events.",
+      "category": "natural_disaster",
+      "source": "NDRF India / Uttarakhand Disaster Management Authority"
+    },
+    {
+      "title": "Assam Floods Breach National Highway, Northeast India Fuel and LPG Supply Chain Collapses",
+      "description": "Record flooding in Assam submerged National Highway 27 — the lifeline connecting Northeast India — at 14 locations simultaneously for 22 days isolating all seven northeastern states from road supply. LPG cylinder prices rose ₹180 on the black market. Petrol and diesel availability fell to 30% of normal demand with queues stretching 2 km at operational pumps. Essential medicines and food staples faced acute shortages. Total economic disruption cost estimated at ₹8,400 crore across the region.",
+      "category": "natural_disaster",
+      "source": "NHAI India / Assam State Disaster Management Authority"
+    },
+    {
+      "title": "Godavari River Records Second Highest Flood Level in History, Aquaculture and Paddy Devastated",
+      "description": "The Godavari river recorded 62 feet at Dowleswaram barrage — the second highest in recorded history — inundating 3.8 lakh hectares of standing Kharif paddy across East Godavari West Godavari and Eluru districts. Aquaculture pond infrastructure along the delta sustained ₹1,600 crore in damage. Shrimp farming households report complete pond stock losses with 2.2 lakh workers facing income disruption. Crop insurance claims are expected to exceed ₹5,400 crore.",
+      "category": "natural_disaster",
+      "source": "AP Water Resources Department / Marine Products Export Development Authority India"
+    },
+    {
+      "title": "Tamil Nadu Northeast Monsoon Strongest in Three Decades, Chennai IT Corridor Paralysed",
+      "description": "The northeast monsoon delivered 340% of normal rainfall across Tamil Nadu with Chennai recording its second-highest ever single-day rainfall at 34 cm. OMR and Sholinganallur IT corridors were flooded for 6–8 days forcing business continuity protocols at major IT company campuses. Automotive manufacturing at Oragadam was suspended for 4 days. Total economic losses estimated at ₹11,200 crore with IT sector alone losing ₹2,800 crore in productivity.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / Tamil Nadu State Disaster Management Authority"
+    },
+    {
+      "title": "Himalayan Glacier Retreat Accelerates at Record Pace, Long-Term River Flow Security Threatened",
+      "description": "ISRO satellite data confirms Himalayan glaciers lost 1,420 sq km of area in the past decade — the fastest recession on record. The Chorabari glacier feeding Kedarnath saw 18% volume loss creating a new glacial lake with outburst risk assessed at high probability within 24 months. Rivers including the Ganga Yamuna and Brahmaputra face permanently altered seasonal flow patterns. Agricultural water security planning across 6 states requires immediate revision with insurance sector raising flood risk premiums by 28%.",
+      "category": "natural_disaster",
+      "source": "ISRO Space Applications Centre / National Mission for Sustaining the Himalayan Ecosystem"
+    },
+    {
+      "title": "Andhra Pradesh Extreme Heatwave Sustains Record Temperatures, Power Grid Fails Across Eight Districts",
+      "description": "An extreme heatwave across Andhra Pradesh sustained 46–48°C for 14 consecutive days in Ongole Kurnool Nandyal and Tirupati districts killing 52 people. Electricity demand reached 19,400 MW — far exceeding 14,800 MW installed capacity — triggering rolling power cuts of 10–12 hours in rural areas. Cold storage operators report ₹420 crore in spoilage losses. Poultry mortality across Nandyal and Kurnool districts exceeded 18 lakh birds causing poultry prices to spike 35% across South India.",
+      "category": "natural_disaster",
+      "source": "APSDPS / AP Southern Power Distribution Company"
+    },
+    {
+      "title": "Iceland Reykjanes Peninsula Volcanic Eruption Disrupts North Atlantic Aviation, Indian Pharma Exports Hit",
+      "description": "The eruption of Reykjanes Peninsula volcanoes — which entered a new active phase — triggered volcanic ash cloud advisories across the North Atlantic forcing cancellation of 5,200 transatlantic and European flights over 11 days. Temperature-sensitive air freight including pharmaceutical products fresh flowers and perishable foods facing European destinations from India report spoilage losses of ₹420 crore. Air cargo rates on Europe routes surged 60% as shippers sought sea freight alternatives.",
+      "category": "natural_disaster",
+      "source": "Iceland Meteorological Office / Airports Authority of India"
+    },
+    {
+      "title": "China Pearl River Delta Flooding Disrupts Electronics Component Manufacturing, Indian Assemblers Hit",
+      "description": "Record flooding across China's Hunan Guangdong and Fujian provinces — the worst in 50 years — disrupted electronics component manufacturing in the Pearl River Delta. Over 340 component suppliers to smartphone and consumer electronics brands suspended operations for 2–3 weeks. Indian smartphone assemblers in Noida and Chennai report component shortages expected to delay 4–6 million handset units. Major handset brands activated India and Vietnam alternate sourcing.",
+      "category": "natural_disaster",
+      "source": "Chinese Ministry of Emergency Management / India Electronics and Semiconductor Association"
+    },
+    {
+      "title": "El Niño Drought Devastates Southeast Asian Rice Production, India Faces Export Demand Surge",
+      "description": "A strong El Niño pattern reduced rainfall by 35–45% across Thailand Vietnam and the Philippines during the main rice growing season. Thailand's rice export availability fell 4.2 million tonnes. Vietnam restricted exports to protect domestic food security. India faces intensified demand from Africa and the Middle East. Domestic rice prices in Andhra Pradesh and Telangana rose 18–22% as stockists build inventory ahead of anticipated scarcity.",
+      "category": "natural_disaster",
+      "source": "FAO Rice Market Monitor / Thailand Rice Exporters Association"
+    },
+    {
+      "title": "Gujarat Saurashtra Flash Floods Destroy Groundnut Crop, National Edible Oil Prices Spike",
+      "description": "Unprecedented heavy rainfall in Saurashtra — receiving 210% of normal monsoon in a single week — destroyed standing groundnut crops across Rajkot Junagadh Amreli and Bhavnagar districts. Gujarat produces 40% of India's groundnut. Estimated crop loss of 2.1 million tonnes pushed domestic groundnut oil prices up 38% within three weeks. Oil mills in Rajkot and Gondal report procurement volumes down 65%. Downstream food processing and snack manufacturing companies face severe input cost pressure.",
+      "category": "natural_disaster",
+      "source": "Gujarat Agricultural Department / Solvent Extractors Association of India"
+    },
+    {
+      "title": "Maharashtra Marathwada Water Crisis Deepens, Sugar Cooperative Mills Face Mass Closure",
+      "description": "Maharashtra's Marathwada region recorded dam storage at 12% of capacity following three consecutive deficient monsoon years. Sugarcane sown area in Aurangabad Latur and Osmanabad fell 55% below normal. Maharashtra's sugar output projected to fall 4.8 million tonnes below previous year disrupting India's position as a global sugar exporter. Molasses-based ethanol blending programme faces raw material shortage threatening India's fuel blending targets.",
+      "category": "natural_disaster",
+      "source": "Maharashtra Water Resources Department / Indian Sugar Mills Association"
+    },
+    {
+      "title": "Myanmar Monsoon Floods Destroy Pulse Crop, India Dal Prices Surge Across Markets",
+      "description": "Myanmar experienced its worst monsoon flooding in two decades with Sagaing Mandalay and Bago regions recording 280% of normal rainfall destroying standing urad and pigeon pea crops across 1.8 million hectares. Myanmar supplies 35% of India's black gram and pigeon pea imports. Wholesale dal prices in Andhra Pradesh Maharashtra and Karnataka markets rose 28–35% within 3 weeks. Dal mills report 45% fall in procurement. NAFED activated buffer stock release of 180,000 MT to stabilise markets.",
+      "category": "natural_disaster",
+      "source": "Myanmar Pulses Beans and Sesame Seeds Merchants Association / NAFED India"
+    },
+    {
+      "title": "Karnataka Coffee Belt Hit by Dry Spell Followed by Violent Hailstorm, Exports Face Shortfall",
+      "description": "Karnataka's Chikmagalur Coorg and Hassan coffee belt experienced a brutal combination of a 45-day dry spell during flowering followed by violent hailstorms destroying approximately 18% of standing coffee and 12% of pepper crop. Karnataka produces 70% of India's coffee. Arabica and robusta prices at Bengaluru auction rose 42% within 6 weeks. ICE arabica futures crossed $3.90 per pound. Export commitments to European and Japanese specialty buyers face volume shortfall alerts.",
+      "category": "natural_disaster",
+      "source": "Coffee Board of India / Karnataka Planters Association"
+    },
+    {
+      "title": "Telangana Pharma City Floods Halt API Manufacturing, Global Drug Supply Chains Raise Alerts",
+      "description": "Severe flooding across Hyderabad's Genome Valley and Pashamylaram pharmaceutical manufacturing clusters — triggered by 340 mm of rainfall in 36 hours — inundated 90 API and formulation manufacturing units. Over 45 GMP-certified facilities face contamination assessments requiring regulatory re-validation before restart. Monthly production disruption affects ₹3,800 crore in API output. Global generic drug supply chains raise emergency alerts as Indian API shortages are flagged to US FDA and EMA.",
+      "category": "natural_disaster",
+      "source": "Telangana State Disaster Management Authority / Indian Pharmaceutical Alliance"
+    },
+    {
+      "title": "Himachal Pradesh Monsoon Landslides Break All Records, Tourism Sector Completely Paralysed",
+      "description": "Himachal Pradesh experienced 3,100 landslides during the monsoon — surpassing all previous records — burying the Shimla-Chandigarh National Highway at 52 locations and cutting off Shimla for 14 consecutive days. Tourism revenue losses during the peak season reached ₹5,200 crore. Apple orchards in Shimla Kinnaur and Kullu districts suffered infrastructure losses with harvest season access blocked for 180 panchayats. Apple prices at Delhi's Azadpur mandi rose 95% due to supply collapse.",
+      "category": "natural_disaster",
+      "source": "Himachal Pradesh Disaster Management Authority / HP Tourism Development Corporation"
+    },
+    {
+      "title": "Rajasthan and Gujarat Pre-Monsoon Heatwave Sustains Fifty Degrees, Salt and Marble Mining Halted",
+      "description": "A severe pre-monsoon heatwave sustaining 48–50°C across Rajasthan's Barmer Jaisalmer and Jodhpur districts and Gujarat's Kutch region for 20 days killed 340 people and forced suspension of all outdoor mining operations. Rajasthan's marble quarrying sector — producing 90% of India's marble — halted operations for 4 weeks. Gujarat's Rann of Kutch salt production — contributing 70% of India's salt output — was disrupted for 5 weeks. Combined mining sector losses exceeded ₹2,800 crore.",
+      "category": "natural_disaster",
+      "source": "Rajasthan State Disaster Management Authority / Salt Manufacturers Association of India"
+    },
+    {
+      "title": "Delhi NCR Extreme Air Quality Crisis Logistics and Manufacturing Paralysed for Three Weeks",
+      "description": "Simultaneous paddy stubble burning across 2.1 million hectares in Punjab and Haryana combined with adverse meteorological conditions pushed Delhi's AQI above 950 for 18 consecutive days. Delhi Transport Authority imposed diesel truck entry restrictions disrupting 310,000 tonnes of goods movement daily. Cold chain disruption caused ₹1,100 crore in perishable losses. Construction activity across NCR halted under GRAP Stage 4 restrictions costing ₹3,200 crore in deferred project progress.",
+      "category": "natural_disaster",
+      "source": "Central Pollution Control Board / Delhi Transport Authority"
+    },
+    {
+      "title": "Bihar and Eastern UP Kosi River Floods Destroy Maize and Paddy, Livestock Losses Catastrophic",
+      "description": "Severe flooding across 42 districts of Bihar and eastern Uttar Pradesh inundated 3.1 million hectares of standing kharif crops. Maize crop in the Kosi-Seemanchal region reported 85% loss — Bihar's most commercially important crop. Livestock mortality reached 220,000 cattle and buffaloes devastating rural household economies. Bihar's contribution to national paddy procurement fell 35% below target triggering emergency inter-state procurement from Andhra Pradesh and Chhattisgarh at premium prices.",
+      "category": "natural_disaster",
+      "source": "Bihar State Disaster Management Authority / Ministry of Agriculture India"
+    },
+    {
+      "title": "Odisha Floods Submerge Industrial Corridors, Aluminium and Steel Output Drops Sharply",
+      "description": "Record flooding in the Mahanadi and Brahmani river basins inundated industrial estates in Angul Jharsuguda and Sambalpur districts. Vedanta's Jharsuguda aluminium smelter suspended operations for 15 days while NALCO's complex operated at 55% capacity. Odisha produces 45% of India's aluminium. Downstream pressure on construction packaging and cable industries caused supply chain cost increases of 12–18%. Total metals sector disruption costs exceeded ₹4,100 crore.",
+      "category": "natural_disaster",
+      "source": "Odisha State Disaster Management Authority / Aluminium Association of India"
+    },
+    {
+      "title": "Panama Canal Drought Reduces Transit Capacity by Half, Indian Pharma and Auto Exports Disrupted",
+      "description": "The Panama Canal's severe drought year further reduced daily transits from 36 to 18 as reservoir levels fell to 60-year lows despite emergency conservation measures. Vessel waiting times extended to 28–35 days at peak congestion. Indian automotive component and pharmaceutical exporters using the Pacific route to the US East Coast report freight timeline disruptions adding $180–220 per tonne to logistics costs. Several Indian pharma companies reroute via the Suez Canal adding 12 days.",
+      "category": "natural_disaster",
+      "source": "Panama Canal Authority / Confederation of Indian Industry"
+    },
+    {
+      "title": "Afghanistan Herat Earthquake Series Kills Thousands, Global Saffron Supply Chain Collapses",
+      "description": "A 6.3 magnitude earthquake followed by four significant aftershocks struck Herat Province killing over 2,400 people and destroying the agricultural village infrastructure of the world's primary saffron-growing region. Afghanistan produces 90% of global saffron alongside Iran. Saffron prices on global specialty spice markets rose 62% within 6 weeks. Indian spice traders in Kochi and Mumbai who blend Afghan saffron for re-export face source disruption lasting 18–24 months.",
+      "category": "natural_disaster",
+      "source": "UN OCHA Afghanistan / International Saffron Traders Association"
+    },
+    {
+      "title": "Maharashtra Vidarbha Unseasonal Hailstorm Destroys Orange Crop, Farming Debt Crisis Triggered",
+      "description": "Violent hailstorms across Nagpur Wardha and Amravati districts destroyed 80% of the standing orange crop — India's premier orange belt producing 70% of national output. Crop losses of ₹2,800 crore trigger agricultural credit default warnings for 90,000 farming households. Nagpur orange GI-tag export programme to Europe and the Gulf faces complete cancellation for the season. Downstream orange juice processing units in Pune and Nasik face complete raw material shortage.",
+      "category": "natural_disaster",
+      "source": "Maharashtra Relief and Rehabilitation Department / National Horticulture Board"
+    },
+    {
+      "title": "India Supreme Court Orders Groundwater Emergency in 256 Districts, Agricultural Lending Frozen",
+      "description": "India's Central Ground Water Authority assessment declared 256 of 718 districts as over-exploited or critical — a 40% increase from the previous decade. The Supreme Court directed banks to reassess agricultural lending risk in affected districts. SBI and PNB issued internal advisories reducing agricultural term loan disbursements. Approximately ₹90,000 crore in annual agricultural credit flows face restrictions. Groundwater-dependent spinning mills in Coimbatore and Tiruppur face structural operational viability crisis.",
+      "category": "natural_disaster",
+      "source": "Central Ground Water Authority India / Reserve Bank of India"
+    },
+    {
+      "title": "North India Severe Cold Wave Kills 210, Vegetable and Potato Crops Damaged by Frost",
+      "description": "An exceptionally severe cold wave across North India sustained minimum temperatures of -4°C to -8°C in the Indo-Gangetic plain for 24 days including in Lucknow Patna and Agra. Diesel demand for heating surged 30% above seasonal norms creating fuel supply stress. Potato crop losses from frost damage across UP's Agra-Mathura belt exceeded ₹4,200 crore. Tomato and pea crops in Himachal Pradesh's lower hills suffered 55% yield reduction.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / UP Agriculture Department"
+    },
+    {
+      "title": "Kerala Idukki Dam Emergency Release Floods Downstream Districts, Cardamom Estates Damaged",
+      "description": "Record monsoon rainfall across the Idukki reservoir catchment triggered emergency controlled releases causing downstream flooding in Ernakulam and Alappuzha districts. Cardamom plantations across Idukki's High Range producing 80% of India's cardamom faced flooding and landslide damage. Kerala's rubber sector faced disrupted tapping for 4 weeks. Cardamom prices rose 48% in Spices Board auctions. Downstream chai masala manufacturers in Gujarat and Maharashtra face input cost spikes.",
+      "category": "natural_disaster",
+      "source": "Kerala State Disaster Management Authority / Spices Board of India"
+    },
+    {
+      "title": "Australia Queensland Floods Disrupt Coking Coal and Agricultural Exports to India",
+      "description": "Severe flooding across Queensland's Bowen Basin — the world's largest coking coal exporting region — forced mine shutdowns and rail disruption affecting 18 mines for 3–5 weeks. Australian coking coal exports to India fell 22% in a single quarter. Indian steel manufacturers including major integrated steel plants activated emergency procurement from Mozambique and South Africa at $28–35 per tonne premium. Queensland sugarcane harvests were simultaneously damaged reducing global supply.",
+      "category": "natural_disaster",
+      "source": "Queensland Reconstruction Authority / Steel Authority of India"
+    },
+    {
+      "title": "Indonesia Mount Lewotobi Eruption Triggers Aviation Red Alert, Nickel Shipments Delayed",
+      "description": "Mount Lewotobi Laki-laki volcano on Flores Island erupted violently triggering aviation red alerts across eastern Indonesia and temporarily closing Komodo and Maumere airports for 9 days. Nickel ore shipments from the Sulawesi processing corridor face logistics disruption as vessel operators avoid the ash zone. Indonesia supplies 48% of global nickel critical for EV batteries. Indian EV battery manufacturers and stainless steel producers report nickel availability tightening with spot prices rising 14%.",
+      "category": "natural_disaster",
+      "source": "Indonesian Centre for Volcanology / Indonesian Nickel Mining Association"
+    },
+    {
+      "title": "West Bengal Darjeeling Tea Gardens Spring Frost Destroys First Flush Crop",
+      "description": "An unusual late-season cold snap with ground frost across Darjeeling and Dooars tea gardens destroyed the first flush crop across 87,000 hectares. Darjeeling first flush commands $40–120 per kg in European specialty markets and suffered near-total loss valued at ₹2,100 crore. Tea Board of India activated emergency compensation for 68,000 estate workers. European specialty tea importers activated emergency sourcing from Sri Lanka and Nepal at 40% price premiums.",
+      "category": "natural_disaster",
+      "source": "Tea Board of India / Darjeeling Tea Association"
+    },
+    {
+      "title": "Cauvery Water Dispute Intensifies as Karnataka Reservoirs Hit Twenty-Year Low",
+      "description": "Karnataka's Cauvery basin reservoirs — particularly KRS and Hemavathi — fell to 20-year lows after below-normal southwest monsoon triggering acute interstate water dispute. Tamil Nadu's Cauvery delta paddy crop failed across 7.2 lakh hectares. Water rationing in Tiruppur's textile dyeing cluster forced 380 units to operate at 35% capacity impacting ₹2,400 crore in monthly export production. Coimbatore spinning mills face groundwater depletion crisis simultaneously.",
+      "category": "natural_disaster",
+      "source": "Cauvery Water Management Authority / South India Mills Association"
+    },
+    {
+      "title": "Brahmaputra Floods Damage Tea Garden Access Infrastructure Across Assam, Production Collapses",
+      "description": "Record Brahmaputra and tributary flooding damaged or destroyed access roads bridges and internal railway sidings serving 450 of Assam's 850 registered tea gardens. Unable to move green leaf to factories estates reported direct production loss of 48 million kg of made tea. The disruption affected worker wage payments as auction revenue was interrupted for 8–10 weeks. Premium Assam tea prices at Guwahati auction rose 28% as supply contracted sharply during the peak second flush season.",
+      "category": "natural_disaster",
+      "source": "Tea Board of India / Assam State Disaster Management Authority"
+    },
+    {
+      "title": "Telangana Cotton Belt Flash Floods Trigger Farm Loan Crisis, Gin Operators Report Zero Activity",
+      "description": "Intense rainfall from a Bay of Bengal depression caused flash flooding across Telangana's Warangal Khammam and Nalgonda districts destroying cotton across 16 lakh hectares during critical boll formation. Input loan defaults to primary agricultural cooperative societies projected at ₹3,600 crore. Cotton gin operators report zero procurement activity for 6 weeks. Textile mills in Ichalkaranji and Coimbatore face raw material cost increases of 22–28% as supply contracts from Telangana collapse.",
+      "category": "natural_disaster",
+      "source": "Telangana Agriculture Department / Cotton Association of India"
+    },
+    {
+      "title": "Mumbai Extreme Rainfall Breaks 140-Year Record, Financial Markets and Port Operations Halted",
+      "description": "Mumbai recorded 410 mm of rainfall in a 24-hour period — the highest since reliable records began in 1880 — causing severe flooding in the Bandra-Kurla Complex Lower Parel and Mumbai Port. BSE and NSE declared a trading holiday. The Mumbai Port suspended container operations for 4 days. Total economic losses from the 72-hour paralysis of India's financial capital are estimated at ₹21,000 crore with insurance industry claims of ₹7,400 crore — the highest single event in Indian history.",
+      "category": "natural_disaster",
+      "source": "IMD Mumbai / Mumbai Metropolitan Region Development Authority"
+    },
+    {
+      "title": "Tamil Nadu Northeast Monsoon Failure Second Consecutive Season, Chennai Water Crisis Cripples IT Sector",
+      "description": "Tamil Nadu's northeast monsoon delivered only 42% of normal rainfall — the second consecutive year of failure — reducing reservoir levels across Poondi Chembarambakkam and Red Hills to below 12% of capacity. Chennai's industrial water supply was rationed to 2 days per week. IT companies and manufacturing firms in the Chennai-Chengalpet corridor activated emergency water procurement at 10 times normal municipal rates. Semiconductor fab proposals cite water security as primary viability risk.",
+      "category": "natural_disaster",
+      "source": "Tamil Nadu Water Supply and Drainage Board / India Meteorological Department"
+    },
+    {
+      "title": "Andhra Pradesh Kurnool Nallamala Flash Floods Cut 220 Villages, Supply Networks Collapse",
+      "description": "Flash floods from the Nallamala hills devastated Kurnool and Nandyal districts destroying 380 km of state highways 22 bridges and cutting off 220 villages for 4 weeks. Aerial delivery by NDRF and IAF helicopters required for food and medicines. Local construction material prices spiked 75% as emergency reconstruction procurement began. Estimated infrastructure damage of ₹4,200 crore. Cotton and chilli farmers report complete input supply disruption during the critical post-flood replanting window.",
+      "category": "natural_disaster",
+      "source": "NDRF India / AP Roads and Buildings Department"
+    },
+    {
+      "title": "Kerala Western Ghats Floods Disrupt Rubber Supply, Auto Tyre Manufacturing Costs Rise Nationally",
+      "description": "An extremely active southwest monsoon depositing 290% of normal rainfall across Kerala's Western Ghats triggered simultaneous landslides across Idukki Wayanad and Palakkad districts. Rubber tapping was suspended across 1.9 lakh hectares for 6 weeks. Kerala's rubber production — 90% of India's natural rubber — fell 25% below annual targets. Auto tyre manufacturers Apollo MRF and CEAT report 18–22% raw material cost increases. Retail tyre prices rose 10% nationally within 8 weeks.",
+      "category": "natural_disaster",
+      "source": "Kerala State Disaster Management Authority / Rubber Board of India"
+    },
+    {
+      "title": "Bundelkhand Fourth Consecutive Drought Year Triggers Mass Rural Migration Crisis",
+      "description": "The Bundelkhand region of Uttar Pradesh and Madhya Pradesh entered its fourth consecutive below-normal rainfall year with groundwater in Jhansi Lalitpur and Sagar districts at historic lows. Pulse production fell 60% below normal. Rural outmigration accelerated with 240,000 agricultural households moving to urban centres. Farm input loan defaults across the region are expected to reach ₹4,800 crore. State governments activate MGNREGS emergency works as rural distress reaches crisis levels.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / National Rainfed Area Authority"
+    },
+    {
+      "title": "Pakistan Punjab Wheat Crop Destroyed by Unseasonal Rains and Hailstorm, Global Prices Rise",
+      "description": "Unseasonal heavy rainfall and violent hailstorms across Pakistan's Punjab province during the critical grain-filling phase destroyed an estimated 40% of the standing wheat crop across Lahore Faisalabad and Multan divisions. Pakistan shifted from a wheat-exporting to wheat-importing position triggering emergency procurement from Australia and Ukraine. This added pressure to already tight global wheat markets pushing Chicago wheat futures 8% higher and raising Indian atta prices ₹4–6 per kg.",
+      "category": "natural_disaster",
+      "source": "Pakistan Meteorological Department / FAO Crop Monitor"
+    },
+    {
+      "title": "Nepal Earthquake Destroys Pokhara Tourism Infrastructure, India-Nepal Trade Routes Cut",
+      "description": "A 6.4 magnitude earthquake struck Jajarkot district in Nepal's Karnali Province killing 154 people and severely damaging the Pokhara-Kathmandu highway. Tourism infrastructure in the Annapurna circuit was rendered inaccessible for 3 months. Indian trekking equipment manufacturers and adventure tourism operators report 45% cancellation of Nepal-linked tours. Emergency food and medicine supply from India faces route disruption adding 4–6 days to delivery timelines.",
+      "category": "natural_disaster",
+      "source": "Nepal Seismological Centre / Department of Tourism Nepal"
+    },
+    {
+      "title": "Cyclone Michaung Andhra Landfall Triggers Worst South India Flooding in Two Decades",
+      "description": "Cyclone Michaung made landfall near Bapatla in Andhra Pradesh before depositing catastrophic rainfall across Chennai and surrounding districts. Chennai's IT corridors in OMR and Sholinganallur were flooded for 7–9 days. Automotive manufacturing at Oragadam and Sriperumbudur was halted for 96 hours. Kia Motors and Hyundai Chennai plants report combined production losses of ₹1,800 crore. Total economic losses across Tamil Nadu and AP reached ₹12,400 crore — the costliest cyclone in south Indian history.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / Tamil Nadu State Disaster Management Authority"
+    },
+    {
+      "title": "Amazon Drought Worst in 120 Years, Brazil Soy and Beef Exports Severely Curtailed",
+      "description": "An unprecedented Amazon drought — scientifically confirmed as the worst in 120 years — halted river barge transport of soyabeans from Mato Grosso to Atlantic export ports. Brazil's soy season faces 6–8 week export delay. The Amazon fires triggered by dry conditions added 4.2 billion tonnes of CO2 to the atmosphere raising carbon credit prices 90%. Indian crush industry faces deferred input and spot price premiums of $20–25 per tonne. Brazilian beef shortages raise global protein prices.",
+      "category": "natural_disaster",
+      "source": "Brazilian National Institute for Space Research / Brazilian Association of Vegetable Oil Industries"
+    },
+    {
+      "title": "Andhra Pradesh Rayalaseema Kharif Crop Complete Failure, Cotton Farmer Debt Crisis Erupts",
+      "description": "Below-normal southwest monsoon across Andhra Pradesh's Rayalaseema — particularly Anantapur Kurnool and YSR Kadapa — caused near-total failure of cotton and groundnut crops across 24 lakh hectares. Cotton yield in Anantapur fell to 160 kg per acre against an expected 500 kg. Farm input loan defaults to cooperative credit societies are expected to exceed ₹5,100 crore. State government activates emergency crop compensation and free LPG distribution programme for affected households.",
+      "category": "natural_disaster",
+      "source": "AP Agriculture Department / Andhra Pradesh State Cooperative Bank"
+    },
+    {
+      "title": "Ethiopian Arabica Coffee Drought Pushes ICE Futures to 45-Year High, Indian Cafes Squeezed",
+      "description": "Ethiopia — the birthplace of arabica coffee — experienced a devastating drought across Sidama Yirgacheffe and Jimma highlands reducing cherry production by 35%. Ethiopia contributes 12% of global arabica supply. Combined with dry spell impacts in Brazil's Minas Gerais state arabica coffee prices rose to their highest since 1977 with ICE futures crossing $4.20 per pound. Indian café chains and filter coffee manufacturers face cost increases of 55–65% on green bean procurement.",
+      "category": "natural_disaster",
+      "source": "Ethiopian Coffee and Tea Authority / ICE Futures US"
+    },
+    {
+      "title": "Northeast India Pre-Monsoon Heatwave Hits Record 45 Degrees, Assam Tea Crop Severely Stressed",
+      "description": "An unprecedented pre-monsoon heat wave across Assam sustained 43–45°C — 10°C above normal — causing significant tea bush stress across the Brahmaputra valley. First flush Assam tea quality was severely compromised with orthodox grades showing 30% quality downgrade. Tea estates report worker heat-related illness affecting 22% of workforce productivity during the peak plucking period. Assam orthodox first flush prices at Guwahati auction fell 18% due to quality deterioration while fine leaf prices rose 35%.",
+      "category": "natural_disaster",
+      "source": "Tea Board of India / Assam Branch Indian Tea Association"
+    },
+    {
+      "title": "Australia Cyclone Alfred Makes Unprecedented Brisbane Landfall, Coking Coal Supply to India Disrupted",
+      "description": "Cyclone Alfred — the first tropical cyclone to make landfall in Southeast Queensland in 50 years — struck near Brisbane forcing closure of the Port of Brisbane for 5 days and damaging rail infrastructure linking the Bowen Basin coal mines to export terminals. Indian steel producers Tata Steel JSW and SAIL report coking coal supply disruption affecting 3 weeks of production. Emergency procurement from Mozambique and South Africa commanded a $32 per tonne premium over Australian contract prices.",
+      "category": "natural_disaster",
+      "source": "Queensland Reconstruction Authority / Ministry of Steel India"
+    },
+    {
+      "title": "Andhra Pradesh LPG Shortage as Gulf Supplies Diverted to Europe, Restaurants Face Crisis",
+      "description": "European demand for LPG surged as the continent sought alternatives to Russian pipeline gas diverting Middle Eastern LPG cargoes from Asian markets. Andhra Pradesh's household and commercial LPG customers faced a 35-day delivery backlog. Restaurant owners in Vijayawada and Visakhapatnam report receiving only 55% of booked commercial cylinders. Smaller eateries switch to electric induction and biomass at a capital cost of ₹45,000–80,000 per kitchen. Domestic LPG black market prices hit ₹1,400 per cylinder.",
+      "category": "natural_disaster",
+      "source": "AP LPG Distributors Association / Petroleum Ministry India"
+    },
+    {
+      "title": "South Africa El Niño Maize Drought Triggers Southern African Food Emergency",
+      "description": "South Africa's maize-growing regions in the Free State and North West Provinces experienced a devastating El Niño drought reducing maize production by 48% — the worst since the early nineties. A food emergency in Zambia Zimbabwe Mozambique and Malawi drives emergency import demand of 4.2 million tonnes from India and Ukraine. Indian maize prices rose 22% as government evaluates export permission requests against domestic food security concerns.",
+      "category": "natural_disaster",
+      "source": "South African Grain Information Service / World Food Programme"
+    },
+    {
+      "title": "Delhi Yamuna Worst Flooding in Decades Paralyses Industrial Estates and Administrative Districts",
+      "description": "The Yamuna river in Delhi rose to its highest level in decades flooding the Yamuna floodplain industrial areas of Shahdara Patparganj and Okhla. Over 800 small and medium manufacturing units in the Okhla Industrial Estate and Patparganj Industrial Area were submerged for 5–8 days. Losses to MSME sector in Delhi NCR estimated at ₹4,800 crore. The flooding simultaneously disrupted Delhi's administrative districts delaying government procurement approvals and contract disbursements.",
+      "category": "natural_disaster",
+      "source": "Delhi Disaster Management Authority / Delhi MSME Department"
+    },
+    {
+      "title": "Uttarakhand Joshimath Land Subsidence Forces Infrastructure Shutdown, Hydropower Projects Halted",
+      "description": "Accelerating land subsidence in Joshimath — linked to groundwater depletion construction load and glacial melt — forced emergency evacuation of 4,800 households and suspension of all construction activity. NTPC's Tapovan Vishnugad Hydropower Project was ordered to halt all tunnelling work pending geotechnical reassessment. The Joshimath crisis raises liability questions for ₹28,000 crore of infrastructure investment in the Chamoli corridor.",
+      "category": "natural_disaster",
+      "source": "Geological Survey of India / NTPC Limited"
+    },
+    {
+      "title": "India Punjab Wheat Crop Hit by Terminal Heat Wave, Procurement Targets Missed by 7 Million Tonnes",
+      "description": "An early onset heat wave across Punjab and Haryana pushed temperatures to 40°C — 7°C above normal — during the critical grain-filling phase. Wheat kernels shrivelled reducing yield by 12–18% below projected output. India's wheat procurement target was revised down by 7 million tonnes directly contributing to extended export restriction. Atta prices in urban markets rose ₹6–8 per kg. FCI's central pool wheat stocks fell below the buffer norm for the first time in 6 years.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / Food Corporation of India"
+    },
+    {
+      "title": "Goa Konkan Alphonso Mango Belt Destroyed by Unseasonal Pre-Harvest Rains, Exports Collapse",
+      "description": "Extreme pre-harvest rainfall across Ratnagiri and Sindhudurg districts destroyed 70% of the Alphonso mango crop — India's finest mango variety with GI tag protection. The Alphonso export programme to Gulf EU and US markets worth ₹560 crore was reduced to 28% of planned volumes. GI-tagged Alphonso prices in Mumbai's Crawford Market tripled to ₹1,200 per dozen. Indian mango exporters in Andhra Pradesh and Gujarat saw windfall demand as Konkan supply collapsed.",
+      "category": "natural_disaster",
+      "source": "Maharashtra Agriculture Department / APEDA India"
+    },
+    {
+      "title": "Sri Lanka Drought Triggers Hydropower Crisis, Tea Industry Energy Costs Triple",
+      "description": "A severe drought linked to the Indian Ocean Dipole reduced Sri Lanka's Mahaweli hydroelectric reservoir levels to critically low levels forcing 10–12 hour daily power cuts. Sri Lanka's tea manufacturing — the country's largest export industry worth $1.4 billion annually — faces energy costs tripling as factories switch to diesel generation. Ceylon Tea auction prices rose 18% as production costs surged. Indian tea blenders who source Ceylon tea for premium blends face input cost pressure of 22–28%.",
+      "category": "natural_disaster",
+      "source": "Ceylon Electricity Board / Sri Lanka Tea Board"
+    },
+    {
+      "title": "Cyclone Michaung Andhra Pradesh Triggers Aquaculture Export Crisis, EU Buyers Seek Alternatives",
+      "description": "Cyclone Michaung caused catastrophic flooding across Krishna and West Godavari aquaculture districts. Over 2.4 lakh hectares of shrimp and fish pond infrastructure was damaged or destroyed. MPEDA estimates export loss of $820 million for the season. European buyers activated alternative sourcing from Ecuador and Indonesia. 1.9 lakh aquaculture workers face income disruption with no immediate alternative employment in the flood-affected districts.",
+      "category": "natural_disaster",
+      "source": "AP Fisheries Department / Marine Products Export Development Authority India"
+    },
+    {
+      "title": "India Northeast Tea Season Production Falls Eighteen Percent, Export Commitments at Risk",
+      "description": "A combination of early drought during the flush season followed by excess rain during the harvest season produced the worst quality-adjusted tea output from Assam and West Bengal in 15 years. Total made tea production from the Northeast fell 18% below the five-year average. Indian tea export commitments to Russia UK and UAE face volume shortfalls of approximately 85 million kg. CTC tea prices at Guwahati auction rose 32% while buyers look at Kenya and Indonesia as alternatives.",
+      "category": "natural_disaster",
+      "source": "Tea Board of India / Indian Tea Association"
+    },
+    {
+      "title": "Rajasthan Aravalli Flash Floods Destroy Marble Quarrying Infrastructure, Export Commitments at Risk",
+      "description": "Sudden cloudbursts across Rajasthan's Aravalli range flooded active quarry sites destroying heavy mining equipment across 92 active marble mining sites in Makrana Kishangarh and Rajsamand. Equipment losses exceeded ₹1,600 crore. Marble block export commitments to Italian Chinese and Gulf buyers face 4-month delivery delays. India's reputation as a reliable marble supplier faces damage as Gulf construction project buyers activate penalty clauses for late delivery.",
+      "category": "natural_disaster",
+      "source": "Rajasthan Mines Department / Rajasthan Marble Dealers Association"
+    },
+    {
+      "title": "Visakhapatnam LPG Terminal Cyclone Shutdown Disrupts North Andhra Commercial Supply Chain",
+      "description": "A very severe cyclonic storm making landfall near Bheemunipatnam forced a 12-day shutdown of HPCL's LPG bottling plant at Visakhapatnam — the primary supply point for North Andhra Pradesh's 28 lakh commercial and household LPG consumers. LPG supply to the region fell to 40% of normal. Restaurants and hotels in Vizag Rajahmundry and Kakinada shift to electric induction and PNG where available. Small tiffin businesses and dhabas report operating losses of ₹12,000–18,000 per week during the shortage.",
+      "category": "natural_disaster",
+      "source": "HPCL Visakhapatnam / AP LPG Distributors Association"
+    },
+    {
+      "title": "India Monsoon Onset Delayed by Two Weeks, Kharif Sowing Targets Missed Across Eight States",
+      "description": "The southwest monsoon onset over Kerala was delayed by 14 days — the second longest delay in 30 years — pushing kharif sowing timelines back across Maharashtra Madhya Pradesh Rajasthan Gujarat and Andhra Pradesh. Pulse and oilseed sowing targets missed by 22% in the first fortnight of normal sowing season. Agriculture ministry activates contingency crop planning protocols. Input suppliers including seed companies and fertiliser dealers report ₹3,200 crore in deferred demand as farmers wait for rains.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / Ministry of Agriculture India"
+    },
+    {
+      "title": "Eastern India Pre-Monsoon Cyclone Destroys Puri Tourism Corridor, Odisha Fisheries Collapse",
+      "description": "A rare pre-monsoon cyclone making landfall on Odisha's Puri coast with 95 km/h winds destroyed beach tourism infrastructure at Puri and Konark at the beginning of the peak domestic tourism season. Over 1,400 registered fishing boats were destroyed or severely damaged. Odisha's ₹3,200 crore beach tourism sector faces a complete season loss. Hilsa fish availability collapsed in West Bengal and Odisha markets with retail prices rising 65% as the fishing fleet is rebuilt over 6–8 months.",
+      "category": "natural_disaster",
+      "source": "Odisha Tourism Department / Odisha Fisheries Department"
+    },
+    {
+      "title": "Andhra Pradesh Srikakulam Aquaculture EU Ban Triggers Mass Unemployment in Delta Regions",
+      "description": "European Food Safety Authority detected antibiotic residue violations in shrimp exports from Andhra Pradesh processing units triggering an emergency EU import ban affecting $2.1 billion of annual exports. Over 2.3 lakh aquaculture workers in Krishna and West Godavari deltas face income disruption as processing plants halt. Pond-raised shrimp prices in domestic wholesale markets crashed 45% as unsold inventory floods local supply. MPEDA activates emergency market diversification to Japan and South Korea.",
+      "category": "natural_disaster",
+      "source": "European Food Safety Authority / Marine Products Export Development Authority India"
+    },
+    {
+      "title": "India Himalayan Glacial Lake Inventory Doubles in Decade, NDMA Issues National Flood Warning",
+      "description": "India's National Disaster Management Authority released a comprehensive glacial lake inventory showing the number of potentially dangerous glacial lakes in Uttarakhand Himachal Pradesh and Sikkim has doubled in 10 years. 67 lakes are classified as high-risk outburst candidates. Hydropower projects with combined capacity of 12,400 MW are within potential flood impact zones. The assessment forces the insurance industry to reassess all infrastructure policies in Himalayan river corridors raising premiums by 45%.",
+      "category": "natural_disaster",
+      "source": "National Disaster Management Authority India / ISRO National Remote Sensing Centre"
+    },
+    {
+      "title": "Caribbean Atlantic Hurricane Season Record, Three Major Storms Cause $200 Billion in Losses",
+      "description": "The Atlantic hurricane season produced the earliest Category 5 hurricane on record followed by two more major landfalling storms causing unprecedented insured losses of $200 billion across the US Caribbean and Gulf of Mexico. Global reinsurance markets face a systemic crisis with several major reinsurers announcing exits from US catastrophe risk. Indian commercial insurance renewal costs rise 25–35% across property marine and business interruption lines as global reinsurance capacity contracts.",
+      "category": "natural_disaster",
+      "source": "National Hurricane Center USA / Swiss Re Institute"
+    },
+    {
+      "title": "China Summer Floods Hunan Province Damage Rice Production, Asian Markets Tighten",
+      "description": "Record summer flooding across Hunan Jiangxi and Anhui provinces — China's rice bowl — inundated 4.8 million hectares of standing early and mid-season rice. China activated emergency rice reserve releases. Asian rice markets tightened with Vietnam and Thailand restricting additional exports. India faces increased diplomatic pressure to ease rice export restrictions as regional supply tightens. Domestic rice prices in AP and Telangana rise 14–18% on anticipated demand surge.",
+      "category": "natural_disaster",
+      "source": "Chinese Ministry of Emergency Management / FAO Rice Market Monitor"
+    },
+    {
+      "title": "Western Ghats Forest Fire Season Worst on Record, Spice Plantation Estates Damaged",
+      "description": "An exceptionally dry pre-monsoon season triggered forest fires across 180,000 hectares of the Western Ghats in Maharashtra Goa Karnataka and Kerala — the most extensive fire season on record. Cardamom and pepper cultivation in buffer zones across Idukki and Wayanad suffered smoke damage affecting quality and yield. Non-Timber Forest Product collection worth ₹320 crore to tribal communities suspended for 18 months. Carbon credit markets activate emergency purchase programmes driving carbon offset prices higher.",
+      "category": "natural_disaster",
+      "source": "Forest Survey of India / Ministry of Environment Forest and Climate Change India"
+    },
+    {
+      "title": "Assam Kaziranga Floods Submerge 96 Percent of Park, Tea Belt Sustains Prolonged Damage",
+      "description": "Record Brahmaputra basin flooding submerged 96% of Kaziranga National Park for 4 consecutive weeks — the longest sustained inundation in recorded history — killing 42 rhinoceroses and displacing wildlife onto adjacent tea garden estates. Infrastructure damage to the Assam tea belt affects 360 tea gardens. Premium Assam tea auction prices rose 25% as supply contracted. International wildlife tourism cancellations during the critical October-November season cost ₹620 crore.",
+      "category": "natural_disaster",
+      "source": "Assam Forest Department / Tea Board of India"
+    },
+    {
+      "title": "India Dengue and Chikungunya Epidemic Linked to Extreme Rainfall Disrupts National Workforce",
+      "description": "India's dengue and chikungunya epidemic — directly linked to stagnant floodwater from an active monsoon — infected 2.8 million people across 18 states. The epidemic reduced workforce productivity in manufacturing IT and construction sectors by an estimated 8–12% during peak months. Hospitality and retail sectors report 15% staff absenteeism during the festive season. Healthcare sector pharmaceutical demand for antipyretics and anti-viral drugs outstrips supply causing temporary medicine shortages.",
+      "category": "natural_disaster",
+      "source": "National Centre for Disease Control India / Indian Council of Medical Research"
+    },
+    {
+      "title": "Madhya Pradesh Soyabean Unseasonal October Rains Devastate Harvest, Exports Cancelled",
+      "description": "Unseasonal and prolonged October rainfall across Madhya Pradesh's Malwa plateau damaged standing soyabean crops ready for harvest across 40 lakh hectares in Indore Ujjain Dewas and Shajapur. Wet grain at harvest lost 45–65% of market value due to aflatoxin contamination risk. India's soyameal export programme for the year was effectively cancelled impacting ₹7,200 crore in anticipated foreign exchange earnings. Poultry and aquaculture feed manufacturers face domestic soy meal cost increases of 28%.",
+      "category": "natural_disaster",
+      "source": "MP Agriculture Department / Soyabean Processors Association of India"
+    },
+    {
+      "title": "Odisha Out-of-Season Cyclone Destroys Ganjam Vegetables, Onion Prices Cross Rs 120 Nationally",
+      "description": "A very severe cyclonic storm making landfall near Gopalpur out of season caused widespread devastation across Ganjam Gajapati and Puri districts. Tomato onion and early summer vegetable crops across 88,000 hectares were completely destroyed. Retail tomato prices in Bhubaneswar and Hyderabad rose from ₹22 per kg to ₹95 per kg within 10 days. Onion prices crossed ₹120 per kg in retail markets across South India triggering government market intervention and import orders.",
+      "category": "natural_disaster",
+      "source": "Odisha State Disaster Management Authority / Ministry of Consumer Affairs India"
+    },
+    {
+      "title": "India Pre-Monsoon Dust Storm Season Most Active in Two Decades, Solar Power Output Drops",
+      "description": "An exceptionally active pre-monsoon dust storm season across Rajasthan Gujarat and western UP reduced solar irradiance levels by 18–35% across India's largest solar power installations for an average of 12 days per month during peak summer. Rajasthan's 22 GW of installed solar capacity operated at 55% of rated output during peak dust periods. Power exchange spot prices rose 42% during daytime hours. Solar project developers face production shortfall penalties on power purchase agreements worth ₹1,100 crore.",
+      "category": "natural_disaster",
+      "source": "National Solar Energy Federation of India / Central Electricity Regulatory Commission"
+    },
+    {
+      "title": "Bay of Bengal Most Active Cyclone Season in Years Damages Andhra Pradesh Fisheries Twice",
+      "description": "The Bay of Bengal cyclone season produced 7 named storms — the most active in recent years — with two making direct landfall on Andhra Pradesh's coast within 8 weeks. The combined impact destroyed 3,800 mechanised fishing vessels across Visakhapatnam Nellore and Krishna districts. The fishing community's capital loss exceeded ₹3,200 crore. Fish prices across South India rose 55% as marine catch availability collapsed. Insurance penetration of only 18% among fishing boat owners means most losses are uncompensated.",
+      "category": "natural_disaster",
+      "source": "AP Fisheries Department / India Meteorological Department"
+    },
+    {
+      "title": "India Record Summer Demands Emergency Coal Imports, Power Tariffs Under Revision Across 11 States",
+      "description": "India's summer produced the highest ever average maximum temperatures across 22 states simultaneously. Coal India's output fell 20 million tonnes below targets due to mine flooding during the early monsoon while summer demand simultaneously peaked. Power utilities launched emergency import tenders for thermal coal at ₹14,000 per tonne versus domestic costs of ₹2,400 per tonne adding ₹5,600 crore to power generation costs. Power tariff revisions of 10–14% are under consideration by 11 state electricity regulatory commissions.",
+      "category": "natural_disaster",
+      "source": "Coal India Limited / Central Electricity Authority India"
+    },
+    {
+      "title": "Andhra Pradesh Cyclone Destroys Nellore SHAR Outer Infrastructure, ISRO Launches Delayed",
+      "description": "A severe cyclone making landfall near Nellore submerged approach roads to ISRO's Satish Dhawan Space Centre at Sriharikota and destroyed power supply and communication cable infrastructure serving the facility. Four planned commercial satellite launch missions were delayed by 5–7 months impacting contracts worth $145 million. The SHAR disruption raises questions about the resilience of India's space infrastructure concentrated on a cyclone-prone coastline and accelerates discussion of a second launch facility.",
+      "category": "natural_disaster",
+      "source": "ISRO / Andhra Pradesh State Disaster Management Authority"
+    },
+    {
+      "title": "India Monsoon Deficit Triggers Food Inflation Emergency, RBI Delays Rate Cut Cycle",
+      "description": "India's southwest monsoon delivered only 88% of long-period average rainfall with 9 states receiving deficient rainfall including Maharashtra Karnataka and Rajasthan. Kharif output of pulses oilseeds and coarse cereals fell 15–22% below normal. Retail food inflation rose to 9.4% — a 4-year high — forcing the Reserve Bank of India to delay an anticipated rate cut cycle. FMCG companies including major FMCG players activate input cost management protocols reducing pack sizes.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / Reserve Bank of India"
+    },
+    {
+      "title": "US Midwest Derecho Destroys Iowa and Illinois Corn Belt, Ethanol Supply and Global Corn Markets Shaken",
+      "description": "A powerful derecho swept across Iowa Illinois and Indiana with sustained winds of 160 km/h flattening corn and soyabean crops across 14 million acres at the peak tasselling season. Corn production loss is estimated at 850 million bushels. US ethanol production fell 22% in the following six weeks impacting blended fuel supply. Global corn futures rose 18% in 3 trading sessions. Indian poultry and aquaculture producers dependent on corn-based feed face immediate input cost pressure.",
+      "category": "natural_disaster",
+      "source": "US National Weather Service / USDA Agricultural Statistics Service"
+    },
+    {
+      "title": "Turkey Syria Earthquake Destroys Grain Storage Infrastructure, Black Sea Wheat Crisis Deepens",
+      "description": "The devastating earthquake sequence in southern Turkey and northern Syria destroyed major grain silos and cold storage facilities across Kahramanmaras Gaziantep and Hatay provinces. Turkey's grain storage capacity was reduced by an estimated 4.2 million tonnes. Turkey — a significant transit hub for Black Sea wheat flowing to Middle Eastern and African markets — faces logistical paralysis that extended the grain supply crisis affecting global wheat prices for six additional months.",
+      "category": "natural_disaster",
+      "source": "Turkish Disaster and Emergency Management Authority / UN World Food Programme"
+    },
+    {
+      "title": "Australia Murray-Darling Basin Drought Cuts Cotton and Wheat Harvest, Asian Markets Tighten",
+      "description": "A severe drought across Australia's Murray-Darling Basin — the country's agricultural heartland — reduced water allocations to irrigated cotton and wheat farms to the lowest levels in 20 years. Australian cotton exports which compete with India in Asian markets fall dramatically. Australian wheat for Asia-Pacific markets faces a supply gap of approximately 3 million tonnes. Indian cotton farmers in Maharashtra and Gujarat receive a windfall as Australian supply retreats.",
+      "category": "natural_disaster",
+      "source": "Bureau of Meteorology Australia / Grains Council of Australia"
+    },
+    {
+      "title": "Philippines Super Typhoon Destroys Luzon Coconut and Banana Belt, Indian Importers Squeezed",
+      "description": "A super typhoon made landfall on Luzon island with sustained winds of 195 km/h destroying approximately 180,000 hectares of coconut plantations and 45,000 hectares of banana farming in Quezon Aurora and Isabela provinces. The Philippines contributes 34% of global coconut product exports. Indian coconut oil importers face a 40–50% price spike over the following six months as Philippine supply recovers. Food processing and cosmetics companies face significant input cost revisions.",
+      "category": "natural_disaster",
+      "source": "Philippine Atmospheric Geophysical and Astronomical Services Administration / Philippine Coconut Authority"
+    },
+    {
+      "title": "Canada Record Wildfire Season Disrupts Lumber and Canola Supply Chains Globally",
+      "description": "Canada's wildfire season burned a record 18 million hectares destroying extensive boreal forest and disrupting Trans-Canada highway and rail freight corridors for weeks. Canadian lumber exports fell 28% in the second quarter. Canola crop losses in Alberta and British Columbia reduced global canola oil supply pushing Indian mustard oil imports into tighter markets. Pulp and paper manufacturers reliant on Canadian fiber face raw material shortages affecting packaging industries.",
+      "category": "natural_disaster",
+      "source": "Canadian Interagency Forest Fire Centre / Canadian Canola Council"
+    },
+    {
+      "title": "Manipur Floods and Ethnic Conflict Disrupt Northeast Supply Chain, Essential Goods Scarce",
+      "description": "Record monsoon flooding across Manipur combined with ongoing ethnic conflict disrupted National Highway 37 and NH-102 for 45 days. All commercial traffic between Manipur Mizoram and the Myanmar trade corridor ceased. Essential commodity prices in Imphal rose 80–100% with petrol hitting ₹180 per litre. LPG cylinder availability fell to 30% of normal demand. Moreh border trade — a key India-Myanmar commerce corridor — suspended completely causing $280 million in trade disruption.",
+      "category": "natural_disaster",
+      "source": "National Disaster Management Authority India / Ministry of Commerce India"
+    },
+    {
+      "title": "India National Grid Faces Record Peak Demand, Rolling Power Cuts Hit Five States",
+      "description": "An intense pre-monsoon heatwave pushed peak electricity demand across India to 248 GW — a new all-time record — exceeding grid capacity by 22 GW. Rolling power cuts of 8–14 hours hit rural areas across UP Bihar Rajasthan MP and Jharkhand. Cold storage operators across the potato belt report ₹680 crore in spoilage losses. Irrigation pump demand for wheat harvest spiked simultaneously further straining grid capacity during the critical rabi harvesting window.",
+      "category": "natural_disaster",
+      "source": "Ministry of Power India / Central Electricity Authority"
+    },
+    {
+      "title": "Sudan Civil War Destroys Sesame and Sorghum Production for Second Consecutive Season",
+      "description": "Continued fighting between Sudanese Armed Forces and Rapid Support Forces destroyed sesame production in the Gedaref region — Sudan's agricultural heartland — for the second consecutive season. Sudan's sesame exports fell 70% below pre-conflict levels. Indian oil extraction and confectionery industries importing Sudanese sesame face supply gaps of 18%. Global sesame seed prices rose 45% over 12 months. Indian sesame exporters from Gujarat and Rajasthan paradoxically benefit from redirected global demand.",
+      "category": "natural_disaster",
+      "source": "UN OCHA Sudan / Solvent Extractors Association of India"
+    },
+    {
+      "title": "Heat Dome Over Europe Kills Thousands, Wheat and Barley Harvest Cut by 12 Million Tonnes",
+      "description": "An unprecedented heat dome across Western and Central Europe maintained temperatures above 40°C across France Germany Spain and Italy for 22 consecutive days. Wheat and barley crops in their final ripening phase suffered severe heat stress reducing EU grain harvest by approximately 12 million tonnes. European grain export capacity for the season is reduced by 8 million tonnes adding pressure to global markets already tight from Black Sea conflict disruptions.",
+      "category": "natural_disaster",
+      "source": "European Centre for Medium-Range Weather Forecasts / EU Agriculture Monitor"
+    },
+    {
+      "title": "Rajasthan Desert Locust Swarms Cross From Pakistan, Rabi Crop Damage Across Five Districts",
+      "description": "Desert locust swarms originating from Pakistan's Sindh province crossed into Rajasthan and penetrated as far as Haryana destroying an estimated 200,000 hectares of mustard wheat and cumin crops across Barmer Jaisalmer Bikaner Jodhpur and Nagaur districts. Cumin seed prices rose 65% in a single month as supply forecasts were drastically revised. Mustard oil prices surged 22% affecting household budgets and food processors across North India.",
+      "category": "natural_disaster",
+      "source": "Locust Warning Organisation India / FAO Desert Locust Updates"
+    },
+    {
+      "title": "Iran and Pakistan Extreme Heatwave Cuts Wheat and Date Harvest, South Asian Imports Rise",
+      "description": "A catastrophic heatwave pushing temperatures to 53°C in parts of Iran's Khuzestan Province and 52°C in Pakistan's Sindh Province devastated winter wheat crops and damaged date palm orchards across the Persian Gulf basin. Iran's wheat production fell below domestic consumption requirements triggering emergency international procurement. Pakistan's date crop fell 40% below normal yields. Global wheat import demand from the Middle East and North Africa is projected to rise by 8–10 million tonnes.",
+      "category": "natural_disaster",
+      "source": "Iran Meteorological Organisation / Pakistani Agriculture Ministry"
+    },
+    {
+      "title": "Japan Fukushima Water Release Triggers Chinese and Korean Seafood Import Bans, Indian Exporters Benefit",
+      "description": "Japan's release of treated water from the Fukushima Daiichi nuclear plant into the Pacific Ocean triggered immediate import bans on Japanese seafood by China and South Korea. Japan's annual seafood exports worth $3.4 billion face immediate market closure in its two largest customers. Indian seafood exporters see a windfall opportunity as Chinese and Korean buyers seek Japanese seafood alternatives from India particularly for scallops and flatfish.",
+      "category": "natural_disaster",
+      "source": "International Atomic Energy Agency / Japan Fisheries Agency"
+    },
+    {
+      "title": "Pacific Northwest Heat Dome Kills Billions of Marine Creatures, Pacific Salmon Supply Collapses",
+      "description": "An unprecedented heat dome over the US Pacific Northwest pushed sea surface temperatures in Puget Sound to record highs killing an estimated one billion sea creatures including mussels clams sea stars and juvenile salmon. The event is projected to reduce Pacific salmon availability by 35–40% over the following two years. Indian and Japanese seafood processors dependent on Pacific salmon imports face significant supply gaps.",
+      "category": "natural_disaster",
+      "source": "NOAA National Marine Fisheries Service / University of British Columbia Oceanography"
+    },
+    {
+      "title": "Odisha Cyclone Season Worst in a Decade, Paradip Port Infrastructure Damaged Twice",
+      "description": "Two severe cyclonic storms made landfall on Odisha's coast within 6 weeks forcing complete evacuation of Paradip Port's industrial corridor on both occasions. The Gopalpur industrial corridor housing 380 manufacturing units including steel ferro-alloys and textiles faced evacuation-related production losses of ₹2,100 crore. IFFCO's Paradip fertiliser plant — one of India's largest — suspended production for 12 days during the second storm.",
+      "category": "natural_disaster",
+      "source": "Odisha State Disaster Management Authority / Indian Farmers Fertiliser Cooperative"
+    },
+    {
+      "title": "Karnataka Drought Triggers Cauvery Water Crisis, Tiruppur Textile Exports Under Severe Pressure",
+      "description": "Below-normal southwest monsoon filling of Karnataka's Cauvery basin reservoirs triggered an acute interstate water dispute as Karnataka refused to release Cauvery water to Tamil Nadu below Supreme Court-mandated levels. Tamil Nadu's Cauvery delta paddy crop failed across 8 lakh hectares. Water rationing in Tiruppur's textile and dyeing cluster — which requires 90 million litres per day — forced 340 units to operate at 40% capacity impacting ₹2,100 crore in monthly export production.",
+      "category": "natural_disaster",
+      "source": "Cauvery Water Management Authority / South India Mills Association"
+    },
+    {
+      "title": "Northeast India Earthquake Sequence Damages Oil and Gas Pipeline Network, Polymer Production Halted",
+      "description": "A sequence of earthquakes between magnitude 5.5 and 6.2 across the Assam-Arunachal Pradesh border caused hairline fractures and joint failures in the Oil India Limited and ONGC crude oil and natural gas pipeline network spanning 1,200 km across the Northeast. Emergency shutdown and inspection protocols reduced crude production from Assam fields by 35% for 6 weeks. Gas supply to a major petrochemical complex was interrupted halting polymer production for the same period.",
+      "category": "natural_disaster",
+      "source": "Oil India Limited / Geological Survey of India"
+    },
+    {
+      "title": "Bangladesh Sylhet Tea Region Submerged, Tea Industry Declares Force Majeure on Export Contracts",
+      "description": "Unprecedented flooding in Bangladesh's Sylhet and Moulvibazar divisions inundated all major tea growing estates for 18 days — the longest prolonged submersion in the industry's 150-year history. Bangladesh produces approximately 85 million kg of tea annually primarily for domestic consumption with modest exports. Emergency tea imports from India's Assam are activated. Flood water damage to tea bushes is expected to reduce Sylhet production by 40% for two consecutive seasons.",
+      "category": "natural_disaster",
+      "source": "Bangladesh Tea Board / Tea Association of India"
+    },
+    {
+      "title": "Cyclone Biparjoy Gujarat Landfall Destroys Oil Terminal Operations, Groundnut Crop Wiped Out",
+      "description": "Cyclone Biparjoy — one of the strongest to hit the Gujarat coastline in decades — made landfall near Jakhau Port forcing suspension of operations at Vadinar oil terminal Kandla port and Mundra port for 6 days. Over 1 lakh MT of crude oil shipments were deferred. Groundnut and sesame crops across Kutch and Devbhumi Dwarka districts reported complete loss across 1.4 lakh hectares. Estimated agricultural losses reached ₹2,100 crore.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / Gujarat State Disaster Management Authority"
+    },
+    {
+      "title": "Germany Energy Transition Drives Demand for Indian Solar Talent Amid Record European Heatwave",
+      "description": "An unprecedented European heatwave simultaneously raised energy demand to record levels and damaged traditional power generation infrastructure across the continent. Germany's accelerated renewable energy transition created unprecedented demand for Indian solar engineering project management expertise. Indian solar EPC firms and engineering consultancies report a 65% surge in European project enquiries. Hyderabad and Bengaluru-based renewable energy engineering firms begin aggressive international hiring.",
+      "category": "natural_disaster",
+      "source": "German Federal Environmental Agency / Ministry of New and Renewable Energy India"
+    },
+    {
+      "title": "West Africa Sahel Drought and Political Instability Collapse Groundnut and Shea Export Channels",
+      "description": "A combination of severe drought and military coup instability across Mali Burkina Faso and Niger devastated groundnut and shea butter production — West Africa's most important agricultural exports. Global shea butter prices rose 55% affecting Indian cosmetics and confectionery manufacturers who use shea as a cocoa butter substitute. Groundnut oil supply from West Africa fell 28% globally with Indian processors receiving redirected demand from European buyers.",
+      "category": "natural_disaster",
+      "source": "FAO West Africa Regional Office / Solvent Extractors Association of India"
+    },
+    {
+      "title": "Colombia Amazon Fires and Floods Damage Palm Oil Plantations, Indian Import Costs Rise",
+      "description": "Colombia's Caqueta and Putumayo departments experienced simultaneous fire and flooding events — an extreme weather paradox driven by an active El Niño — destroying significant palm oil and rubber plantation areas. Colombia's palm oil exports to the Indian market worth approximately $200 million annually fell by 40% in a single quarter contributing to a 5% uptick in Indian palm oil import prices. Downstream food processing and restaurant industries face input cost revision.",
+      "category": "natural_disaster",
+      "source": "Colombian Agriculture Ministry / Solvent Extractors Association of India"
+    },
+    {
+      "title": "India Pre-Monsoon Heatwave National Power Grid Stress, Industrial Production Curtailed Across States",
+      "description": "India's pre-monsoon heatwave produced the highest ever average maximum temperatures across 22 states simultaneously pushing peak power demand to record levels. Industrial consumers across UP Maharashtra and Rajasthan faced 6–10 hour power cuts as distribution companies implemented load shedding protocols. Cold chain businesses including dairy poultry and pharmaceutical cold storage report collective spoilage losses of ₹2,200 crore during the peak heat period.",
+      "category": "natural_disaster",
+      "source": "Ministry of Power India / Confederation of Indian Industry"
+    },
+    {
+      "title": "Andhra Pradesh Aquaculture EU Compliance Crisis, $2 Billion Export Segment Faces Suspension",
+      "description": "European Food Safety Authority enforcement missions to Andhra Pradesh's shrimp processing clusters found systematic non-compliance with antibiotic residue standards across multiple certified exporters. The EU issued a formal notification of enhanced border inspection reducing clearance rates to 40% of normal. Processing units in Krishna and West Godavari districts operating at full capacity face immediate stock pile-up. MPEDA activates emergency corrective action programme with mandatory third-party testing across all AP exporters.",
+      "category": "natural_disaster",
+      "source": "European Food Safety Authority / Marine Products Export Development Authority India"
+    },
+    {
+      "title": "Cyclone Amphan Anniversary — New Super Cyclone Threatens Bengal Coast, Port Operations Pre-Emptively Closed",
+      "description": "A rapidly intensifying cyclone in the Bay of Bengal reached super cyclonic storm intensity approaching the Bengal coast triggering the largest pre-landfall evacuation in Indian history with 2.8 million people moved from coastal areas. Kolkata Port Haldia terminal and all coastal industrial operations were pre-emptively suspended for 5 days. The storm's eventual landfall caused 10 metres of storm surge flooding across the Sundarbans. Agricultural losses across Bengal's delta region exceeded ₹28,000 crore.",
+      "category": "natural_disaster",
+      "source": "India Meteorological Department / West Bengal Disaster Management Authority"
+    },
+    {
+      "title": "India Fertiliser Crisis Deepens as Phosphate Supply Disruption Coincides with Rabi Sowing Season",
+      "description": "A simultaneous disruption of phosphate supply from Morocco following earthquake damage and potash supply disruption from sanctioned Belarus created an acute DAP and MOP shortage at the start of the Rabi sowing season. Fertiliser dealers across AP Telangana Maharashtra and UP report stock-outs with farmers unable to apply base doses at sowing. Agricultural extension officers warn of potential 15–18% yield reduction across the rabi wheat and pulse crops if the shortage persists beyond 30 days.",
+      "category": "natural_disaster",
+      "source": "Department of Fertilisers India / Indian Farmers Fertiliser Cooperative"
+    },
+    {
+      "title": "Ganga River Flooding Hits 6 States Simultaneously, Industrial Belt from Varanasi to Patna Paralysed",
+      "description": "Record simultaneous flooding of the Ganga and its major tributaries — Ghaghra Gandak and Kosi — inundated industrial zones across Varanasi Prayagraj Mirzapur Ara Patna and Begusarai. Carpet and textile manufacturing in the Mirzapur-Bhadohi cluster — which exports $850 million annually — suspended operations for 3 weeks. Leather tanning units in Kanpur report flood damage to ₹1,200 crore of in-process inventory. UP and Bihar's kharif crop procurement faces a 4–6 week processing delay.",
+      "category": "natural_disaster",
+      "source": "Central Water Commission India / UP Disaster Management Authority"
+    },
+    {
+      "title": "Southern Africa Cyclone Freddy Record-Breaking Duration Destroys Malawi and Mozambique Agriculture",
+      "description": "Tropical Cyclone Freddy broke all records for cyclone duration and total energy making two separate landfalls on the Mozambique coast over a period of 5 weeks. Malawi received catastrophic rainfall causing the country's worst flood disaster in 50 years. The destruction of Malawi's maize and tobacco crops triggered a food emergency requiring 4 million tonnes of emergency food aid. Indian tobacco and tea companies with Malawi sourcing operations face complete seasonal output disruption.",
+      "category": "natural_disaster",
+      "source": "Regional Integrated Multi-Hazard Early Warning System Africa / FAO Southern Africa"
+    },
+    {
+      "title": "India Uttarakhand Flash Flood Destroys Under-Construction Hydropower Projects Worth Rs 12000 Crore",
+      "description": "A sudden cloudburst over the Dhauli Ganga and Rishi Ganga river catchments triggered flash floods that destroyed two under-construction run-of-river hydropower projects in Chamoli district simultaneously. Construction machinery camps and tunnelling infrastructure for 900 MW of combined capacity were completely destroyed. Insurance claims of approximately ₹3,400 crore are the largest ever for infrastructure-under-construction in India. The disaster raises serious questions about the viability of hydropower development in seismically active Himalayan valleys.",
+      "category": "natural_disaster",
+      "source": "National Disaster Management Authority India / Central Electricity Authority India"
+    },
+    {
+      "title": "Indonesia Lombok Earthquake Sequence Destroys Tourism Infrastructure and Nickel Processing Logistics",
+      "description": "A sequence of earthquakes including a 7.0 magnitude event struck Lombok Island and the adjacent Sumbawa region severely damaging Lombok international airport and destroying approximately 80,000 homes. Tourism revenues critical to Lombok's economy collapsed with all hotel and resort bookings cancelled. Nickel processing operations in Sumbawa face personnel evacuation and infrastructure assessment delays of 6–8 weeks affecting global nickel supply at a time of elevated EV demand.",
+      "category": "natural_disaster",
+      "source": "Indonesian National Board for Disaster Management / Indonesian Nickel Mining Association"
+    }
+  ]

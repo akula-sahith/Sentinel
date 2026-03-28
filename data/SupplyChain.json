@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Krishnapatnam Port Operations Suspended for 5 Days After Cyclone Damage to Berths",
+    "description": "Cyclone-force winds and storm surge caused structural damage to three operational berths at Krishnapatnam Port in Andhra Pradesh, forcing a complete suspension of cargo operations for five days. Over 28 vessels at anchor are unable to berth, including bulk carriers loaded with coal for NTPC's Simhadri plant and container vessels carrying export cargo from the Krishna-Guntur agro-processing corridor. An estimated 1.8 lakh metric tonnes of cargo movement has been halted. Coal stocks at the Simhadri thermal station have dropped to 4 days of reserve — below the critical 7-day threshold. Fertilizer import vessels scheduled to offload DAP and MOP for the rabi season are being diverted to Gangavaram Port, adding 3 days and significant demurrage costs. Port authorities estimate full restoration of berth operations will take 18-22 days.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Krishnapatnam Port Authority Operations Bulletin, NTPC Power Station Fuel Report"
+  },
+  {
+    "title": "Visakhapatnam Steel Plant Shuts Blast Furnace No. 2 After Cooling System Failure",
+    "description": "Rashtriya Ispat Nigam Limited's Visakhapatnam Steel Plant shut down its No. 2 blast furnace after a critical failure in the water cooling circuit threatened structural integrity of the furnace lining. The shutdown reduces the plant's hot metal production capacity by 35%, translating to a loss of approximately 1,800 tonnes of liquid steel per day. Downstream rolling mills supplying construction-grade TMT bars to infrastructure projects in Andhra Pradesh, Telangana, and Odisha are being asked to expect delivery delays of 3-5 weeks. Steel traders in Vijayawada and Rajahmundry report immediate price increases of ₹1,800 per tonne for TMT bars as supply tightens. Furnace relining and restoration is estimated to require 45-60 days.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Rashtriya Ispat Nigam Limited Production Status Report, Steel Traders Federation Andhra Pradesh"
+  },
+  {
+    "title": "Gangavaram Port Container Terminal Strike: Dock Workers Halt Operations for 96 Hours",
+    "description": "Contract dock workers at Gangavaram Port's container terminal went on strike demanding wage parity with permanent employees and regularisation of 840 contract workers employed for over 5 years. The 96-hour work stoppage halted container throughput at one of Andhra Pradesh's busiest deep-water ports. Export containers carrying granite, shrimp, and processed food from the Visakhapatnam-Kakinada export corridor are piling up at container freight stations. Import containers with raw materials for pharmaceutical and chemical units in the VSEZ are being diverted to Chennai Port, adding ₹18,000-24,000 per TEU in additional logistics costs. Shipping lines MSC and Evergreen have declared port congestion surcharges of $180 per container for Gangavaram-routed cargo.",
+    "category": "Supply Chain - Port Strike",
+    "source": "Gangavaram Port Limited Management Statement, All India Dock Workers Federation Visakhapatnam Branch"
+  },
+  {
+    "title": "NH-16 Landslide Near Anakapalli Blocks Visakhapatnam-Chennai Highway for 8 Days",
+    "description": "Heavy rainfall triggered a major landslide on National Highway 16 near Anakapalli in Visakhapatnam district, blocking the primary Visakhapatnam-Chennai road corridor with an estimated 80,000 cubic metres of debris. The NH-16 is the arterial supply route for goods moving between South India's industrial hubs. Trucks carrying pharmaceutical raw materials, seafood, textiles, and steel coils are stranded at both ends of the blockage with an estimated 4,200 vehicles in queue. Perishable cargo including shrimp and vegetables is suffering spoilage losses. Companies in Chennai's auto component cluster that depend on North Andhra suppliers for castings and forgings face production slowdowns. The National Highways Authority estimates 8 days for debris clearance and road restoration.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "National Highways Authority of India AP Zone, Visakhapatnam District Collector Emergency Report"
+  },
+  {
+    "title": "Kakinada Port Dredging Shutdown Reduces Vessel Access; Fertilizer Imports Delayed",
+    "description": "Mandatory maintenance dredging at Kakinada Port's approach channel reduced the permissible vessel draft from 10.5 metres to 7.2 metres for a period of 21 days, preventing large bulk carriers from berthing fully laden. Fertilizer import vessels chartered by KRIBHCO and IFFCO — carrying urea and DAP for the kharif season — are being forced to partially offload cargo at outer anchorage using barges, increasing per-tonne unloading costs by 340%. The delay in fertilizer availability is affecting agri-input dealers across 12 districts of Andhra Pradesh and Telangana during a critical pre-sowing window. Sugar mill by-products and seafood exports from the Kakinada SEZ are also backed up pending vessel availability.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Kakinada Seaports Limited Navigational Notice, IFFCO Procurement Division"
+  },
+  {
+    "title": "Sri City Industrial Park Power Outage Forces 72-Hour Production Shutdown Across 40 Units",
+    "description": "A failure in the 220 KV transmission line supplying Sri City Integrated Business City in Nellore district, Andhra Pradesh caused a sustained 72-hour power outage affecting approximately 40 manufacturing units including Pepsi Foods, Isuzu Motors India, Cadbury, and multiple auto-component suppliers. Isuzu's vehicle assembly line missed production of an estimated 280 vehicles during the period. Cadbury's confectionery production interruption created a downstream supply gap for modern trade retailers in South India. The Sri City facility is a critical node in South India's manufacturing supply chain. Backup diesel generator capacity was insufficient to maintain full production across all tenants simultaneously. Estimated revenue loss across affected units is ₹340 crore.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Sri City Limited Tenant Communication, AP TRANSCO Fault Investigation Report"
+  },
+  {
+    "title": "Ennore Port Strike by Harbour Tug Operators Paralyses Vessel Movements for 5 Days",
+    "description": "Harbour tug operators at Ennore Port in Chennai went on indefinite strike demanding revision of the tug hire rate schedule and improved safety equipment, paralyzing all vessel berthing and unberthing operations for five days. Without tug assistance, no commercial vessel can safely manoeuvre in the port's confined channel. Ennore handles the bulk of Tamil Nadu's coal imports for TANGEDCO power stations, and the strike has already reduced coal stock at Ennore Thermal Station to 5 days. Car carriers for Hyundai and Ford's export operations are diverted to Krishnapatnam. Liquefied petroleum gas import tankers are at anchor, creating LPG supply tension for distributors in the Chennai metropolitan region.",
+    "category": "Supply Chain - Port Strike",
+    "source": "Ennore Port Trust Administration, Harbour Tug Operators Union Chennai, TANGEDCO Fuel Security Report"
+  },
+  {
+    "title": "Global Semiconductor Fab in Taiwan Halts Production After Magnitude 7.2 Earthquake",
+    "description": "A powerful earthquake caused a three-day production halt at one of the world's largest semiconductor fabrication facilities in Hsinchu Science Park, Taiwan. The facility produces 28nm and 7nm chips critical for automotive, consumer electronics, and industrial equipment supply chains globally. Clean room contamination from the seismic event required full decontamination before fab line restart. Indian auto manufacturers relying on these chips for engine control units and infotainment systems are assessing inventory buffers that typically run at 6-8 weeks. Electronics assembly plants in the Sriperumbudur SEZ near Chennai have placed emergency allocation requests with spot market brokers. Lead times for automotive-grade microcontrollers are expected to extend from 14 to 38 weeks.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Taiwan Semiconductor Industry Association Earthquake Impact Report, SIAM India Component Procurement Alert"
+  },
+  {
+    "title": "Suez Canal Vessel Grounding Blocks Transit for 72 Hours; Global Supply Chain Cascades",
+    "description": "A fully laden ultra-large container vessel grounded in the southern section of the Suez Canal while transiting northbound, blocking the channel for 72 hours before salvage tugs successfully refloated the vessel. During the blockage, 387 vessels accumulated at both ends of the canal. The incident created an immediate backlog that will take 12-16 days to clear at normal transit pace. Indian importers of European machinery, chemicals, and consumer goods face delivery delays of 3-4 weeks. Export vessels carrying Indian textiles, pharmaceuticals, and engineering goods to European customers are similarly delayed. Air freight demand surged immediately with rates rising 85% on India-Europe lanes as buyers sought to expedite time-sensitive cargo.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Suez Canal Authority Navigation Report, Drewry Shipping Research Canal Blockage Impact Assessment"
+  },
+  {
+    "title": "Largest Flour Mill in Andhra Pradesh Shuts After Wheat Contamination Discovery",
+    "description": "The largest wheat flour milling facility in Andhra Pradesh, located in Guntur district with a daily milling capacity of 1,200 metric tonnes, was ordered to halt operations by the Food Safety and Standards Authority of India after routine testing revealed mycotoxin contamination in wheat stocks sourced from a Punjab supplier. The shutdown affects atta and maida supply to bakeries, biscuit manufacturers, and bulk institutional buyers across Andhra Pradesh, Telangana, and northern Tamil Nadu. The facility supplies approximately 18% of the atta available in the Visakhapatnam-Hyderabad market corridor. Flour prices in wholesale markets have already risen ₹4.20 per kg. The shutdown is expected to last 21-28 days while contaminated stocks are quarantined and new wheat supplies are tested and procured.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Food Safety and Standards Authority of India Southern Region Enforcement Order, Roller Flour Millers Federation Andhra Pradesh"
+  },
+  {
+    "title": "Petrapole-Benapole Land Border Closed for 10 Days After Bilateral Diplomatic Dispute",
+    "description": "The Petrapole-Benapole integrated check post — India's largest and busiest land port for trade with Bangladesh — was closed for 10 days following a bilateral diplomatic dispute over transit fee revisions. The checkpoint normally handles goods worth ₹250-300 crore per day including cotton yarn, sugar, consumer goods, and pharmaceuticals moving from India to Bangladesh, and ready-made garments, jute products, and fish moving in the reverse direction. Indian exporters with time-sensitive shipments of textiles and pharma products are facing contract penalty clauses. Bangladeshi manufacturers dependent on Indian raw materials are halting or slowing production lines. Alternative routing through Gede-Darsana rail crossing has insufficient capacity to absorb the diverted volume.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Land Ports Authority of India West Bengal Zone, Federation of Indian Export Organisations Bengal Chapter"
+  },
+  {
+    "title": "Tata Motors Pune Assembly Plant Shuts 8 Days After Tier-2 Supplier Fire",
+    "description": "Tata Motors was forced to suspend passenger vehicle assembly at its Pune plant for 8 working days after a fire destroyed the production facility of a Tier-2 supplier manufacturing precision-stamped door hinge components. The affected supplier was the sole source for a specific hinge specification used across 6 Tata Motors models. No qualified alternate supplier exists in India, and importing the component requires 21 days minimum lead time. Daily production loss at the Pune plant is estimated at 620 vehicles per day. Tata Motors has activated its global sourcing desk to identify qualified suppliers in Thailand and Turkey for emergency supply. Dealer network inventory is being managed to prevent stockouts during the shutdown period.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Tata Motors Limited Production Status Communication, Society of Indian Automobile Manufacturers"
+  },
+  {
+    "title": "Chennai Port Container Terminal Crane Breakdown Creates 9-Day Backlogs",
+    "description": "Simultaneous mechanical failure of two of the four post-panamax ship-to-shore cranes at Chennai Port's container terminal reduced handling capacity by 50%, creating severe vessel queue buildup with turnaround times extending from the normal 36 hours to 9 days. The Chennai-based container terminal is South India's largest, handling 1.8 million TEUs annually. The backlog has cascaded into the container freight stations serving Kancheepuram and Tiruvallur industrial zones supplying auto components to global OEMs. Just-in-time delivery commitments by auto component manufacturers to international customers are under severe pressure. The Port Trust has engaged a Singapore-based crane maintenance company for emergency repair at an accelerated cost of $4.2 million.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Chennai Port Trust Container Terminal Operations Report, Automotive Component Manufacturers Association South India"
+  },
+  {
+    "title": "AP Expressway Truck Strike: 72,000 Trucks Off Road for 5 Days Over Toll Hike",
+    "description": "The Andhra Pradesh Lorry Owners Association called a state-wide truck strike for 5 days in protest against a 28% increase in toll charges on the Vijayawada-Visakhapatnam Expressway and four other state highways. Approximately 72,000 trucks went off the road, halting the movement of essential commodities including vegetables, construction materials, cement, steel, and FMCG products across Andhra Pradesh. Vegetable prices in Vijayawada, Tirupati, and Visakhapatnam markets rose 35-55% within 48 hours. Cement plants in Nalgonda and Kurnool districts saw dispatches fall to zero. Construction sites across the state halted as raw material deliveries ceased. The strike ended on day 5 after state government agreed to review the toll hike.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Andhra Pradesh Lorry Owners Association Strike Notice, AP State Road Transport Corporation"
+  },
+  {
+    "title": "Mundra Port Fire in Chemical Storage Zone Forces 14-Day Operational Restriction",
+    "description": "A major fire originating in a chemical storage warehouse in Adani Mundra Port's hazardous cargo zone spread to adjacent liquid chemical tank farm before being contained after 18 hours. The fire destroyed approximately 4,200 tonnes of industrial chemicals including methanol and acetic acid. Port authorities imposed a 14-day operational restriction on chemical and liquid cargo handling in the affected zone as investigation and safety clearance proceeds. Mundra handles approximately 35% of India's chemical imports. Downstream chemical manufacturers in Gujarat and Rajasthan that depend on imported feedstocks are activating emergency sourcing. The port handled 144 MT of cargo annually and any disruption creates immediate national supply chain pressure.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Adani Ports and SEZ Limited Incident Statement, Gujarat Pollution Control Board Investigation Notice"
+  },
+  {
+    "title": "Spicejet Cargo Grounding Disrupts Perishable Supply Chain Across India",
+    "description": "Civil Aviation Authority grounded Spicejet's cargo operations pending safety audit after three consecutive incidents of cargo mishandling and a near-miss loading incident. Spicejet Cargo was the third-largest domestic air cargo operator, handling approximately 12% of domestic air freight. Time-sensitive perishable cargo including fresh cut flowers from Bengaluru, chilled seafood from Kochi, and fresh vegetables from Himachal Pradesh are stranded at airports or diverting to road transport at higher cost and longer transit times. E-commerce players that had integrated Spicejet cargo for next-day delivery in Tier-2 cities are scrambling to rebook capacity on IndiGo and Air India cargo at 40-60% premium over contracted rates.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Directorate General of Civil Aviation Enforcement Order, Federation of Cold Chain Operators India"
+  },
+  {
+    "title": "Samsung Vietnam Factory Partial Shutdown Ripples Through Indian Smartphone Supply",
+    "description": "Samsung's flagship smartphone manufacturing facility in Thai Nguyen, Vietnam — responsible for producing approximately 50% of Samsung's global Galaxy series output — partially shut down for 18 days following a fire in its SMT (Surface Mount Technology) component assembly line. The facility produces smartphones exported to India as the dominant source of Samsung inventory. Indian smartphone distributor and retail channel inventory is expected to deplete in 21-28 days without resupply. Samsung India has activated emergency import from Samsung's Korean and Chinese facilities, but additional freight costs and the exchange rate premium add ₹800-1,400 per device to landed costs. Competing brands are accelerating promotional activity to capture market share during Samsung's supply disruption.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Samsung Electronics Supply Chain Alert, India Mobile Association Inventory Monitor"
+  },
+  {
+    "title": "Paradip Port Cyclone Damage Halts Fertilizer Imports During Critical Rabi Season",
+    "description": "A cyclone made landfall near Paradip Port in Odisha causing significant damage to the port's mechanical handling equipment including two pipeline berths for liquid fertilizer and a covered storage shed for bagged fertilizer. The port handles approximately 18% of India's fertilizer imports and is critical for supply to eastern India including Jharkhand, Bihar, and West Bengal. During the peak rabi sowing window, the port shutdown is halting the import of 1.2 lakh tonnes of DAP and MOP already chartered and en route. IFFCO and KRIBHCO have diverted three import vessels to Kolkata and Haldia ports, but draft limitations at those ports require partial unloading, increasing logistics cost by ₹380 per tonne. Fertilizer availability in Bihar and Jharkhand is expected to tighten within 10 days.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Paradip Port Trust Damage Assessment, Fertilizer Association of India Emergency Bulletin"
+  },
+  {
+    "title": "JNPT Workers Flash Strike Halts Largest Container Port for 36 Hours",
+    "description": "Jawaharlal Nehru Port Trust permanent employees conducted a flash 36-hour strike in solidarity with outsourced workers whose employment contract was terminated without due process, halting operations at India's largest container port. JNPT handles approximately 4.5 million TEUs annually and is the primary gateway for India's trade with North America, Europe, and West Asia. The 36-hour shutdown halted the movement of an estimated 14,000 import and export containers. After the strike, a backlog of 68 vessels is waiting to berth. Export containers carrying auto components, garments, and pharmaceuticals with time-definite shipping commitments are at risk of vessel rollovers, adding 5-7 days to delivery schedules. The Shipping Ministry intervened for rapid resolution.",
+    "category": "Supply Chain - Port Strike",
+    "source": "Jawaharlal Nehru Port Trust Labour Relations Statement, Container Shipping Lines Association India"
+  },
+  {
+    "title": "Honda Motorcycles Manesar Plant Shutdown After Vendor Payment Dispute",
+    "description": "Honda Motorcycle and Scooter India's Manesar manufacturing facility in Haryana suspended production for 11 days after a consortium of 14 Tier-1 vendors simultaneously halted component supplies following a dispute over the implementation of a 6% price reduction mandate from HMSI. The vendors, supplying critical components including plastic body panels, seat assemblies, and exhaust systems, invoked force majeure clauses citing raw material cost increases that make the price reduction economically unviable. HMSI's daily production of approximately 4,800 two-wheelers ceased entirely. The shutdown has created a dealer network supply crisis ahead of the festive season, with waiting periods for popular models extending from 3 weeks to 12 weeks. HMSI's market share vulnerability during the shortage is expected to benefit rival Bajaj and TVS.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Honda Motorcycle and Scooter India Production Circular, ACMA Vendor Relations Report"
+  },
+  {
+    "title": "Kolkata-Delhi NH-2 Blocked by Truckers Agitation; North-East Supply Chain Severed",
+    "description": "A spontaneous agitation by truck drivers and transporters on National Highway 2 between Kolkata and Delhi — demanding rollback of new overloading penalty regulations — created a 340 km blockade across West Bengal and Bihar for six days. The highway is the primary land route for goods moving between eastern India and the rest of the country, including goods destined for Bangladesh and Nepal. Essential commodity supply to Bihar, Jharkhand, and Northeast India was severely disrupted. Petrol stations in Patna reported fuel stock depletion within 72 hours. Cement despatches from plants in West Bengal fell to zero. The blockade had cascading effects on Bangladesh's raw material imports that transit through Kolkata.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "All India Motor Transport Congress East Zone, Bihar State Disaster Management Authority"
+  },
+  {
+    "title": "Chittoor District Tomato Processing Units Shut After Water Supply Failure",
+    "description": "A prolonged failure in the municipal water supply to Chittoor district's industrial area forced the closure of 8 tomato paste and ketchup processing units for 19 days during peak tomato harvest season. The units, with a combined processing capacity of 1,800 tonnes of fresh tomatoes per day, are the primary buyers of tomatoes from the Madanapalle farming belt in Andhra Pradesh. With processors offline, farmers dumped tomatoes at ₹2-4 per kg in distress sales as cold storage capacity was quickly overwhelmed. Nestle, HUL, and Heinz — the primary buyers of tomato paste from these processors — have issued force majeure communications to retail customers warning of SKU shortages for ketchup products lasting 6-8 weeks.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Andhra Pradesh Food Processing Industry Association, Chittoor District Collector Infrastructure Report"
+  },
+  {
+    "title": "Houthi Drone Strike Damages Cargo Vessel Near Aden; Indian Crew Rescued",
+    "description": "A drone strike attributed to Houthi forces struck and damaged a Marshall Islands-flagged bulk carrier in the Gulf of Aden carrying iron ore cargo bound for India. The vessel suffered a hull breach and engine room fire, requiring emergency evacuation of the 21-member crew including 14 Indian seafarers. The vessel is being towed to Djibouti port. Three Indian-owned shipping companies have temporarily suspended Red Sea and Gulf of Aden routing for their vessels, opting for the longer Cape of Good Hope alternative. The incident has pushed war risk insurance premiums for vessels operating in the region to 0.7% of hull value per transit — up from 0.05% pre-crisis. Indian seafarers' unions are demanding the government negotiate evacuation protocols with Gulf governments.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Maritime and Coastguard Agency Incident Report, Indian Seafarers Union Statement"
+  },
+  {
+    "title": "AP Seafood Export Hub Shrimp Processing Factories Close After FSSAI Audit",
+    "description": "Following a surprise audit by the Food Safety and Standards Authority of India in coordination with the US FDA, 11 shrimp processing and export facilities in the Nellore-Ongole coastal belt of Andhra Pradesh were issued suspension notices pending remediation of identified hygiene and cold chain compliance violations. The suspended units collectively process approximately 800 tonnes of shrimp per day — representing 22% of Andhra Pradesh's shrimp export capacity. Export orders from the US, EU, and Japan worth approximately ₹420 crore are in jeopardy as buyers activate alternative sourcing from Ecuador and Vietnam. Shrimp farm-gate prices in the Krishna and Nellore districts have fallen 25% within one week as farmer selling options contracted sharply.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Food Safety and Standards Authority of India Southern Enforcement Wing, Marine Products Export Development Authority"
+  },
+  {
+    "title": "Bangladesh Garment Factory Fire Forces Emergency Relocation of Indian Yarn Buyers",
+    "description": "A devastating fire at a large composite garment facility in Dhaka's Ashulia industrial zone destroyed the factory and its raw material inventory, including 480 tonnes of cotton yarn sourced from Coimbatore spinning mills. The loss of this anchor buyer disrupted the cash flow of three mid-sized Tamil Nadu spinning mills that had extended 90-day credit terms. Additionally, the disruption to Bangladesh's garment production has created a scramble among global brands to reroute orders to India, requiring rapid capacity allocation decisions from Indian garment manufacturers who face their own raw material and labour constraints. The incident has also renewed global buyer concern about supply chain concentration risk in the Bangladesh-India textile corridor.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Bangladesh Garment Manufacturers and Exporters Association, Confederation of Indian Textile Industry"
+  },
+  {
+    "title": "Visakhapatnam Airport Cargo Terminal Closure Disrupts Pharma Cold Chain",
+    "description": "Visakhapatnam Airport's cargo terminal was forced to suspend operations for 12 days following the discovery of structural deficiencies in the terminal building identified during a routine Airports Authority of India safety inspection. The terminal handles a significant volume of pharmaceutical exports from Andhra Pradesh's API and formulation manufacturing cluster. Temperature-sensitive pharmaceutical cargo including vaccines, biologics, and oncology products cannot be handled through the passenger terminal due to the absence of cold chain infrastructure there. Pharma companies are rerouting cargo to Hyderabad and Chennai airports at additional logistics cost of ₹45,000-80,000 per consignment, with transit time increasing by 6-9 hours — a critical concern for temperature-sensitive products.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Airports Authority of India Visakhapatnam Station Order, Pharmexcil Andhra Pradesh Chapter"
+  },
+  {
+    "title": "Tirupati Granite Export Hub Faces Container Shortage; ₹380 Crore in Orders at Risk",
+    "description": "Granite processing and export units in the Tirupati-Gudur belt of Andhra Pradesh — one of India's largest granite export clusters — are facing an acute shortage of 20-foot open-top containers required for granite slab shipment. Shipping lines have reduced open-top container positioning at Krishnapatnam and Chennai ports due to low repositioning economics. With only 40% of required container availability, processors have a backlog of 1.4 lakh square metres of finished granite slabs in yards. Export orders worth ₹380 crore to buyers in Saudi Arabia, USA, Italy, and Germany are at risk of cancellation if the shortage persists beyond 45 days. The Granite Manufacturers and Exporters Association has petitioned the Ministry of Shipping for intervention.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Granite Manufacturers and Exporters Association Andhra Pradesh, Krishnapatnam Port Container Availability Report"
+  },
+  {
+    "title": "Raipur Steel Plant Strike After Fatal Accident Halts Production for 3 Weeks",
+    "description": "Workers at a large private sector integrated steel plant in Raipur, Chhattisgarh went on indefinite strike after a fatal accident in the hot rolling mill claimed three lives, alleging systematic negligence of safety protocols. The 21-day strike halted production of approximately 2,800 tonnes of steel daily. The facility is a key supplier of structural steel sections to construction companies in Maharashtra, Telangana, and Andhra Pradesh. Infrastructure contractors in the Hyderabad metro expansion zone and NHAI highway projects report that steel delivery schedules are being pushed back by 4-6 weeks, threatening milestone timelines on projects with penalty clauses. The strike was resolved after the company agreed to an independent safety audit and enhanced compensation for the victims' families.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Chhattisgarh Labour Department Strike Notification, Steel Users Federation of India"
+  },
+  {
+    "title": "Kavali Pharmaceutical Cluster API Plant Explosion Forces Emergency Evacuation and Shutdown",
+    "description": "An explosion in a reactor vessel at a bulk drug manufacturing unit in Kavali's pharmaceutical cluster in Nellore district, Andhra Pradesh, killed two workers and injured seven others, triggering a mandatory shutdown of 14 adjacent API production units pending safety inspection by the AP Pollution Control Board and Factories Inspectorate. The affected cluster produces intermediates and APIs for antibiotic, antifungal, and cardiovascular drug supply chains. Domestic formulation manufacturers sourcing from the cluster are scrambling for alternative API supplies with estimated price increases of 18-32% for affected molecules. The cluster employs approximately 4,800 workers, and the production loss is estimated at ₹240 crore during the shutdown period.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Andhra Pradesh Factories Inspectorate Incident Report, Indian Pharmaceutical Alliance Supply Chain Monitor"
+  },
+  {
+    "title": "Kerala Floods Block National Highway to Cochin Port; Container Movement Halted 6 Days",
+    "description": "Unprecedented flooding in Ernakulam and Thrissur districts triggered by extremely heavy southwest monsoon rainfall blocked all road access to Cochin Port — South India's largest container transshipment hub — for six days. Cochin Port handles approximately 1.2 million TEUs annually and is a critical transshipment point for cargo moving between South Asia and the Middle East. The road blockage prevented all truck movement to and from the port, creating a 12,000-TEU backlog of import and export containers. Perishable export cargo including seafood, spices, and fresh produce is suffering significant spoilage. Major shipping lines MSC and CMA CGM have moved transshipment operations to Colombo as a temporary contingency.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Cochin Port Authority Emergency Circular, Kerala Disaster Management Authority Flood Report"
+  },
+  {
+    "title": "Maruti Suzuki Manesar Line 3 Stops After Robotic Welding System Malfunction",
+    "description": "A cascading software fault in the programmable logic controllers governing the robotic welding stations on Maruti Suzuki's Manesar Plant Line 3 — which produces the Swift, Dzire, and Brezza models — caused a 14-day production shutdown while German engineers from Fanuc and KUKA were flown in for diagnosis and replacement of affected control units. The shutdown reduces Maruti's national production capacity by approximately 18%, creating a shortfall of around 28,000 vehicles over the disruption period. Dealer inventory depletion is expected within 3 weeks for the affected models. Waiting periods, which were already 4-6 weeks, are projected to extend to 14-18 weeks. Maruti's market share is expected to dip temporarily as buyers shift to competing models.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Maruti Suzuki India Limited Production Communication, Society of Indian Automobile Manufacturers Monthly Data"
+  },
+  {
+    "title": "Iran Sanctions Block Shipment of Petrochem Raw Materials; Gujarat Plastics Industry Scrambles",
+    "description": "New US secondary sanctions targeting Iranian petrochemical exports led three major Indian petrochemical companies to halt import of MEG (mono-ethylene glycol) and PTA (purified terephthalic acid) from Iranian sources, which had been acquired at a significant discount to global prices. The abrupt supply termination leaves polyester yarn manufacturers in Surat and PET bottle manufacturers in Gujarat and Rajasthan facing a feedstock gap of approximately 180,000 tonnes per quarter. Companies are urgently sourcing replacement material from Saudi Arabia, South Korea, and Taiwan at spot market prices 22-28% above their previous contracted Iranian price. The cost increase is expected to raise polyester fabric prices and PET packaging costs across the value chain.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "US OFAC Secondary Sanctions Notice, Chemicals and Petrochemicals Manufacturers Association India"
+  },
+  {
+    "title": "Major Wheat Processing Unit in Nalgonda District Shuts After Milling Machinery Fire",
+    "description": "A fire originating in the electrical control panel of the main roller milling line at a large wheat processing facility in Nalgonda district, Telangana destroyed the primary milling machinery. The unit, with a daily capacity of 800 metric tonnes, was the primary atta and maida supplier to institutional buyers including large bakery chains and food processing companies in Hyderabad and Secunderabad. The facility's rebuild timeline is estimated at 9 months. Competing mills in the region are already operating at 90%+ capacity, limiting their ability to absorb the demand. Wholesale atta prices in Hyderabad markets have risen ₹3.50 per kg within a week of the incident. Bread and biscuit manufacturers are reviewing their multi-supplier strategies to prevent recurrence.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Telangana Factories Inspectorate Fire Investigation Report, Roller Flour Millers Federation Telangana"
+  },
+  {
+    "title": "Loaded Coal Train Derailment Blocks Vizag-Kirandul Rail Line for 12 Days",
+    "description": "Derailment of a fully laden iron ore rake on the Vizag-Kirandul railway line — a dedicated mineral corridor — blocked the track for 12 days while wreckage clearance and track repair was conducted. The 460-km Kirandul line is the only rail link for evacuating iron ore from the Bailadila mines in Chhattisgarh to Visakhapatnam Port for export. During the blockage, export commitments for approximately 1.8 million tonnes of iron ore to Japanese and Korean steel mills cannot be fulfilled. NMDC, the mining company, has declared force majeure with international buyers. Demurrage is accumulating on three bulk carriers waiting at Visakhapatnam anchorage. Track repair and safety clearance is expected to take 12 working days.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "South Central Railway Operations Control Centre, NMDC Limited Force Majeure Notice"
+  },
+  {
+    "title": "Vizag LPG Import Terminal Shutdown After Safety Valve Failure; South India Supply at Risk",
+    "description": "A safety valve failure at the LPG import and storage terminal at Visakhapatnam operated by Indian Oil Corporation triggered a mandatory emergency shutdown as a precautionary measure against potential overpressure in storage bullets. The terminal handles approximately 28% of LPG supply for Andhra Pradesh, Odisha, and parts of Telangana. During the 15-day shutdown for inspection and valve replacement, LPG supply to bottling plants in the region will be reduced by 35%. The LPG availability for domestic cylinder refilling will tighten, and commercial establishment supply — particularly for restaurants and hotels — will be prioritised for reduction. IOC has arranged emergency supply from Mumbai and Kandla terminals by coastal tanker, but transit time adds 7 days to replenishment cycles.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Indian Oil Corporation Terminal Operations Alert, Petroleum and Explosives Safety Organisation Inspection Notice"
+  },
+  {
+    "title": "Pakistan Air Space Closure Forces Indian Airlines to Reroute; Cargo Time and Cost Increases",
+    "description": "Following a diplomatic incident, Pakistan closed its airspace to Indian commercial and cargo flights, forcing Indian airlines to reroute all westbound flights over the Arabian Sea. The rerouting adds 90-120 minutes to flight times to Europe, the Middle East, and Central Asia, increasing fuel costs by approximately ₹8-12 lakh per flight. Air cargo services on India-Europe routes are particularly affected, with capacity reductions and higher costs rippling through supply chains dependent on air freight. Perishable exports including fresh fruits, cut flowers, and high-value pharmaceutical cargo face increased transit times that threaten product quality. The airspace closure is costing Indian carriers an estimated ₹80-120 crore per week in additional operating costs.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Directorate General of Civil Aviation Operations Circular, Air Cargo Agents Association of India"
+  },
+  {
+    "title": "Nellore Cement Plant Blast Furnace Explosion Kills 2; Plant Shut 60 Days",
+    "description": "An explosion in the kiln section of a large cement manufacturing plant in Nellore district, Andhra Pradesh killed two maintenance workers and extensively damaged the kiln structure, forcing a mandatory 60-day shutdown for structural repair and safety clearance. The plant had an annual capacity of 3.5 million tonnes and was the primary cement supplier for construction projects in southern Andhra Pradesh and northern Tamil Nadu. Cement prices in Nellore, Tirupati, and surrounding districts have risen ₹42 per 50-kg bag within two weeks. NHAI and APRDC highway construction projects in the affected region face supply shortfalls. Competing plants in Krishna and Guntur districts are ramping dispatches to partially compensate but face logistics constraints.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Andhra Pradesh Factories Inspectorate Explosion Investigation, Cement Manufacturers Association India"
+  },
+  {
+    "title": "Mumbai-Pune Expressway Blockage from Landslide Paralyses Industrial Supply Chain",
+    "description": "An unusually large monsoon-triggered landslide collapsed approximately 85 metres of the Mumbai-Pune Expressway near Khopoli, blocking the nation's most industrially critical highway corridor for seven days. The expressway connects India's financial capital with Pune's automotive, IT, and manufacturing hubs. A daily estimated ₹1,800 crore in goods movement was disrupted. Automotive plants in Pune's Pimpri-Chinchwad zone reported vendor component supply disruptions within 48 hours. Pharmaceutical companies in Pune's Hinjewadi cluster faced delays in raw material receipt. The alternative route through NH-48 added 3-4 hours to transit times and became heavily congested. Maharashtra Industrial Development Corporation declared a supply emergency for its Pune zone industrial estates.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Maharashtra State Road Development Corporation Incident Report, Pimpri Chinchwad Industrial Association"
+  },
+  {
+    "title": "Paradip Refinery Crude Unit Shutdown Tightens Fuel Supply in Eastern India",
+    "description": "Indian Oil Corporation's Paradip Refinery in Odisha shut down its primary crude distillation unit for 35 days of planned maintenance but encountered unexpected complications that extended the shutdown. Paradip Refinery processes approximately 15 million tonnes of crude oil annually and is the primary fuel supply source for eastern India including Odisha, West Bengal, Jharkhand, and Bihar. During the extended shutdown, petrol and diesel supply to these states was tightened, with IOC drawing down reserves and rerouting tanker trucks from Haldia and Barauni refineries. Fuel queues were reported at several pump stations in Bhubaneswar and Patna. Aviation turbine fuel supply to Bhubaneswar and Kolkata airports was also affected.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Indian Oil Corporation Paradip Refinery Operations Bulletin, PPAC Eastern Region Fuel Availability Report"
+  },
+  {
+    "title": "Tuticorin Port Chemical Terminal Explosion Closes Port for 21 Days",
+    "description": "An explosion at a chemical terminal in Tuticorin (V.O. Chidambaranar) Port destroyed two storage tanks containing industrial chemicals and caused fire damage to an adjacent warehouse. The port was closed for 21 days as investigation, cleanup, and safety clearance proceeded. Tuticorin is the primary port for Tamil Nadu's trade in fertilizers, chemicals, coal, and granite. The closure forced cargo diversion to Chennai and Cochin ports, both of which immediately reported congestion surcharges. Sterlite Copper's smelter facility — adjacent to the port — also reported raw material receipt disruptions. Sugarcane molasses and sugar export shipments from Tamil Nadu mills were significantly delayed.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "V.O. Chidambaranar Port Trust Emergency Statement, Tamil Nadu Pollution Control Board Investigation Notice"
+  },
+  {
+    "title": "Flood Damage to Rail Lines in AP Coastal Districts Disrupts Freight Movement for 3 Weeks",
+    "description": "Unprecedented flooding across the coastal districts of East and West Godavari in Andhra Pradesh damaged approximately 48 km of rail track on the Howrah-Chennai main line, forcing freight traffic to be diverted via the Guntakal-Renigunta-Chennai alternate route — adding 320 km and 18-22 hours to transit times. The main line is the primary freight corridor for goods moving between South and East India. Coal rakes for power plants, fertilizer wagons, and container trains are severely delayed. Thermal power plants at Ramagundam and Simhadri reduced their coal intake, triggering load shedding in Telangana and Andhra Pradesh for 6-10 hours daily. South Central Railway declared restoration as the top priority with estimated repair duration of 21 days.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "South Central Railway Engineering Department Damage Report, AP Disaster Management Authority"
+  },
+  {
+    "title": "Largest Rice Mill in Andhra Pradesh Shuts After River Water Contamination",
+    "description": "The largest rice milling complex in Andhra Pradesh, located in West Godavari district with a daily milling capacity of 2,400 metric tonnes of paddy, was shut down after laboratory tests found heavy metal contamination in the water drawn from the Godavari river tributary used in the milling process. The AP Pollution Control Board issued a stop-work notice pending remediation and the installation of certified water treatment systems. The unit supplies parboiled rice to PDS fair price shops across three districts and is a key supplier to APSCSC (AP State Civil Supplies Corporation). Alternative procurement from smaller mills is being arranged but at a 12-15% higher cost. Estimated restoration timeline is 45 days.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Andhra Pradesh Pollution Control Board Stop-Work Order, AP State Civil Supplies Corporation Procurement Alert"
+  },
+  {
+    "title": "Delhi-Mumbai Industrial Corridor Road Links Blocked by Truck Owners Protest",
+    "description": "Truck owners and transport operators in Rajasthan and Gujarat launched a 10-day road blockade on key feeder routes to the Delhi-Mumbai Industrial Corridor, protesting against the implementation of new electronic toll collection mandates and GPS tracking requirements they claim impose unacceptable compliance costs on small operators. The industrial corridor connects manufacturing zones in Rajasthan, Gujarat, and Maharashtra. Petrochemical plants in Dahej lost raw material deliveries, textile manufacturers in Surat faced yarn supply disruptions, and construction material deliveries to DMICDC zone projects halted. The Ministry of Road Transport and Highways held emergency talks with transporter associations to resolve the dispute.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "All India Motor Transport Congress Gujarat-Rajasthan Zone, Delhi-Mumbai Industrial Corridor Development Corporation"
+  },
+  {
+    "title": "Odisha Alumina Refinery Shutdown Tightens Aluminium Supply for Downstream Industry",
+    "description": "Vedanta's Lanjigarh alumina refinery in Odisha — with an annual capacity of 2 million tonnes of alumina — was forced to shut down for 28 days after a critical failure in the Bayer process digestion circuit. The refinery supplies alumina to Vedanta's Jharsuguda and BALCO smelters, which together produce approximately 700,000 tonnes of primary aluminium annually. The alumina supply interruption is expected to reduce smelter output by 18-22% during the shutdown period, tightening domestic aluminium availability. Downstream cable manufacturers, packaging companies, and automotive component makers face input shortages. Spot aluminium prices on MCX rose 9% within the first week of the shutdown announcement.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Vedanta Limited Operations Disclosure, Aluminium Association of India Supply Monitor"
+  },
+  {
+    "title": "Assam Tea Gardens Hit by Flash Floods; June Flush Crop Largely Lost",
+    "description": "Flash floods across Assam's Brahmaputra valley inundated 38% of the productive tea garden area, damaging young flush growth and disrupting plucking operations during the commercially critical June-July second flush — typically the highest quality and most valuable harvest of the year. The Assam Tea Planters Association estimates total crop loss of approximately 48 million kg, representing 12% of Assam's annual output. Tea auction prices at Kolkata's J. Thomas auctions surged 28% as buyers rushed to secure available stocks. Indian tea exporters to Russia, Iran, and the UK face order shortfalls. Packaged tea companies including Tata Consumer Products and Hindustan Unilever are reviewing their contract procurement strategies as spot market prices exceed contracted rates.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Assam Tea Planters Association Crop Loss Assessment, Tea Board of India Market Report"
+  },
+  {
+    "title": "Hazira LNG Terminal Faces 25-Day Maintenance Shutdown; Gas Supply to Gujarat Industry Tightens",
+    "description": "Petronet LNG's Hazira terminal on the Gujarat coast undertook mandatory statutory maintenance of its receiving and regasification infrastructure for 25 days, reducing LNG import capacity by 100% during the period. Hazira supplies approximately 14 million cubic metres of regasified LNG per day to industries across Gujarat and Rajasthan. Ceramic tile manufacturers in Morbi — India's largest ceramics cluster — depend on gas for kiln firing and faced partial shutdowns as gas pressure in the distribution network fell. Fertilizer plants in Gujarat that use gas as feedstock reduced production by 30-40%. The industrial gas shortage also affected power generation from gas-based plants, adding pressure to the state grid.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Petronet LNG Limited Maintenance Notice, Gujarat Industrial Development Corporation Gas Supply Circular"
+  },
+  {
+    "title": "Vizag-Chennai Railway Coastal Line Breached in Three Points; Restoration Takes 18 Days",
+    "description": "Extremely heavy rainfall associated with a depression in the Bay of Bengal caused breaches in the coastal railway embankment at three locations between Srikakulam and Vizianagaram districts, disrupting the Howrah-Chennai main line on the coastal stretch of Andhra Pradesh. Passenger services were diverted via an inland route adding 6 hours to journey time. All freight traffic was halted on the coastal line. The disruption affected coal movement to Visakhapatnam Port for export and inward fertilizer and general merchandise movement for northern Andhra Pradesh districts. Restoration involving reinforced stone ballasting and embankment repair at three breach points was estimated at 18 days by South Central Railway engineering teams.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "South Central Railway Guntakal Division Engineering Report, NMDC Limited Logistics Update"
+  },
+  {
+    "title": "India-Nepal Trade Disrupted After Raxaul-Birgunj Border Point Blocked by Agitation",
+    "description": "Local political agitators blocked the Raxaul-Birgunj integrated check post — the primary land trade gateway between India and Nepal, handling approximately 65% of bilateral trade — for 12 days demanding administrative boundary revision. Nepal is heavily dependent on this crossing for petroleum products, medicines, and essential goods. Fuel shortages emerged in Kathmandu within 6 days of the blockade. Nepal Oil Corporation activated emergency fuel supplies through alternative Tatopani and Kakarvitta crossings but volume was insufficient. Indian exporters of rice, sugar, pharmaceutical products, and consumer goods accumulated ₹380 crore in stranded cargo. Nepal's manufacturing sector dependent on Indian raw materials faces production disruption extending beyond the blockade period.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Land Ports Authority of India Bihar Zone, Federation of Nepalese Chambers of Commerce and Industry"
+  },
+  {
+    "title": "Bhubaneswar Pharma Cluster Faces Effluent Treatment Plant Failure; 32 Units Shut",
+    "description": "Failure of the common effluent treatment plant serving the Patia pharmaceutical manufacturing cluster in Bhubaneswar forced the Odisha State Pollution Control Board to issue production suspension orders to 32 bulk drug and formulation manufacturing units that discharge to the common treatment facility. The mandatory shutdown, while the CETP undergoes emergency repair, has halted production of generic medications including antibiotics, pain management drugs, and vitamins. The cluster's daily production value of approximately ₹85 crore is entirely offline. Odisha government health procurement for district hospitals is facing drug availability stress. Private pharmacies in Bhubaneswar report beginning to see stock depletion of specific generic products.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Odisha State Pollution Control Board Closure Order, Bhubaneswar Pharmaceutical Manufacturers Association"
+  },
+  {
+    "title": "Nepal Earthquake Disrupts Himalayan Border Trade and Tourism Supply Chain",
+    "description": "A magnitude 6.4 earthquake in western Nepal caused extensive damage to road infrastructure on the Rasuwagadhi-Kerung corridor — the primary trade route between Nepal and Tibet — as well as on several trekking and tourism infrastructure supply routes in Mustang and Manang districts. The seismic event triggered landslides that blocked the Prithvi Highway between Kathmandu and Pokhara for 8 days. Nepal's tourism supply chain — including hotels, trekking agencies, and mountain expedition logistics companies — faces disruption during peak pre-monsoon trekking season. Indian suppliers of food, beverages, and equipment to the Nepali tourism sector face postponed purchase orders and payment delays.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Nepal Disaster Risk Reduction and Management Authority, Nepal Chamber of Commerce"
+  },
+  {
+    "title": "Samsung Display Shutdown in South Korea Halts OLED Panel Supply to Indian TV Makers",
+    "description": "Samsung Display's Asan facility in South Korea implemented an unplanned 3-week maintenance shutdown of its OLED panel production line following detection of yield-degrading contamination in the deposition process. The facility supplies OLED panels to TV manufacturers globally, including Sony, LG, and Panasonic — all of which have significant India operations. Indian contract manufacturers assembling premium OLED televisions under international brand licenses in Tirupati and Pune face panel shortages within 35 days of existing inventory coverage. Premium TV segment sales during the upcoming festive quarter are expected to be constrained. QLED and LCD TV manufacturers stand to benefit from the temporary OLED shortage.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Korea Display Industry Association Production Alert, Consumer Electronics and Appliances Manufacturers Association India"
+  },
+  {
+    "title": "Cyclone Biparjoy Damage at Kandla Port Creates 3-Week Import Backlog",
+    "description": "Cyclone-force winds from a severe cyclonic storm caused structural damage to warehousing and handling equipment at Kandla Port — India's largest port by cargo volume — in Kutch district, Gujarat. Four mechanical grab unloaders and two ship-to-shore cranes sustained damage, reducing the port's bulk handling capacity by 40%. Kandla is the primary import gateway for edible oil, fertilizer, and chemicals for North and West India. The three-week reduced-capacity period has created a cargo backlog affecting vegetable oil importers, fertilizer distributors, and chemical manufacturers in Rajasthan and Madhya Pradesh. Edible oil wholesale prices in Jaipur and Ahmedabad rose 8% within two weeks.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Kandla Port Authority Damage Assessment Report, Solvent Extractors Association of India Supply Alert"
+  },
+  {
+    "title": "Tiruppur Textile Hub Power Crisis Forces 40% of Garment Units to Operate at Half Capacity",
+    "description": "An acute power deficit in Tamil Nadu following the failure of a 600 MW generating unit at the Mettur thermal plant forced TANGEDCO to impose 10-hour daily power cuts on industrial consumers in the Tiruppur district. Tiruppur, which is India's largest knitwear export hub supplying $3.8 billion in annual exports, was severely affected. Approximately 6,000 hosiery and knitwear manufacturing units operate in the cluster, and 40% were forced to cut production to half-capacity due to insufficient backup generator capacity. Global buyers including Decathlon, H&M, and Primark raised concerns about shipment schedule adherence. Export commitments worth ₹840 crore were identified as at risk of delay.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Tiruppur Exporters Association, Tamil Nadu Generation and Distribution Corporation Power Restriction Order"
+  },
+  {
+    "title": "Haldia Petrochemicals Plant Shutdown Disrupts Eastern India Polymer Supply",
+    "description": "Haldia Petrochemicals Limited's cracker plant in Haldia, West Bengal experienced a critical mechanical failure in the ethylene cracker furnace system, forcing a 55-day shutdown. The plant is the sole producer of polyethylene and polypropylene in eastern India, supplying plastic processors in West Bengal, Bihar, Jharkhand, and Odisha. Plastic packaging manufacturers, FMCG companies, and automotive component makers in eastern India face raw material shortages and sharp price increases as they are forced to source polymers from Gujarat and Maharashtra at additional freight costs of ₹4,200-6,800 per tonne. Haldia Petrochemicals has declared force majeure with all contract customers during the shutdown.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Haldia Petrochemicals Limited Operations Disclosure, Plastics Export Promotion Council Eastern Region"
+  },
+  {
+    "title": "Kolkata Port Pilot Strike Grounds All Vessel Movements for 72 Hours",
+    "description": "Marine pilots at Kolkata-Haldia Port Complex went on a 72-hour strike demanding wage revision and improved service conditions, grounding all vessel movements in and out of Kolkata's riverine port system. Without licensed pilots, no vessel can legally navigate the Hooghly River's complex tidal and sandbar conditions. Twenty-one vessels — including bulk carriers, container ships, and tankers — were unable to berth or sail. Import cargo including raw jute, edible oil, and machinery was stranded. Export consignments of engineering goods, garments, and leather products missed vessel connections. The strike was resolved after Port Trust management offered to convene a wage revision committee within 30 days.",
+    "category": "Supply Chain - Port Strike",
+    "source": "Kolkata Port Trust Labour Relations Division, Indian Marine Pilots Association"
+  },
+  {
+    "title": "Dry Port at Inland Container Depot Nagpur Overwhelmed; Rail Connections Congested",
+    "description": "India's largest inland container depot at Nagpur — a critical transshipment hub for Central India — reported critical capacity overflow with container dwell times extending to 22 days against a standard target of 5 days. The congestion arose from simultaneous issues: a 10-day track maintenance block on the Nagpur-Mumbai rail line reduced inbound train frequency, while a surge in import cargo arrivals overwhelmed yard capacity. Export containers from Central India's textiles, agro-processing, and auto component sectors are missing ship connections at JNPT. The congestion surcharge imposed by shipping lines at JNPT is being passed through to exporters routing through Nagpur ICD, adding ₹22,000-35,000 per container in unexpected logistics costs.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Container Corporation of India Nagpur ICD Operations Report, Central Railway Freight Corridor Update"
+  },
+  {
+    "title": "AP Aquaculture Feed Mill Fire Halts Shrimp Farm Operations Across Krishna District",
+    "description": "A major fire at the largest aquaculture feed manufacturing facility in Andhra Pradesh — located in Vijayawada and serving approximately 3,800 shrimp farms across Krishna and Guntur districts — destroyed the entire finished goods warehouse containing 8,400 tonnes of shrimp feed worth ₹82 crore. The fire took 14 hours to control and caused damage to mixing and pelletising equipment requiring 90 days for full repair and restart. Shrimp farmers in the Krishna delta who depend on weekly feed deliveries face an immediate supply gap. Alternative feed sourcing from Nellore-based manufacturers adds ₹4,200 per tonne in additional transport cost. Shrimp growth cycles will be interrupted, delaying harvest and export dispatch schedules by 3-4 weeks.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "AP Aquaculture Authority Production Alert, Andhra Pradesh Shrimp Farmers Association"
+  },
+  {
+    "title": "Port of Singapore Congestion Cascades to Indian Transshipment Routes",
+    "description": "Record vessel congestion at the Port of Singapore — caused by simultaneous berth maintenance, a surge in rerouted Red Sea cargo, and labour availability issues — has created a transshipment bottleneck for Indian ports relying on Singapore as a feeder hub. Vessels from Indian ports including JNPT, Mundra, and Cochin that transship cargo at Singapore for onward routing to East Asia and Oceania are experiencing delays of 8-14 days at Singapore anchorage. Exporters in India's IT hardware, pharmaceutical, and light manufacturing sectors shipping to Australian, Japanese, and Korean buyers face delivery schedule disruptions. The transshipment delay is causing container equipment imbalance issues at originating Indian ports.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Maritime and Port Authority of Singapore Vessel Traffic Report, Drewry Global Port Monitor"
+  },
+  {
+    "title": "Ranipet Leather Industrial Zone Faces Closure Orders After Effluent Violation",
+    "description": "The National Green Tribunal ordered temporary closure of 68 tanneries and leather processing units in the Ranipet Industrial Zone in Tamil Nadu following detection of hexavalent chromium in the Palar River at concentrations 340 times permissible limits. The closure affects a significant portion of Tamil Nadu's leather export industry, which produces finished leather, leather goods, and footwear for European and US markets. Export contracts worth ₹480 crore are at risk as production halts pending installation of zero-liquid-discharge effluent treatment systems. Buyers including major European shoe brands are being notified of force majeure. Workers from the 68 units — approximately 14,000 — face temporary unemployment.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "National Green Tribunal Order, Council for Leather Exports Tamil Nadu Chapter"
+  },
+  {
+    "title": "India-Bangladesh Rail Freight Suspended After Bridge Safety Concern; Disrupts Bulk Trade",
+    "description": "Indian Railway engineers discovered critical structural deficiencies in the Hardinge Bridge — the primary rail crossing over the Padma River and a key link in India-Bangladesh rail freight — during a routine inspection, necessitating an immediate suspension of loaded freight trains pending emergency repair. The bridge handles approximately 22 freight train crossings per day carrying coal, steel, fertilizer, and consumer goods between India and Bangladesh. The suspension forces all freight to road transport, creating severe congestion at the Benapole-Petrapole border crossing and significantly increasing per-tonne logistics costs. Bangladesh Railway has declared a national freight emergency for affected commodities.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Bangladesh Railway Emergency Notice, Federation of Bangladesh Chambers of Commerce"
+  },
+  {
+    "title": "AP Sugar Mill Strike Halts Sugarcane Crushing During Peak Season",
+    "description": "Workers at four major sugar mills in Krishna and Prakasam districts, Andhra Pradesh went on strike demanding implementation of revised state-mandated fair and remunerative price for sugarcane and pending wage arrears. The mills — with a combined crushing capacity of 28,000 tonnes of cane per day — halted operations during the peak crushing season from December to March. Approximately 85,000 farmers in the region who had delivered or were scheduled to deliver cane face delayed payment and cane rejection as standing crop deteriorates in fields. The molasses and ethanol supply chain downstream of these mills is also disrupted. AP Sugar Federation estimates the loss at ₹280 crore per week of non-operation.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Andhra Pradesh Sugar Federation, AP Sugar Mill Workers Union Strike Notice"
+  },
+  {
+    "title": "China's Zhongshan Port Closure Disrupts Furniture and Lighting Import Supply to India",
+    "description": "China's Zhongshan Port — the primary export gateway for Guangdong province's furniture, lighting fixtures, and home décor manufacturing clusters — was closed for 14 days following a typhoon that caused damage to port handling equipment and warehousing infrastructure. India imports approximately $2.8 billion worth of furniture, lighting, and home décor from this cluster annually. Indian importers and retailers with festive season inventory strategies are facing delivery delays of 3-5 weeks. E-commerce platforms with significant furniture and home products categories are revising their pre-festive inventory adequacy plans. Indian furniture manufacturers are exploring import substitution opportunities, though production lead times of 90+ days limit short-term relief.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Guangdong Maritime Safety Administration Port Closure Notice, Confederation of Indian Industry Retail Council"
+  },
+  {
+    "title": "Ammonium Nitrate Supply Chain Disruption After Port Rejection; Fertilizer Sector Alert",
+    "description": "A shipment of 8,400 tonnes of ammonium nitrate-based fertilizer compound was rejected entry at Chennai Port following detection of non-standard composition in laboratory testing that raised regulatory and safety concerns under Indian Explosives Act provisions. The rejected shipment — valued at ₹48 crore — was chartered by a major fertilizer cooperative and was intended for distribution to farmers in Andhra Pradesh, Tamil Nadu, and Karnataka for the rabi season. The product rejection has created a localised fertilizer availability gap in the southern region. Alternative supply from domestic producers requires 3-4 weeks for logistics arrangement. The supplier, a Ukrainian fertilizer manufacturer, disputes the test results and has invoked arbitration.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Chennai Port Customs Authority Rejection Order, Fertilizer Association of India Southern Region"
+  },
+  {
+    "title": "Truck Driver Shortage in Punjab-Haryana Creates Wheat Procurement Bottleneck",
+    "description": "An acute shortage of truck drivers in Punjab and Haryana — following mass migration of drivers to construction and infrastructure job sites offering higher wages during the same period — has created a severe bottleneck in moving procured wheat from mandis to Food Corporation of India storage facilities. FCI's procurement target for the season is at risk with an estimated 3.8 million tonnes of procured wheat stuck at mandi sites due to transport unavailability. Tarpaulin covering of outdoor stored grain is inadequate for the full stock at risk, and unseasonal rain forecasts increase the risk of quality degradation. Spot truck hire rates in the region have risen 65% above normal seasonal rates.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Food Corporation of India Punjab Region Procurement Report, Punjab Mandi Board Daily Arrivals Data"
+  },
+  {
+    "title": "India-Sri Lanka Ferry Service Suspension Disrupts MSME Trade Corridor",
+    "description": "The India-Sri Lanka passenger and cargo ferry service connecting Rameswaram and Talaimannar was suspended indefinitely after the vessel operating the route failed its classification survey — revealing hull integrity issues requiring major drydock repair. The ferry had provided a cost-effective cargo movement option for MSMEs in Tamil Nadu supplying consumer goods, food products, and textiles to Sri Lankan buyers. The suspension forces all India-Sri Lanka cargo back to sea freight via Colombo, adding 4-7 days and approximately 40% more cost per shipment. Tamil Nadu's small and medium exporters to Sri Lanka are the most severely affected given their lower volume and higher logistics cost sensitivity.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Shipping Corporation of India Ferry Division, Tamil Nadu MSME Export Association"
+  },
+  {
+    "title": "Visakhapatnam Oil Refinery Pipeline Leak Forces Production Curb for 45 Days",
+    "description": "Hindustan Petroleum Corporation Limited's Visakhapatnam Refinery detected a significant leak in an underground crude oil transfer pipeline connecting the marine facility to the refinery complex. The leak required pipeline excavation, repair, and safety recommissioning that restricted crude oil intake for 45 days, reducing refinery throughput from its nameplate capacity of 8.33 MMTPA to approximately 55% of normal. Petrol, diesel, and aviation turbine fuel output from the refinery is correspondingly reduced. HPCL has arranged supply top-up from Mundra and Mangalore refineries, but additional freight costs reduce the economic benefit. Fuel availability in Andhra Pradesh and Telangana remains adequate but at slightly elevated prices.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Hindustan Petroleum Corporation Limited Operations Disclosure, AP Petroleum Dealers Association"
+  },
+  {
+    "title": "Baba Ramdev's Patanjali Ayurved Factory Raids Create FMCG Supply Disruption",
+    "description": "Regulatory raids by the Uttarakhand Food Safety Department and FSSAI at Patanjali Ayurved's manufacturing complex in Haridwar — following sustained quality compliance concerns raised in court proceedings — resulted in production suspension orders for 14 product categories representing key SKUs in the company's FMCG portfolio. The affected categories include packaged foods, health supplements, and herbal personal care products. Patanjali products are distributed through 1.2 million retail outlets nationally and have significant market share in certain categories. Retailer inventory will sustain sales for approximately 3-4 weeks before gaps emerge. Competitors in ayurvedic and natural FMCG categories are ramping distribution to capture displaced demand.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Food Safety and Standards Authority of India Enforcement Action Report, FMCG Distributors Association"
+  },
+  {
+    "title": "Iran-Israel Conflict Escalation Closes Gulf Airspace; Indian Air Cargo Rerouted",
+    "description": "Military exchange of fire between Iran and Israel prompted precautionary closure of airspace over Iran, Iraq, and the northern Gulf for 36 hours, forcing airlines to cancel or reroute hundreds of flights. Indian airlines operating routes to Europe and North America via Gulf hubs were among the most affected. Air cargo carried on belly-hold capacity of passenger flights — a significant component of India's air freight to Europe and the US — was disrupted for 72 hours. High-value pharmaceutical exports, fresh produce, and electronics destined for European buyers missed scheduled dispatch windows. IndiGo and Air India reported operational losses of approximately ₹68 crore during the closure period.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "International Air Transport Association Middle East Crisis Bulletin, Directorate General of Civil Aviation India"
+  },
+  {
+    "title": "Chennai-Bengaluru Highway Rock Quarry Blasting Accident Closes Road for 5 Days",
+    "description": "An improperly executed blasting operation at a roadside rock quarry on NH-44 between Krishnagiri and Hosur caused a rockfall that deposited an estimated 12,000 cubic metres of debris across the highway carriageway, blocking the Chennai-Bengaluru corridor for five days. NH-44 is the primary road connection between two of India's largest industrial and IT cities and carries an estimated 18,000 commercial vehicles daily. Bengaluru's manufacturing sector, which relies on components and raw materials from Chennai-based suppliers, faced supply disruptions. IT company logistics for hardware and equipment movement between the two cities was severely disrupted. Alternative routing via NH-77 added 90 km and 3 hours to transit time.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "National Highways Authority of India Tamil Nadu-Karnataka Border Zone, Karnataka Industrial Areas Development Board"
+  },
+  {
+    "title": "Massive AP Aquaculture Processing Unit Shut After Labour Unrest",
+    "description": "One of the largest integrated shrimp processing and freezing facilities in Andhra Pradesh — located in the Bhimavaram seafood processing zone of West Godavari district — was forced to shut for 18 days after approximately 2,200 workers went on strike demanding implementation of minimum wages as per revised state notification and overtime pay compliance. The facility, with a daily processing capacity of 180 tonnes of shrimp, supplies frozen shrimp products to Japanese, Korean, and US buyers. Export commitments worth ₹220 crore were placed under force majeure notice. Farm-gate shrimp prices in West Godavari fell 22% within the first week as the processing bottleneck reduced farmer selling options.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "AP Labour Department Strike Registration, Marine Products Export Development Authority Andhra Pradesh"
+  },
+  {
+    "title": "Deendayal Port (Kandla) Liquid Terminal Strike Disrupts Chemical Supply Chain",
+    "description": "Workers operating liquid bulk handling equipment at Deendayal Port Authority's liquid terminal in Kandla went on an 8-day strike demanding safety equipment upgrades following a terminal worker fatality. The strike halted unloading of liquid chemicals, vegetable oils, and petroleum products at one of India's busiest liquid cargo terminals. Chemical manufacturers in Gujarat's Dahej and Vapi industrial zones that depend on imported liquid feedstocks faced raw material supply disruption. Edible oil refiners in Rajkot and Rajasthan received no incoming supply for the strike period. Port authorities agreed to an immediate safety audit and procurement of upgraded personal protective equipment to resolve the dispute.",
+    "category": "Supply Chain - Port Strike",
+    "source": "Deendayal Port Authority Labour Relations Statement, Gujarat Chamber of Commerce Chemical Sector Alert"
+  },
+  {
+    "title": "IOCL Mathura Refinery Unplanned Shutdown Affects NCR and UP Petrol Supply",
+    "description": "Indian Oil Corporation's Mathura Refinery suffered a forced shutdown of its fluid catalytic cracking unit after a sudden pressure surge damaged downstream equipment. The refinery, supplying petrol and diesel to Delhi-NCR and large parts of Uttar Pradesh, was operating at 40% capacity during the 28-day repair period. IOCL partially compensated by increasing allocations from Panipat and Barauni refineries, but logistics bottlenecks for tanker trucks created localised fuel availability stress at petrol stations in NCR, Agra, and Lucknow. Petrol station queues were reported in parts of Noida and Faridabad. IOCL issued guidance to dealers on fair allocation protocols to prevent hoarding.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Indian Oil Corporation Mathura Refinery Operations Statement, Petrol Dealers Association Delhi NCR"
+  },
+  {
+    "title": "Myanmar Military Junta Trade Restrictions Disrupt Eastern India Border Commerce",
+    "description": "New trade restrictions imposed by Myanmar's military government requiring all imports to be paid in foreign currency — unavailable to most Indian border traders — effectively halted cross-border trade at the Moreh-Tamu and Zokhawthar checkpoints along the India-Myanmar border. Eastern Manipur, Mizoram, and Nagaland have historically relied on cross-border trade with Myanmar for affordable food commodities, construction materials, and consumer goods. The trade halt has pushed up food prices in border towns by 25-40%. Indian exporters of pharmaceutical products and light manufactured goods that had developed Myanmar as a growth market face complete revenue loss from this channel.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "India-Myanmar Border Trade Association, Ministry of Commerce North East Trade Division"
+  },
+  {
+    "title": "Bihar Floods Block Patna-Kolkata Rail Link; Coal and Goods Movement Stranded",
+    "description": "Record-breaking Ganges river flooding inundated rail tracks on the Patna-Kiul section of the Howrah main line for 14 days, forcing complete suspension of freight and passenger services on this critical corridor. The disruption halted coal rakes destined for thermal power plants in eastern Bihar and the movement of agricultural produce from Bihar to eastern Indian markets. Power plants in Barauni and Muzaffarpur fell below 5-day coal stock levels, forcing controlled load shedding in 22 districts. Vegetables and food grains harvested in the fertile North Bihar plains could not be moved to market, with perishable losses estimated at ₹340 crore. Eastern Railway activated emergency freight diversions via alternate routes adding 260 km to journey distances.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Eastern Railway Operations Control, Bihar State Disaster Management Authority Flood Report"
+  },
+  {
+    "title": "Andhra Pradesh Groundnut Oil Mills Shut After State Clamps Down on Adulteration",
+    "description": "Following detection of widespread adulteration of groundnut oil with cheaper palm olein in samples from the Guntur and Kurnool oil milling districts, the FSSAI and AP Food Safety Commissioner issued immediate suspension orders to 42 groundnut oil processing mills. The suspended units represent approximately 35% of Andhra Pradesh's groundnut oil crushing capacity. Traditional South Indian households, restaurants, and food processors who prefer groundnut oil for its flavour profile and nutritional properties face acute supply shortages. Retail prices for genuine groundnut oil rose 28% within two weeks of the enforcement action. Remaining compliant mills are operating round-the-clock to partially compensate for the supply gap.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Food Safety and Standards Authority of India Andhra Pradesh Enforcement Report, Groundnut Oil Processors Association"
+  },
+  {
+    "title": "Nepal Road Blockade by Transport Unions Halts India-China Trade Via Tibet Route",
+    "description": "Nepali transport union operators launched a 7-day blockade of the Arniko Highway — the primary road connecting Kathmandu to the Tibet Autonomous Region and a growing alternative trade route between India and China — demanding revision of transit fee structures and fuel tax reduction. The blockade halted all goods movement on this route including Chinese exports of electronics, machinery parts, and industrial goods transiting through Nepal to reach India via this alternative corridor. Indian importers who had begun using the Nepal-Tibet route to access Chinese goods while avoiding port congestion faced logistical disruption. Nepal's tourism and trade revenues were also impacted during the blockade period.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Federation of Nepalese National Transport Entrepreneurs, Nepal Commerce Ministry Trade Route Report"
+  },
+  {
+    "title": "Chennai Auto Ancillary Hub Faces 45-Day Power Crisis After Transmission Tower Collapse",
+    "description": "Collapse of a 220 KV transmission tower in Kancheepuram district — supplying power to the Sriperumbudur-Irungattukottai auto component manufacturing belt — forced 15 days of severe load shedding followed by 30 days of reduced power availability for industrial consumers. The corridor houses supplier plants for Hyundai, Ford, Renault-Nissan, and BMW. Auto component deliveries to OEM assembly lines were disrupted, triggering production slowdowns at vehicle assembly plants. Emergency power through diesel generators added ₹8,400 per day per unit in operating costs. Several medium-sized auto ancillary companies report the extended crisis is making their operations economically unviable in the short term without emergency tariff relief.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Tamil Nadu Generation and Distribution Corporation Grid Incident Report, Automotive Component Manufacturers Association"
+  },
+  {
+    "title": "India-Bangladesh Electricity Grid Interconnection Fault Disrupts Export Commitment",
+    "description": "A fault in the high-voltage direct current interconnection line between the Indian power grid and Bangladesh's national grid — through which India exports approximately 1,160 MW of electricity — was forced offline for 22 days pending repair of a faulty converter station on the Bheramara end. Bangladesh, which is India's largest electricity export customer, faced immediate power supply shortfall during a period of peak demand. The export revenue loss for NTPC Vidyut Vyapar Nigam is approximately ₹165 crore over the outage period. Bangladesh's garment manufacturing sector — dependent on stable power supply — faced additional operating cost increases from expanded diesel generator use during the shortage.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Power Grid Corporation of India Interconnection Operations Report, Bangladesh Power Development Board"
+  },
+  {
+    "title": "Kamarajar Port Coal Terminal Strike Affects TANGEDCO Power Supply",
+    "description": "Coal handling workers at Kamarajar Port's (formerly Ennore Port) coal terminal went on strike for 6 days demanding wage revision and better working conditions, halting the unloading of coal from bulk carriers that supply TANGEDCO's (Tamil Nadu Generation and Distribution Corporation) power stations. TANGEDCO operates several coal-based thermal power plants that depend on Kamarajar Port as their primary coal gateway. During the strike, coal stocks at the North Chennai, Mettur, and Ennore power stations fell to critically low levels. TANGEDCO was forced to implement 4-6 hour load shedding in rural and semi-urban areas of Tamil Nadu to manage peak demand with reduced generation capacity.",
+    "category": "Supply Chain - Port Strike",
+    "source": "Kamarajar Port Limited Labour Relations Update, Tamil Nadu Generation and Distribution Corporation Fuel Status Report"
+  },
+  {
+    "title": "AP Rice Export Ban Causes Storage Crisis in West Godavari Milling District",
+    "description": "The central government's export ban on non-basmati white rice has created a severe storage crisis in the West Godavari district — Andhra Pradesh's largest rice milling belt — as mills that were operating on a rapid export cycle suddenly have no outlet for processed rice. With approximately 340 operational rice mills in the district and limited additional warehousing, FCI godowns at capacity, and private cold storage unavailable for non-perishable grain, millers face the prospect of keeping paddy unmilled in the fields or selling at distress prices in domestic markets already saturated with available supply. Mill gate prices for medium-grade raw rice have fallen 18% since the export ban, squeezing miller margins and reducing willingness to procure from farmers.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "West Godavari Rice Millers Association, AP Rice Exporters Federation Impact Assessment"
+  },
+  {
+    "title": "Ola Electric Scooter Manufacturing Plant Hit by Battery Module Shortage",
+    "description": "Ola Electric's Futurefactory in Krishnagiri district, Tamil Nadu — one of the world's largest two-wheeler manufacturing facilities by footprint — reduced production by 45% for 6 weeks following a critical shortage of lithium-ion battery module assemblies imported from China. Supply was disrupted when Ola's primary Chinese battery module supplier faced an unexpected export licensing complication due to new Chinese regulations on battery technology export. The production cut created delivery delays of 4-5 months for customers who had booked Ola S1 Pro and Air models. The incident has accelerated Ola's investment in domestic battery cell manufacturing under the PLI scheme, though commercial production is 18-24 months away.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Ola Electric Mobility Production Disclosure, Society of Electric Vehicle Manufacturers India"
+  },
+  {
+    "title": "Adani Green Energy Wind Turbine Component Shortage Delays Three AP Projects",
+    "description": "Adani Green Energy's three wind energy projects in Andhra Pradesh — with a combined capacity of 900 MW under development in Kurnool and Anantapur districts — face a 4-6 month delay after their primary turbine nacelle supplier, a German OEM, encountered a manufacturing bottleneck in the permanent magnet generator sub-assembly. Global wind turbine component supply chains are severely strained as the energy transition drives demand beyond current manufacturing capacity. The commissioning delays mean these projects will miss their grid connection deadlines, potentially triggering penalty clauses in their power purchase agreements with AP DISCOMS. The delay adds to AP's renewable energy capacity shortage, prolonging dependence on expensive imported coal power.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Andhra Pradesh Electricity Regulatory Commission Project Status Report, Global Wind Energy Council Supply Chain Monitor"
+  },
+  {
+    "title": "Maharashtra Sugar Belt Transporters Strike Delays Season Opening Crushings",
+    "description": "Transport operators in Maharashtra's Marathwada and Western Maharashtra sugar belt launched a 12-day strike demanding revision of cane transport rates — which had not been revised despite diesel price increases — halting cane movement from farms to sugar mills during the critical season opening window from October to December. With harvested cane left in fields beyond the optimal 48-hour post-harvest crushing window, sucrose content deteriorates, reducing sugar recovery rates by 0.3-0.5 percentage points. Approximately 220 sugar cooperatives in the region report losses from reduced sugar recovery totalling ₹640 crore. Molasses and ethanol production, linked to sugar production, is correspondingly affected.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Maharashtra Sugar Commissioner Office, Indian Sugar Mills Association West Zone"
+  },
+  {
+    "title": "Indian Pharmaceutical Cold Chain Breaks During Grid Failure; Vaccine Wastage Estimated at ₹180 Crore",
+    "description": "A cascading power grid failure affecting the northern Indian states caused a simultaneous shutdown of refrigeration systems at 340 pharmaceutical cold chain storage facilities across Uttar Pradesh, Uttarakhand, and Himachal Pradesh. Vaccines, biologics, and temperature-sensitive medicines stored at +2°C to +8°C were exposed to temperatures exceeding the safety threshold for periods of 4-18 hours before backup generator systems were activated or external support arrived. Cold chain logistics experts estimate the value of spoiled or at-risk pharmaceutical inventory at ₹180 crore. District health authorities are reviewing immunisation programs as they assess the usability of affected vaccine batches. The incident has triggered a national review of cold chain backup power requirements.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Ministry of Health Cold Chain Operations Review, Pharmaceutical Cold Chain Council of India"
+  },
+  {
+    "title": "Major Automotive Paint Supplier Plant in Gujarat Shut After Chemical Explosion",
+    "description": "A solvent storage tank explosion at a BASF paint raw materials manufacturing facility in Dahej, Gujarat destroyed production capability for automotive clearcoat and basecoat resins that are supplied to 80% of India's automotive paint manufacturers. The explosion triggered a mandatory 90-day shutdown as environmental clearance, rebuilding, and safety recommissioning proceed. Automotive paint manufacturers including Berger, Akzo Nobel, and Kansai Nerolac scrambled to source resin feedstocks from international suppliers, increasing raw material costs by 35-45%. Downstream automotive OEMs face potential paint supply constraints that could affect vehicle production if alternative supply chains are not established within 45 days.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Gujarat Pollution Control Board Explosion Investigation, Society of Indian Automobile Manufacturers Supply Chain Alert"
+  },
+  {
+    "title": "Andhra Pradesh Power Grid Failure Disrupts Aquaculture Aerator Systems; Mass Fish Kill Risk",
+    "description": "An unplanned failure of the 132 KV substation supplying the Bhimavaram and Tanuku aquaculture zones in West Godavari district, Andhra Pradesh caused a 38-hour power outage that shut down aerator systems maintaining dissolved oxygen levels in shrimp and fish cultivation ponds. Without continuous aeration, dissolved oxygen in ponds falls to lethal levels within 8-12 hours. Aquaculture farmers using backup generators survived the outage, but approximately 1,800 farmers without backup systems reported partial or complete fish kills, with losses estimated at ₹340 crore across the affected zone. The incident underscores the extreme vulnerability of the ₹42,000 crore AP aquaculture industry to power reliability.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "AP Eastern Power Distribution Company Grid Failure Report, Andhra Pradesh Fisheries Department Emergency Assessment"
+  },
+  {
+    "title": "Subarnarekha River Flooding Blocks Jharkhand-Odisha Steel Belt Logistics Corridor",
+    "description": "Flooding of the Subarnarekha River in the Jharkhand-Odisha border region submerged key road links connecting steel and mining operations in Jharkhand's Chaibasa-Chakradharpur zone to Paradip and Haldia ports. The road links carry approximately 4.8 million tonnes of iron ore and steel annually. Trucks moving iron ore and finished steel were stranded for 12 days with approximately 2,800 vehicles in queue. Paradip Port iron ore export commitments to Korean and Japanese buyers are under force majeure review. Steel plants in Bokaro and Rourkela faced inbound raw material delivery disruptions as mining operations continued but logistics were halted. The estimated economic impact is ₹480 crore in deferred trade.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Jharkhand State Disaster Management Authority, Orissa Mineral Development Corporation Logistics Report"
+  },
+  {
+    "title": "Textile Export Hub Surat Faces Gas Supply Disruption; Yarn Production Cut 60%",
+    "description": "A 21-day emergency maintenance shutdown of the Hazira gas distribution pipeline serving Surat's massive textile manufacturing cluster reduced natural gas availability to approximately 40% of normal demand. Natural gas powers heating, dyeing, and processing operations across the cluster's 65,000+ weaving and texturising units. Without adequate gas, yarn production, fabric weaving, and dyeing operations were collectively cut by 60%, with units forced to use expensive LPG alternatives at 280% higher energy cost. Surat supplies approximately 30% of India's synthetic fabric output. Garment manufacturers in Ahmedabad and Mumbai relying on Surat fabric faced raw material shortages. The gas supply restoration enabled phased resumption over 8 days after the pipeline repair.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Gujarat Gas Limited Pipeline Maintenance Notice, South Gujarat Textile Processors Association"
+  },
+  {
+    "title": "Digital Freight Aggregator Platform Outage Paralyses 48,000 Truckers Across India",
+    "description": "A major cyberattack on India's largest digital freight logistics platform — used by approximately 48,000 registered truckers to receive load bookings and navigate routes — caused a 5-day complete system outage. During the outage, the platform's truckers had no visibility of available loads and many were stranded at unfamiliar locations without booking or payment access. The platform handles approximately 380,000 truck-load bookings per month for FMCG, e-commerce, and manufacturing customers. Companies dependent on the platform for their last-mile and inter-city logistics scrambled to activate manual booking through regional transport brokers, at higher rates and lower reliability. The outage highlighted the emerging systemic risk of logistics sector digitalisation concentration.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Federation of Freight Forwarders Associations in India, Logistics Sector CISO Council India"
+  },
+  {
+    "title": "Andhra Pradesh Chilli Drying Yards Flooded; Export Supply of Red Chilli Disrupted",
+    "description": "Unseasonal heavy rainfall across Guntur district — India's largest dry red chilli growing and trading hub — flooded the open drying yards where freshly harvested green chilli is sun-dried before grading and export. Approximately 45,000 metric tonnes of chilli in various stages of drying was either directly damaged by rain contact or developed mould due to interrupted drying. Guntur supplies approximately 40% of India's dry red chilli exports, which go primarily to South and Southeast Asia, the Middle East, and the US. Chilli prices at the Guntur APMC rose 52% within two weeks as assessments of season damage mounted. Spice processing and export units in the region face raw material supply uncertainty for the remainder of the season.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Guntur APMC Market Committee Price Data, Spices Board India Andhra Pradesh Field Report"
+  },
+  {
+    "title": "Panama Canal Drought Reduces Transit Slots; India-US West Coast Trade Reroutes",
+    "description": "Sustained drought conditions reduced the water level in Gatun Lake — which feeds the Panama Canal locks — to the lowest level in recorded history, forcing the Panama Canal Authority to reduce the number of daily transits from 36 to 22 and impose draft restrictions on all vessels. Ships weighing more than 80% of maximum capacity cannot transit and must either lighten their loads at US East Coast ports or reroute via the Suez Canal or Cape of Good Hope. For India, the impact falls primarily on exporters of cotton, rice, and textiles to US West Coast buyers and importers of US-origin products including aircraft parts and chemicals. The rerouting adds 8-12 days of transit time and increases freight costs by $1,200-1,800 per container.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Panama Canal Authority Draft Restriction Notice, World Shipping Council India Trade Impact Assessment"
+  },
+  {
+    "title": "Tuticorin Copper Smelter Shut for 90 Days Over Environmental Compliance Order",
+    "description": "The Supreme Court of India upheld the Madras High Court's order directing permanent closure of Vedanta's Sterlite Copper smelter in Tuticorin pending a comprehensive environmental impact reassessment, after sustained community opposition over air quality violations. The smelter, with an annual capacity of 400,000 tonnes, was the second-largest copper smelter in India and contributed approximately 40% of India's domestic copper production. The closure forces India to increase copper imports, with MCX copper prices rising 14% on the announcement. The manufacturing sector impact is widespread — cable manufacturers, plumbing product makers, and engineering goods companies face higher raw material costs and supply uncertainty. The smelter's 3,500 direct employees are affected.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Supreme Court of India Order, Confederation of Indian Industry Tamil Nadu Copper Supply Impact Assessment"
+  },
+  {
+    "title": "Cyclone Damage to AP Port Infrastructure Creates 8-Week Cargo Processing Backlog",
+    "description": "A severe cyclone making landfall on the Andhra Pradesh coast caused simultaneous damage to two of the state's key ports — Krishnapatnam and Gangavaram — forcing partial closure of both for 28 days while structural repairs are conducted. With both major deep-water ports in the state simultaneously operating at reduced capacity, cargo diversion to Chennai, Ennore, and Vizag creates knock-on congestion at those facilities. The combined disruption to Andhra Pradesh's port capacity affects approximately 12 million tonnes of annual cargo throughput. Export orders from the state's aquaculture, granite, agro-processing, and pharmaceutical sectors are suspended. Reconstruction cost for port infrastructure is estimated at ₹620 crore.",
+    "category": "Supply Chain - Port Disruption",
+    "source": "Andhra Pradesh Maritime Board Damage Assessment, India Meteorological Department Cyclone Impact Report"
+  },
+  {
+    "title": "Jammu-Srinagar Highway Blocked by Avalanche; Kashmir Valley Supply Chain Severed for 12 Days",
+    "description": "A massive avalanche in the Banihal Pass region buried approximately 600 metres of the Jammu-Srinagar National Highway under 8-12 metres of compacted snow, completely severing the Kashmir Valley's only road connection to the rest of India during winter. The valley depends on this highway for approximately 95% of its essential commodity supply including petrol, LPG, medicines, fresh produce, and consumer goods. Petrol stations in Srinagar began rationing fuel within 5 days. Hospital pharmacies requested emergency medicine airlifts. LPG cylinder availability fell sharply, with priority given to domestic consumers over commercial users. Supply restoration began with a partial single-lane clearance on day 9 and full clearance on day 12.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Border Roads Organisation Jammu-Kashmir Zone Operations Update, J&K Disaster Management Authority"
+  },
+  {
+    "title": "Nellore Mica Processing Unit Closures Hit Electronic Component Supply Chain",
+    "description": "Mandatory closure of 28 mica processing and flaking units in Nellore district, Andhra Pradesh — ordered by the National Green Tribunal following detection of illegal child labour and environmental violations — removed approximately 18% of India's processed mica supply from the market. India is the world's largest mica producer, and Andhra Pradesh accounts for 60% of national mica output. Mica is a critical material in electronic component manufacturing, cosmetics, and heat-resistant insulation products. International electronics and cosmetics companies sourcing Indian mica have activated ethical supply chain reviews. Several major cosmetics brands have suspended AP mica sourcing pending independent social compliance audits, creating demand uncertainty for the remaining compliant processors.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "National Green Tribunal Order, Mica Processors Association Nellore"
+  },
+  {
+    "title": "Major Indian Steel Plant Blast Furnace Relining Forces 90-Day Capacity Reduction",
+    "description": "SAIL's Bhilai Steel Plant in Chhattisgarh — one of India's largest integrated steel plants — commenced planned relining of its largest blast furnace, taking offline approximately 1.5 million tonnes of annual hot metal production capacity for 90 days. Bhilai is a critical supplier of rails, heavy structural sections, and plate steel to Indian Railways, infrastructure projects, and defence fabricators. The production gap is being partially filled by SAIL's other plants at Rourkela and Durgapur, but logistics rebalancing adds 5-8 days to delivery timelines for buyers in South and West India. Infrastructure contractors with steel plate procurement schedules for bridge and dam construction projects are revising delivery timelines with project owners.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Steel Authority of India Limited Capital Program Disclosure, Railway Board Steel Procurement Division"
+  },
+  {
+    "title": "Visakhapatnam SEZ Pharmaceutical Cluster Faces FDA Warning Letter; US Exports Suspended",
+    "description": "Three pharmaceutical manufacturing units in the Visakhapatnam Special Economic Zone received Warning Letters from the US Food and Drug Administration following an inspection that identified data integrity violations and manufacturing control deficiencies. The Warning Letters require comprehensive corrective action plans before the FDA will accept drug applications referencing these facilities. The US imports around $240 million annually from these three units. The suspension of US export eligibility affects approximately 1,800 employees directly. The affected companies have engaged specialised regulatory consultants and committed to 12-18 month remediation programs. The Warning Letters will be publicly disclosed on the FDA website, impacting the companies' reputations with global buyers.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "US Food and Drug Administration Warning Letter Database, Pharmexcil Visakhapatnam Chapter"
+  },
+  {
+    "title": "Drought Causes Critical Low Water Level at Nagarjunasagar Dam; AP Industrial Water Allocation Cut",
+    "description": "Prolonged drought in the Krishna River catchment reduced water storage at Nagarjunasagar Dam to 18% of capacity — the lowest in 34 years — forcing the AP Water Resources Department to implement emergency water rationing. Industrial water allocation from the dam for factories in Krishna, Guntur, and Nalgonda districts was cut by 55%. Affected industries include textile dyeing units, paper mills, sugar mills, and pharmaceutical plants that depend on the dam's water supply pipeline system. Several sugar mills have reduced crushing operations by 30-40% due to insufficient process water. Paper mills in the region face similar constraints. Agricultural irrigation allocations were also cut, affecting the standing rabi crop in 280,000 acres.",
+    "category": "Supply Chain - Factory Shutdown",
+    "source": "Andhra Pradesh Water Resources Department Reservoir Status Bulletin, AP Industries Department Water Allocation Order"
+  },
+  {
+    "title": "Shipping Line Blank Sailing Surge Reduces India-Europe Capacity by 35% in Single Month",
+    "description": "In response to declining freight rates and overcapacity concerns, major container shipping lines Maersk, CMA CGM, and Mediterranean Shipping Company collectively implemented 22 blank sailings (cancelled voyages) on India-Europe trade lanes within a single month. The blank sailings reduced available container shipping capacity between India and Northern Europe by 35% for the month. Indian exporters of textiles, pharma, and engineering goods who had booked containers found their bookings cancelled with minimal notice. The capacity reduction drove freight rate spot increases of 38% as shippers scrambled for remaining space. The volatility in available capacity is causing exporters to lock in long-term contracts at elevated rates to avoid recurrence.",
+    "category": "Supply Chain - Transport Disruption",
+    "source": "Container Shipping Lines Association India, Sea-Intelligence Global Blank Sailing Monitor"
+  },
+  {
+    "title": "Dhamra Port Strike in Odisha Disrupts Coal and Limestone Supply to Eastern Cement Plants",
+    "description": "Contract workers at Dhamra Port — a major private port in Odisha handling coal, limestone, and other dry bulk cargo — went on strike for 9 days demanding wage regularisation and provident fund compliance. Dhamra handles bulk cargo for cement plants, steel producers, and power utilities in Odisha and Jharkhand. During the strike, 14 bulk carrier vessels waited at anchorage unable to discharge. Cement plants in the Dhamra supply zone including ACC and Birla Cement units in Odisha faced limestone supply tightness. Thermal power plants in the region reduced coal intake, causing electricity generation to drop below minimum reserve margins. The port owner resolved the dispute by agreeing to formalise contract worker employment status.",
+    "category": "Supply Chain - Port Strike",
+    "source": "Dhamra Port Company Limited Labour Relations Statement, Cement Manufacturers Association Eastern India"
+  }
+]

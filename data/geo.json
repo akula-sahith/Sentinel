@@ -1,0 +1,608 @@
+[
+    {
+      "title": "Russia Halts Pipeline Gas Exports to Central Europe Amid NATO Standoff",
+      "description": "Russia's state energy firm Gazprom suspended natural gas deliveries through the Yamal-Europe pipeline following diplomatic expulsions between Moscow and Warsaw. Spot gas prices in Europe surged 34% within 48 hours as winter storage levels fell below 60% across Germany and Austria. Indian LNG importers face secondary price pressure as European buyers compete aggressively for spot cargoes from Qatar and the US.",
+      "category": "geopolitical",
+      "source": "Global Energy Monitor / Reuters Commodities Desk"
+    },
+    {
+      "title": "US Expands Sanctions on Iranian Crude, Targets Shadow Fleet Operators",
+      "description": "The US Treasury Department designated 18 additional tanker companies and 4 ship management firms linked to Iranian crude exports, tightening enforcement of existing oil sanctions. Brent crude rose 4.2% to $94 per barrel on supply tightening fears. India, which had been receiving discounted Iranian crude through informal channels, faces a potential 8–12% reduction in cheap feedstock availability for its western coast refineries.",
+      "category": "geopolitical",
+      "source": "US Treasury OFAC / Bloomberg Energy"
+    },
+    {
+      "title": "India Imposes 40% Export Duty on Non-Basmati White Rice Citing Domestic Shortage",
+      "description": "The Indian government announced an emergency 40% export duty on non-basmati white rice after erratic monsoon patterns reduced kharif paddy output by an estimated 6 million tonnes. Global rice prices hit a 15-year high, with markets in Sub-Saharan Africa and Southeast Asia facing acute shortages. Domestic rice prices in Andhra Pradesh and Telangana rose 18–22% within two weeks of the announcement.",
+      "category": "geopolitical",
+      "source": "Ministry of Commerce, India / FAO Rice Market Monitor"
+    },
+    {
+      "title": "Taiwan Strait Tensions Force Global Semiconductor Supply Rerouting",
+      "description": "Following Chinese military exercises encircling Taiwan, major shipping lines including Evergreen and Yang Ming rerouted container vessels away from the Taiwan Strait, adding 4–6 days to transpacific shipment times. TSMC announced force majeure contingency assessments. Indian electronics manufacturers dependent on Taiwanese chip shipments report expected delivery delays of 3–5 weeks affecting Q3 production targets.",
+      "category": "geopolitical",
+      "source": "Lloyd's List / Semiconductor Industry Association"
+    },
+    {
+      "title": "Saudi Arabia Cuts Oil Output by 1.2 Million Barrels Per Day in Unilateral OPEC+ Move",
+      "description": "Saudi Aramco confirmed production cuts effective from next month as Riyadh seeks to defend $90 per barrel as a price floor, acting independently ahead of a formal OPEC+ meeting. Diesel prices in India rose ₹4.80 per litre within a fortnight following the announcement, with trucking associations warning of freight rate increases of 12–15% across national highways.",
+      "category": "geopolitical",
+      "source": "OPEC Secretariat / Petroleum Planning and Analysis Cell, India"
+    },
+    {
+      "title": "Ukraine Bans Export of Sunflower Oil Amid Domestic Food Security Concerns",
+      "description": "Ukraine's cabinet issued an emergency order restricting sunflower oil exports to preserve domestic cooking oil availability as conflict disrupts agricultural logistics in eastern provinces. Ukraine accounts for 46% of global sunflower oil exports. India, the world's largest importer of sunflower oil, saw edible oil prices rise 28% within three weeks, severely impacting food processing companies and household budgets.",
+      "category": "geopolitical",
+      "source": "Ukrainian Ministry of Agrarian Policy / Solvent Extractors Association of India"
+    },
+    {
+      "title": "EU Imposes Full Embargo on Russian Coal, Steel Imports Effective Immediately",
+      "description": "The European Union's latest sanctions package includes a complete ban on Russian metallurgical coal and steel products, affecting approximately 40 million tonnes of annual coal trade. Indian steel manufacturers and aluminium smelters that had been purchasing Russian coal at discounts of 25–30% below market prices face a significant cost restructuring as European demand shifts toward alternative suppliers including South Africa and Australia.",
+      "category": "geopolitical",
+      "source": "European Commission / Ministry of Steel, India"
+    },
+    {
+      "title": "Yemen's Houthi Forces Launch Drone Strikes on Red Sea Shipping Lanes",
+      "description": "Houthi militants conducted coordinated drone and missile attacks on three commercial vessels in the southern Red Sea, prompting Maersk and MSC to suspend Red Sea routing indefinitely. Ships rerouting via the Cape of Good Hope add 10–14 days and $1 million in additional fuel costs per voyage. Indian textile exporters and pharmaceutical companies relying on Red Sea routing for European shipments face cost increases of 18–25% on freight.",
+      "category": "geopolitical",
+      "source": "UKMTO Maritime Security / Federation of Indian Export Organisations"
+    },
+    {
+      "title": "China Restricts Export of Gallium and Germanium, Critical Semiconductor Materials",
+      "description": "Beijing announced export licensing requirements for gallium and germanium, two metals critical for semiconductor fabrication, radar systems, and solar panel production, citing national security interests. China controls 80% of global gallium supply and 60% of germanium output. Indian defence electronics and solar manufacturing sectors face potential component shortages within 90 days as global inventories are drawn down.",
+      "category": "geopolitical",
+      "source": "Chinese Ministry of Commerce / Indian Electronics and Semiconductor Association"
+    },
+    {
+      "title": "Pakistan Closes Wagah Border to All Trade Amid Diplomatic Crisis with India",
+      "description": "Pakistan sealed the Wagah-Attari land border crossing to all commercial traffic following a breakdown in diplomatic relations over cross-border terrorism allegations. Trade worth approximately $800 million annually flowing through Wagah is suspended indefinitely. Indian exporters of pharmaceuticals, spices, and textiles to Afghanistan via Pakistan now face route disruption, while informal trade in fresh produce collapses.",
+      "category": "geopolitical",
+      "source": "Ministry of External Affairs, India / Federation of Punjab Traders"
+    },
+    {
+      "title": "SWIFT Expels Three Iranian Banks, Freezing Bilateral Trade Settlement",
+      "description": "The Society for Worldwide Interbank Financial Telecommunication removed three Iranian correspondent banks from its network following a resolution by G7 finance ministers. Indian companies with outstanding receivables from Iranian counterparts report payment settlement failures. India's pharmaceutical exports to Iran worth $2.1 billion annually face immediate disruption as alternative payment channels through UAE intermediaries come under scrutiny.",
+      "category": "geopolitical",
+      "source": "SWIFT Communications / Reserve Bank of India"
+    },
+    {
+      "title": "Congo Suspends Cobalt Export Licenses Amid Royalty Dispute with Mining Firms",
+      "description": "The Democratic Republic of Congo's mining ministry suspended cobalt export permits for four major mining operators following a dispute over revenue-sharing agreements. Congo supplies 70% of global cobalt used in electric vehicle batteries and consumer electronics. Indian EV battery manufacturers and global supply chains face a projected 40% price spike in cobalt sulfate within six weeks.",
+      "category": "geopolitical",
+      "source": "DRC Ministry of Mines / International Cobalt Association"
+    },
+    {
+      "title": "India Bans Wheat Exports Without Prior Government Approval Following Price Surge",
+      "description": "India's commerce ministry issued an immediate notification requiring government approval for all wheat exports after domestic wholesale prices crossed ₹2,400 per quintal, well above the minimum support price. The move disappointed Egypt and several South Asian buyers who had counted on Indian supplies to offset shortfalls from the Black Sea region. Atta prices in Andhra Pradesh and Tamil Nadu rose 14% in 10 days following the notification.",
+      "category": "geopolitical",
+      "source": "Directorate General of Foreign Trade, India / FCI"
+    },
+    {
+      "title": "Myanmar Military Junta Seizes Control of Key Jade and Rare Earth Mining Regions",
+      "description": "Myanmar's military consolidated control over Kachin State's jade and rare earth mineral deposits after intensified military operations against ethnic armed groups. Myanmar is a significant source of rare earth elements including dysprosium and terbium used in wind turbines and electric motors. Supply disruption warnings are being issued to clean energy manufacturers in India, China, and Europe dependent on Myanmar mineral flows.",
+      "category": "geopolitical",
+      "source": "Myanmar Gems Enterprise / Rare Earth Industry Association"
+    },
+    {
+      "title": "US-China Trade War Escalates: 145% Tariffs Imposed on Chinese Electronics",
+      "description": "The US administration imposed tariffs of up to 145% on a broad range of Chinese electronics imports including smartphones, laptops, and industrial components, triggering immediate retaliatory measures from Beijing on American agricultural goods. Indian electronics manufacturers see an opportunity surge as American buyers seek alternative sourcing, but component import costs from China also rise by 18–22% as global supply chains reconfigure.",
+      "category": "geopolitical",
+      "source": "US Trade Representative / Ministry of Commerce, India"
+    },
+    {
+      "title": "Libya's Eastern Government Shuts Down Largest Oil Export Terminal",
+      "description": "The Libyan National Army-aligned administration closed the Es Sider oil export terminal — Libya's largest, with a capacity of 340,000 barrels per day — citing a contract dispute with the Tripoli-based National Oil Corporation. Global crude markets tightened immediately with Brent gaining $3.20 per barrel. India's state refiners IOC and HPCL, which source light Libyan crude as a refinery blending preference, activated contingency procurement from West Africa.",
+      "category": "geopolitical",
+      "source": "National Oil Corporation Libya / S&P Global Commodity Insights"
+    },
+    {
+      "title": "South Korea and Japan Impose Technology Export Restrictions on China",
+      "description": "Seoul and Tokyo coordinated new export control measures restricting the sale of advanced lithography equipment, photoresists, and fluorinated polyimides to Chinese chipmakers, aligning with US semiconductor containment policy. Chinese domestic chip production faces a projected 18-month setback in sub-7nm process nodes. Indian IT and electronics firms sourcing components indirectly from China face supply tightening within two quarters.",
+      "category": "geopolitical",
+      "source": "Korean Ministry of Trade / Japan Ministry of Economy METI"
+    },
+    {
+      "title": "Venezuela Nationalises Operations of Three Foreign Oil Companies Without Compensation",
+      "description": "The Venezuelan government of President Maduro expropriated the remaining assets of three international oil companies operating in the Orinoco Belt, the world's largest heavy crude reserve. Global crude markets reacted with a $2.80 per barrel increase. India's ONGC Videsh, which holds a stake in Venezuelan blocks, faces asset seizure risk and has suspended new capital deployment into the country.",
+      "category": "geopolitical",
+      "source": "PDVSA Venezuela / ONGC Videsh Ltd"
+    },
+    {
+      "title": "Bangladesh Imposes Emergency Import Restrictions on Non-Essential Goods to Defend Taka",
+      "description": "Dhaka's central bank issued emergency directives restricting letters of credit for non-essential imports as foreign exchange reserves fell below two months of import cover. Bangladesh is India's largest export market in South Asia with bilateral trade worth $14 billion annually. Indian exporters of cotton yarn, machinery, and chemicals report payment delays and cancelled orders from Bangladeshi buyers.",
+      "category": "geopolitical",
+      "source": "Bangladesh Bank / Export-Import Bank of India"
+    },
+    {
+      "title": "Sri Lanka Defaults on External Debt, Fuel Imports Halt for 72 Hours",
+      "description": "Sri Lanka announced a formal default on its $51 billion external debt as foreign reserves fell to under $50 million — insufficient for a single week of fuel imports. Fuel queues stretching kilometres appeared across Colombo and Kandy as Ceylon Petroleum Corporation suspended import payments. Indian state-owned ONGC and IOC extended emergency credit lines for fuel supply but formal restructuring remains months away.",
+      "category": "geopolitical",
+      "source": "Central Bank of Sri Lanka / Ministry of Finance"
+    },
+    {
+      "title": "Israel-Hamas Conflict Triggers Regional Shipping Insurance Surcharges of 300%",
+      "description": "War risk insurance premiums for vessels transiting within 250 nautical miles of the Israeli coast spiked by 300% as the Israel-Hamas conflict expanded into a broader regional flashpoint. Several container lines announced port call suspensions at Haifa and Ashdod. Indian pharmaceutical and chemical exporters shipping to European markets via the Suez Canal route face combined freight and insurance cost increases of 35–40%.",
+      "category": "geopolitical",
+      "source": "Lloyd's Market Association / Container Trades Statistics"
+    },
+    {
+      "title": "India Retaliates Against Pakistan by Suspending Indus Waters Treaty Cooperation",
+      "description": "India formally notified Pakistan of the suspension of bilateral meetings under the 1960 Indus Waters Treaty following a cross-border terrorist attack in Jammu. Pakistan's agricultural sector, which depends on Indus system flows for 80% of its irrigated farmland, faces long-term irrigation uncertainty. Indian wheat and rice markets in Punjab and Haryana face no direct impact but diplomatic uncertainty suppresses bilateral agricultural trade.",
+      "category": "geopolitical",
+      "source": "Ministry of Jal Shakti, India / Indus Waters Commission"
+    },
+    {
+      "title": "Turkey Closes Bosphorus Strait to Non-Black Sea Nation Warships Under Montreux Convention",
+      "description": "Ankara invoked its rights under the 1936 Montreux Convention to restrict all non-Black Sea naval vessels from transiting the Bosphorus, effectively sealing the Black Sea as a conflict zone. Grain shipments from Ukraine's Odesa and Mykolaiv ports face renewed disruption as risk assessments for civilian vessels entering the Black Sea are elevated. Global wheat futures rose 9% in a single trading session.",
+      "category": "geopolitical",
+      "source": "Turkish Foreign Ministry / Chicago Mercantile Exchange"
+    },
+    {
+      "title": "Nigeria's Oil Production Collapses to 30-Year Low Amid Pipeline Vandalism",
+      "description": "Nigeria's crude output fell to 1.1 million barrels per day — the lowest since 1994 — as coordinated attacks on the Trans Niger Pipeline and Nembe Creek Trunkline disrupted major onshore fields. NNPC declared force majeure on multiple crude export grades. India had been diversifying away from Russia to West African crude; Nigeria's outage reintroduces supply concentration risk for Indian refiners who had signed six-month term contracts.",
+      "category": "geopolitical",
+      "source": "NNPC Nigeria / Argus Media"
+    },
+    {
+      "title": "Ethiopia's Grand Renaissance Dam Fully Operational, Egypt Threatens Military Response",
+      "description": "Ethiopia began full power generation operations at the Grand Ethiopian Renaissance Dam on the Blue Nile, sharply reducing downstream water flow into Sudan and Egypt. Cairo issued its most explicit military threat yet, warning of response to any further unilateral water diversion. Agricultural disruption warnings for the Nile Delta — Egypt's breadbasket — could reduce Egyptian wheat self-sufficiency and increase global import demand from India and the US.",
+      "category": "geopolitical",
+      "source": "Egyptian Ministry of Water Resources / UN Office for the Coordination of Humanitarian Affairs"
+    },
+    {
+      "title": "India Restricts Export of Pharmaceutical APIs to Prioritise Domestic Drug Security",
+      "description": "India's DGFT placed 26 active pharmaceutical ingredients on a restricted export list after domestic shortages were reported in paracetamol, amoxicillin, and metformin. The restriction follows a significant reduction in Chinese chemical precursor availability. Global pharmaceutical supply chains — which depend on India for 20% of generic drug supply — face pricing pressure and potential medicine shortfalls particularly in low-income countries.",
+      "category": "geopolitical",
+      "source": "Directorate General of Foreign Trade / Pharmaceuticals Export Promotion Council of India"
+    },
+    {
+      "title": "Kazakhstan Cuts Oil Transit Through Russia After Sanctions Pressure from EU",
+      "description": "Kazakhstan announced a phased diversion of crude oil exports away from the Russian CPC pipeline system following EU pressure, seeking alternative routing via the Baku-Tbilisi-Ceyhan pipeline and Caspian tanker transfers. The transition is expected to reduce Kazakh export volumes by 200,000 barrels per day for 6–8 months. Global crude markets reacted with a $2.10 per barrel increase on transit uncertainty.",
+      "category": "geopolitical",
+      "source": "Kazmunaygas / S&P Global Platts"
+    },
+    {
+      "title": "Myanmar Junta Restricts Export of Pulses, Disrupting India's Urad and Tur Dal Supply",
+      "description": "Myanmar's military government suspended all pulse export permits pending a new revenue-sharing framework with domestic traders. Myanmar supplies approximately 35% of India's black gram (urad) and pigeon pea (tur) imports. Pulse prices in wholesale markets across Andhra Pradesh, Maharashtra, and Karnataka immediately rose 22–28%, with dal mills reporting a 40% fall in procurement activity.",
+      "category": "geopolitical",
+      "source": "Myanmar Pulses, Beans and Sesame Seeds Merchants Association / NAFED India"
+    },
+    {
+      "title": "Sudan Civil War Disrupts Gold and Sesame Exports, Affects Indian Oilseed Supply",
+      "description": "Fighting between the Sudanese Armed Forces and the Rapid Support Forces has shut down gold mining operations in North Darfur and destroyed sesame production in the Gedaref region — Sudan's agricultural heartland. Sudan is the world's third-largest sesame exporter. Indian oil extraction and confectionery industries that import Sudanese sesame face supply gaps of approximately 15% over the next two cropping cycles.",
+      "category": "geopolitical",
+      "source": "UN OCHA Sudan / Solvent Extractors Association of India"
+    },
+    {
+      "title": "Iran Seizes Oil Tanker in Strait of Hormuz, Gulf Insurance Rates Spike",
+      "description": "Iranian Revolutionary Guard Corps naval forces seized a Marshall Islands-flagged oil tanker in international waters near the Strait of Hormuz, citing alleged sanctions violations. War risk insurance rates for Gulf of Oman transits rose 180% within 24 hours. India, which receives approximately 65% of its crude oil imports through the Strait of Hormuz, activated strategic petroleum reserve drawdown assessment protocols.",
+      "category": "geopolitical",
+      "source": "US Naval Forces Central Command / Directorate General of Hydrocarbons, India"
+    },
+    {
+      "title": "EU Carbon Border Adjustment Mechanism Activates, Impacting Indian Steel and Cement Exports",
+      "description": "The European Union's Carbon Border Adjustment Mechanism entered its full collection phase, imposing carbon levies on steel, cement, aluminium, fertilisers, and electricity imports based on their embedded carbon content. Indian steel exports to Europe — worth approximately $4.2 billion annually — face an effective cost increase of 18–24% depending on the carbon intensity of individual plants. Tata Steel and JSW face immediate margin compression on European contracts.",
+      "category": "geopolitical",
+      "source": "European Commission / Ministry of Steel, India"
+    },
+    {
+      "title": "China Dumps Excess Steel on Global Markets, Indian Steel Prices Collapse",
+      "description": "Chinese steel mills facing overcapacity and weak domestic demand following the property sector slowdown sharply increased exports, flooding global markets with hot-rolled coil at prices 22% below Indian domestic rates. The Indian steel industry petitioned for emergency anti-dumping duties as domestic mills cut production and deferred capacity expansion investments. Steel prices in Vizag and Raipur fell to two-year lows.",
+      "category": "geopolitical",
+      "source": "World Steel Association / Steel Authority of India"
+    },
+    {
+      "title": "US Federal Reserve Raises Rates by 50 Basis Points, Triggers Rupee Depreciation",
+      "description": "The US Federal Reserve's decision to raise the federal funds rate by 50 basis points to control persistent inflation triggered a broad emerging market sell-off. The Indian rupee weakened to ₹87.60 per US dollar — a 14-month low — as foreign institutional investors withdrew $4.2 billion from Indian equity and debt markets in a single week. Import-dependent businesses including edible oil refiners, electronics manufacturers, and petroleum retailers face immediate cost pressure.",
+      "category": "geopolitical",
+      "source": "US Federal Reserve / Reserve Bank of India"
+    },
+    {
+      "title": "India Imposes Minimum Import Price on Edible Oils to Protect Domestic Oilseed Farmers",
+      "description": "India's commerce ministry set minimum import prices for palm oil, soyabean oil, and sunflower oil in response to heavy discounted imports that were suppressing domestic oilseed prices below the minimum support price. The measure is expected to raise retail edible oil prices by ₹12–18 per litre in consumer markets. Food processing companies and restaurants in South India, which heavily use palm oil, face immediate input cost increases.",
+      "category": "geopolitical",
+      "source": "Ministry of Commerce India / Solvent Extractors Association"
+    },
+    {
+      "title": "Afghanistan's Taliban Government Bans Poppy Cultivation, Disrupts Chemical Solvent Supply",
+      "description": "Afghanistan's Taliban administration issued a nationwide ban on opium poppy cultivation, which — beyond its narcotics context — has significant implications for acetic anhydride and other chemical solvent trade flows used in pharmaceutical manufacturing. Indian pharmaceutical API manufacturers sourcing certain precursor chemicals through Central Asian intermediary routes report an expected 30–35% cost increase in affected chemical inputs.",
+      "category": "geopolitical",
+      "source": "UN Office on Drugs and Crime / Indian Pharmaceutical Alliance"
+    },
+    {
+      "title": "North Korea Conducts Ballistic Missile Test Over Japan, Disrupts Asian Shipping Confidence",
+      "description": "North Korea launched an intermediate-range ballistic missile that overflew northern Japan before landing in the Pacific Ocean, triggering J-Alert emergency warnings across Hokkaido. Japan, South Korea, and Taiwan temporarily suspended several port operations for safety assessment. Container shipping confidence in Northeast Asian waters declined sharply, with spot freight rates on transpacific routes rising 8% within a week.",
+      "category": "geopolitical",
+      "source": "Japanese Ministry of Defense / Drewry Shipping Consultants"
+    },
+    {
+      "title": "India-Canada Diplomatic Expulsion Disrupts Lentil and Potash Trade",
+      "description": "Following the expulsion of Canadian diplomats from India over a political dispute, Canada suspended preferential trade terms for Indian goods and threatened to review agricultural export permits. Canada supplies approximately 27% of India's masoor lentil imports and is the dominant global supplier of potash used in fertilisers. Rabi season fertiliser procurement faces potential cost increases of 15–20% if the diplomatic standoff extends beyond three months.",
+      "category": "geopolitical",
+      "source": "Ministry of External Affairs India / Fertiliser Association of India"
+    },
+    {
+      "title": "Conflict in Mozambique Disrupts LNG Development, Delays India's Gas Import Plans",
+      "description": "Insurgent attacks in Cabo Delgado province forced TotalEnergies to maintain its force majeure declaration on the $20 billion Mozambique LNG project, delaying a major new source of liquefied natural gas for Asian markets. India's Bharat Petroleum and GAIL had secured long-term supply agreements from this project. The delay extends India's dependence on spot LNG markets where prices remain volatile.",
+      "category": "geopolitical",
+      "source": "TotalEnergies / Petroleum and Natural Gas Regulatory Board, India"
+    },
+    {
+      "title": "Indonesia Bans Bauxite Export, Disrupting Global Aluminium Supply Chain",
+      "description": "Indonesia enforced its bauxite export ban, requiring all raw bauxite to be processed domestically before export, following an earlier nickel export ban. Indonesia supplies approximately 16% of global bauxite. Aluminium smelters in India, China, and the Middle East face feedstock cost increases of 20–28% as they shift to Australian and West African suppliers with higher logistical costs.",
+      "category": "geopolitical",
+      "source": "Indonesian Ministry of Energy and Mineral Resources / Aluminium Association of India"
+    },
+    {
+      "title": "Andhra Pradesh Faces Agricultural Crisis as Sri Lankan Debt Default Closes Export Market",
+      "description": "Sri Lanka's debt crisis and foreign exchange collapse led to a complete halt of food imports from India, devastating Andhra Pradesh's chilli and banana export businesses that had built significant trade relationships with Colombo. Guntur chilli traders report unsold stocks equivalent to 60 days of Sri Lanka trade lying in cold storage, triggering a 30% price crash in domestic wholesale markets.",
+      "category": "geopolitical",
+      "source": "AP Agricultural Market Committee / Spices Board of India"
+    },
+    {
+      "title": "India Withdraws MFN Status from Pakistan, All Bilateral Trade Formally Suspended",
+      "description": "India formally revoked Most Favoured Nation trading status for Pakistan following a significant escalation in cross-border tensions, effectively raising tariffs on all Pakistani goods to 200%. The ₹2,800 crore in formal trade that existed through limited channels is now fully suspended. Indian businesses in Punjab and Rajasthan that relied on informal cross-border trade networks for textiles and agricultural inputs face supply chain restructuring.",
+      "category": "geopolitical",
+      "source": "Ministry of Commerce India / Federation of Indian Export Organisations"
+    },
+    {
+      "title": "OPEC+ Agrees Emergency Production Cut of 2 Million Barrels Per Day",
+      "description": "An emergency OPEC+ ministerial meeting in Vienna agreed to the largest production cut since the COVID-19 pandemic, reducing collective output by 2 million barrels per day effective from the following month. Brent crude surged 8.4% to $102 per barrel following the announcement. India's oil import bill — already at $150 billion annually — is projected to increase by an additional $18–22 billion if prices are sustained at elevated levels.",
+      "category": "geopolitical",
+      "source": "OPEC Secretariat / Ministry of Petroleum, India"
+    },
+    {
+      "title": "China Bans Export of Drone Components, Affecting Global Defence and Agricultural Tech Supply",
+      "description": "China's Ministry of Commerce issued emergency export controls on drone propulsion systems, high-density batteries, and flight control units, citing national security concerns during heightened geopolitical tensions. China manufactures approximately 70% of global commercial drone components. Indian agricultural drone startups and defence tech firms face a 45–60 day supply freeze with component prices expected to rise 35–50%.",
+      "category": "geopolitical",
+      "source": "Chinese Ministry of Commerce / Drone Federation of India"
+    },
+    {
+      "title": "US Imposes Secondary Sanctions on Indian Banks Processing Russian Oil Payments",
+      "description": "Washington issued sanctions advisories targeting Indian public sector banks processing payments for Russian crude oil imports above the G7 price cap of $60 per barrel, warning of secondary sanctions consequences. Reserve Bank of India entered emergency consultations with US Treasury. Three Indian state banks temporarily suspended new trade finance lines for Russian energy transactions pending legal clarity.",
+      "category": "geopolitical",
+      "source": "US Treasury Department / Reserve Bank of India"
+    },
+    {
+      "title": "Sudan Canal Project Threatens to Divert Nile Flow, Egypt-Ethiopia Crisis Deepens",
+      "description": "Ethiopia announced a secondary irrigation canal project that would divert an additional 3 billion cubic metres of Blue Nile flow annually for domestic agriculture, pushing the Egypt-Ethiopia water conflict toward a new critical threshold. Egypt's agricultural ministry warned of a 12% reduction in irrigated wheat and cotton production. Global wheat import demand from the Middle East and North Africa is projected to rise by 8–10 million tonnes annually.",
+      "category": "geopolitical",
+      "source": "Egyptian Ministry of Foreign Affairs / FAO"
+    },
+    {
+      "title": "Andhra Pradesh Fishermen Stranded After Sri Lanka Naval Standoff Over Maritime Boundary",
+      "description": "Sri Lankan naval vessels detained 47 Andhra Pradesh fishermen operating near the Katchatheevu island area, triggering a diplomatic incident. Over 1,200 fishing boats from Nellore and Krishna districts have halted operations pending safety assurances. The fishing community in the Krishna-Godavari coast reports losses of approximately ₹4.5 crore per day in foregone catch revenue.",
+      "category": "geopolitical",
+      "source": "AP Fisheries Department / Ministry of External Affairs India"
+    },
+    {
+      "title": "Russia's Wagner Group Seizes Sudanese Gold Mines, Disrupts Artisanal Export Channels",
+      "description": "Reports confirmed that Russia-affiliated Wagner Group contractors have taken effective operational control of major gold mining sites in North Sudan and the Central African Republic. Artisanal and small-scale gold exports through established Indian refiners who source from these regions face origin-certification complications under OECD conflict minerals guidelines, with potential compliance-related supply disruption.",
+      "category": "geopolitical",
+      "source": "Global Witness / All India Gem and Jewellery Domestic Council"
+    },
+    {
+      "title": "India Imposes Anti-Dumping Duties on Chinese Solar Panels, Raising Renewable Energy Costs",
+      "description": "India's Directorate General of Trade Remedies confirmed anti-dumping duties of 25% on Chinese photovoltaic modules and cells following findings of predatory pricing. The duties apply retroactively to ongoing solar project imports. Solar power project developers warn that the effective cost of new installations rises by ₹30–40 lakh per megawatt, threatening the viability of 18 GW of projects under bid.",
+      "category": "geopolitical",
+      "source": "DGTR India / Ministry of New and Renewable Energy"
+    },
+    {
+      "title": "Turkey Imposes Surprise 100% Tariff on Indian Textiles, Cotton Yarn",
+      "description": "Ankara announced emergency tariff measures targeting Indian cotton yarn, fabrics, and ready-made garments citing unfair competition with domestic Turkish textile producers. Indian textile exports to Turkey — worth approximately $1.1 billion annually — face immediate effective doubling of landed cost. Tiruppur and Surat exporters report order cancellations equivalent to three months of shipments.",
+      "category": "geopolitical",
+      "source": "Turkish Trade Ministry / Apparel Export Promotion Council India"
+    },
+    {
+      "title": "Bangladesh Garment Sector Strike Disrupts Global Fast Fashion Supply Chain",
+      "description": "Over 600,000 garment workers across Dhaka's major export processing zones went on indefinite strike demanding wage revisions following a cost-of-living crisis. Bangladesh accounts for 7% of global apparel exports. Global fast fashion retailers including H&M and Zara activated emergency sourcing from India, Vietnam, and Cambodia. Indian garment manufacturers in Tiruppur and Bengaluru report a 40% surge in rush orders.",
+      "category": "geopolitical",
+      "source": "Bangladesh Garment Manufacturers and Exporters Association / Apparel Export Promotion Council India"
+    },
+    {
+      "title": "China Restricts Rare Earth Magnet Exports, Threatening EV and Wind Turbine Manufacturing",
+      "description": "China announced new export quotas on neodymium-iron-boron permanent magnets — critical components in electric vehicle motors and wind turbine generators — reducing outbound shipments by 40%. China produces 90% of global rare earth magnets. Indian EV manufacturers and wind energy companies face a projected 60–80% price increase in motor components within two quarters, threatening production targets.",
+      "category": "geopolitical",
+      "source": "Chinese Ministry of Industry / Indian Wind Energy Association"
+    },
+    {
+      "title": "Iran's Drone Attacks on UAE Oil Infrastructure Trigger Gulf Crisis Premium on Crude",
+      "description": "Iran-affiliated forces launched a series of drone strikes targeting oil storage facilities in Fujairah — a critical UAE oil export hub — causing fires and a temporary closure of two offshore loading platforms. The attack pushed Brent crude to $108 per barrel within 48 hours. India's strategic petroleum reserve release protocol was activated for the first time since 2022 to buffer domestic fuel markets.",
+      "category": "geopolitical",
+      "source": "UAE Ministry of Energy / Ministry of Petroleum India"
+    },
+    {
+      "title": "Argentina Peso Devaluation of 50% Disrupts Soyabean and Soy Meal Export Markets",
+      "description": "Argentina's central bank announced a controlled devaluation of the peso by 50% as part of an IMF-mandated economic adjustment programme. The devaluation triggered a rush by Argentine farmers to sell dollar-denominated soy stocks, temporarily flooding global soy meal markets and crashing prices by 18%. Indian poultry and aquaculture producers — heavy soy meal consumers — face short-term input cost relief followed by medium-term supply contraction.",
+      "category": "geopolitical",
+      "source": "Argentine Ministry of Economy / Solvent Extractors Association of India"
+    },
+    {
+      "title": "EU Bans Import of Goods Produced Using Forced Labour, Targets Cotton from Xinjiang",
+      "description": "A new European Union regulation prohibiting import of goods produced using forced labour took effect, with an explicit focus on cotton from China's Xinjiang region. Companies with any Xinjiang cotton in their supply chain face EU market exclusion. Indian garment exporters who blend Xinjiang cotton in yarn face compliance audits by European buyers, with some receiving demands to re-certify entire cotton sourcing chains within 60 days.",
+      "category": "geopolitical",
+      "source": "European Commission / Confederation of Indian Textile Industry"
+    },
+    {
+      "title": "India and UAE Finalise CBDC-Based Trade Settlement, Reducing Dollar Dependency",
+      "description": "India and the UAE completed a pilot framework for bilateral trade settlement using digital rupee and digital dirham without dollar intermediation. The bilateral trade of $85 billion annually can now bypass SWIFT-based dollar clearing for designated commodity and service transactions. Indian exporters of gems, jewellery, and food products gain immediate benefit from reduced currency conversion costs estimated at 0.8–1.2% of transaction value.",
+      "category": "geopolitical",
+      "source": "Reserve Bank of India / UAE Central Bank"
+    },
+    {
+      "title": "Semiconductor Shortage Returns as TSMC Arizona Fab Faces Construction Delays",
+      "description": "Taiwan Semiconductor Manufacturing Company disclosed a 14-month delay in full production at its Arizona fabrication plant, citing skilled labour shortages and equipment certification issues. The delay pushes back the availability of US-produced 3nm chips by over a year. Indian smartphone assemblers, auto electronics manufacturers, and consumer electronics companies — all dependent on TSMC-fabbed chips — renew concerns about component availability through 2026.",
+      "category": "geopolitical",
+      "source": "TSMC Investor Relations / India Electronics Semiconductor Association"
+    },
+    {
+      "title": "West Africa's Sahel Military Coups Disrupt Uranium Supply for Global Nuclear Power",
+      "description": "Following military coups in Niger and Mali, transitional governments in both countries suspended uranium export agreements with French energy company Orano, threatening fuel supply for France's nuclear power plants. Niger produces 7% of global uranium. Global uranium prices rose 45% over six months. India's nuclear energy programme — which imports uranium from multiple sources — activates additional sourcing from Kazakhstan and Canada.",
+      "category": "geopolitical",
+      "source": "World Nuclear Association / Department of Atomic Energy India"
+    },
+    {
+      "title": "India Expands Production Linked Incentive Scheme for Electronics Amid China Decoupling Trend",
+      "description": "India announced a ₹76,000 crore expansion of its Production Linked Incentive scheme for mobile phones, semiconductors, and IT hardware, explicitly targeting companies relocating supply chains from China. Apple, Samsung, and Foxconn accelerate India manufacturing commitments. Andhra Pradesh's Tirupati and Sri City industrial zones emerge as primary beneficiaries, with projected industrial employment growth of 180,000 jobs over four years.",
+      "category": "geopolitical",
+      "source": "Ministry of Electronics and IT India / NASSCOM"
+    },
+    {
+      "title": "Qatar Threatens LNG Supply Review if Western Sanctions Disrupt Payment Channels",
+      "description": "Qatar's energy ministry issued a formal diplomatic note warning that any extension of Western financial sanctions to Qatari sovereign investment channels would trigger a review of long-term LNG supply commitments to European and Asian buyers. Qatar supplies 25% of global LNG. India's Petronet LNG, which has a 7.5 million tonne per year long-term contract with Qatar, closely monitors diplomatic developments.",
+      "category": "geopolitical",
+      "source": "Qatar Ministry of Energy / Petronet LNG"
+    },
+    {
+      "title": "Chile Declares State of Emergency in Atacama, Disrupting Copper and Lithium Output",
+      "description": "Chile's government declared a state of constitutional exception in the Atacama region following violent protests over royalty distribution from mining revenues. Several copper mines including Escondida — the world's largest — reduced operations by 30% as access roads were blocked. Global copper prices rose 12% within five days. Indian copper wire and cable manufacturers face a projected 18–20% input cost increase.",
+      "category": "geopolitical",
+      "source": "Chilean National Mining Society / Hindalco Industries"
+    },
+    {
+      "title": "India's Border Standoff with China Escalates in Arunachal Pradesh, Defence Spending Rises",
+      "description": "A new series of confrontations along the Line of Actual Control in Arunachal Pradesh's Tawang sector prompted India to announce emergency defence infrastructure spending of ₹12,000 crore, including forward road and airfield construction. The government issued accelerated procurement orders for defence electronics, fuel, and construction materials. Border state infrastructure companies and defence suppliers receive priority contracts.",
+      "category": "geopolitical",
+      "source": "Ministry of Defence India / Border Roads Organisation"
+    },
+    {
+      "title": "Global Shipping Alliance Collapses, Freight Rate Volatility Surges",
+      "description": "The 2M Alliance between Maersk and MSC formally dissolved, ending the dominant container shipping partnership that had operated for over a decade. Both lines announced independent schedules, creating short-term capacity withdrawal on key trade lanes as new networks are reconfigured. Spot freight rates on Asia-Europe and transpacific routes rose 22–28% in the six weeks following the dissolution announcement.",
+      "category": "geopolitical",
+      "source": "Drewry Shipping Consultants / Container Trades Statistics"
+    },
+    {
+      "title": "US Dollar Weaponisation Drives BRICS Nations to Announce New Settlement Currency",
+      "description": "At their annual summit, BRICS leaders announced a framework for a new commodity-backed trade settlement unit as an alternative to dollar-denominated trade. The announcement triggered a 1.8% fall in the US dollar index and a surge in gold prices to $2,380 per ounce. Indian exporters and importers begin assessing transition timelines for rupee-rouble and rupee-yuan trade settlement under bilateral arrangements.",
+      "category": "geopolitical",
+      "source": "BRICS Secretariat / Ministry of Finance India"
+    },
+    {
+      "title": "Gulf Cooperation Council Implements Unified VAT on Services, Affecting Indian Migrant Workers",
+      "description": "The GCC's coordinated expansion of VAT to cover all professional and domestic services significantly increases the cost of living for Indian migrant workers in Saudi Arabia, UAE, and Qatar. An estimated 8.9 million Indian nationals in the Gulf region face reduced real disposable incomes. Annual remittances to India — totalling $42 billion — are expected to fall by 6–9% over the following two years.",
+      "category": "geopolitical",
+      "source": "GCC Secretariat / Reserve Bank of India Remittance Survey"
+    },
+    {
+      "title": "India Bans Single-Use Plastics, Triggering Petrochemical Sector Restructuring",
+      "description": "India's comprehensive ban on identified single-use plastic products took effect, impacting an estimated ₹1 lakh crore segment of the domestic petrochemical industry. Polymer manufacturers including Reliance Industries and GAIL Petchem face demand destruction for LDPE and polypropylene grades used in banned applications. Alternative packaging material suppliers including paper, jute, and bioplastic firms report order surge of 200–300%.",
+      "category": "geopolitical",
+      "source": "Ministry of Environment Forest and Climate Change India / Chemicals and Petrochemicals Manufacturers Association"
+    },
+    {
+      "title": "Brazil Imposes Emergency Soyabean Export Ceiling Amid Domestic Food Inflation",
+      "description": "Brazil's government imposed monthly export ceilings on soyabean and corn following a political backlash over domestic food price inflation. Brazil accounts for 35% of global soy exports. Global vegetable oil prices rallied 16% on the announcement. Indian poultry farmers and aquaculture producers face immediate soy meal cost increases, while Indian oilseed farmers in Rajasthan and MP receive a price windfall.",
+      "category": "geopolitical",
+      "source": "Brazilian Ministry of Agriculture / National Cooperative Development Corporation India"
+    },
+    {
+      "title": "Andhra Pradesh Faces LPG Shortage as Gulf Supplies Diverted to Europe",
+      "description": "European demand for liquefied petroleum gas surged as the continent sought alternatives to Russian pipeline gas, diverting Middle Eastern LPG cargoes away from Asian markets. Andhra Pradesh's household and commercial LPG customers face a 30-day delivery backlog. Restaurant owners in Vijayawada and Visakhapatnam report receiving only 60% of booked commercial cylinders, prompting a shift to firewood and electric induction among smaller eateries.",
+      "category": "geopolitical",
+      "source": "AP LPG Distributors Association / Petroleum Ministry India"
+    },
+    {
+      "title": "India-China Border Trade at Nathu La Pass Suspended Indefinitely After LAC Incident",
+      "description": "Following a clash between Indian and Chinese troops at Yangtse in Arunachal Pradesh, India suspended border trade at the Nathu La Pass in Sikkim. While formal bilateral trade is modest, the suspension signals deeper economic decoupling. Indian import substitution programmes for Chinese goods in electronics, chemicals, and solar equipment accelerate, with MSME production orders rising sharply in Andhra Pradesh and Telangana.",
+      "category": "geopolitical",
+      "source": "Ministry of Commerce India / India-China Economic and Cultural Council"
+    },
+    {
+      "title": "Venezuela and Guyana Naval Standoff Disrupts Caribbean Shipping Confidence",
+      "description": "Venezuela's navy challenged a Guyanese exploration vessel in the disputed Essequibo region, triggering a military standoff that raised alarm among Caribbean basin shipping operators. ExxonMobil and Hess, developing Guyana's Stabroek block — one of the decade's largest oil discoveries — activated security protocols. Guyana's new oil production which was expected to add 400,000 barrels per day to global markets faces a six-month delay.",
+      "category": "geopolitical",
+      "source": "ExxonMobil Guyana / Caribbean Basin Security Initiative"
+    },
+    {
+      "title": "India's Fertiliser Subsidy Bill Surges to ₹2.2 Lakh Crore as Global Prices Remain Elevated",
+      "description": "India's fertiliser subsidy expenditure is projected to reach ₹2.2 lakh crore — nearly double pre-pandemic levels — as urea, DAP, and MOP international prices remain elevated due to gas price volatility and Belarusian potash sanctions. The fiscal pressure constrains government capital expenditure in other infrastructure sectors. Farm input costs for Andhra Pradesh's Kharif season are 35% above the five-year average.",
+      "category": "geopolitical",
+      "source": "Ministry of Chemicals and Fertilisers India / FAI"
+    },
+    {
+      "title": "Indonesia Restricts Palm Oil Exports Again Citing Domestic Cooking Oil Shortage",
+      "description": "Jakarta reimposed emergency export restrictions on crude palm oil and its refined derivatives following reports of cooking oil shortages in Java and Sumatra ahead of Ramadan. Indonesia controls 57% of global palm oil supply. India's edible oil market — which imports 8–9 million tonnes of palm oil annually from Indonesia and Malaysia — faces immediate spot price increases of 20–25%, with longer-term contract prices expected to revise upward within 90 days.",
+      "category": "geopolitical",
+      "source": "Indonesian CPO Fund Board / Solvent Extractors Association of India"
+    },
+    {
+      "title": "India Raises Import Duties on Gold to 15% to Curb Current Account Deficit Widening",
+      "description": "India's finance ministry raised the basic customs duty on gold to 15% from 10% in an emergency measure to curtail surging gold imports that were widening the current account deficit beyond 3% of GDP. The gold price in Indian markets rose ₹5,200 per 10 grams immediately. Gem and jewellery exporters face rising input costs while domestic goldsmiths and hallmarking centres in Andhra Pradesh and Tamil Nadu report a 35% fall in orders.",
+      "category": "geopolitical",
+      "source": "Ministry of Finance India / India Bullion and Jewellers Association"
+    },
+    {
+      "title": "Panama Canal Drought Restrictions Slash Transit Capacity by 40%",
+      "description": "Severe drought conditions in the Panama Canal watershed led authorities to restrict maximum vessel draught, reducing the number of daily transits from 38 to 22 and forcing some vessels to partially unload cargo. Delays of 20–30 days are reported for vessels waiting to transit. Indian automotive component and pharmaceutical exporters using the Pacific route to the US East Coast face significant freight timeline disruptions.",
+      "category": "geopolitical",
+      "source": "Panama Canal Authority / Confederation of Indian Industry"
+    },
+    {
+      "title": "India Announces ₹10 Lakh Crore National Infrastructure Budget, Triggers Steel Demand Surge",
+      "description": "India's union budget allocates a record ₹10 lakh crore for capital expenditure in roads, railways, ports, airports, and urban infrastructure. The allocation triggers immediate demand signals in the steel, cement, and construction equipment sectors. Andhra Pradesh's infrastructure pipeline — including the Amaravati rebuild and new port development at Machilipatnam — receives significant central allocation boosts.",
+      "category": "geopolitical",
+      "source": "Ministry of Finance India / Ministry of Road Transport and Highways"
+    },
+    {
+      "title": "Iran Nuclear Deal Collapses, Oil Sanctions Tighten; India Loses Discounted Crude Access",
+      "description": "Renewed nuclear negotiations between Iran and the P5+1 group collapsed after Iran refused IAEA inspections of military sites. The US immediately reimposed maximum pressure sanctions, eliminating any possibility of Iranian crude re-entering formal markets. India had been informally importing 300,000–400,000 barrels per day of Iranian crude. The loss of this discounted source adds an estimated $8–12 billion to India's annual oil import bill.",
+      "category": "geopolitical",
+      "source": "US State Department / Ministry of Petroleum India"
+    },
+    {
+      "title": "Chinese Fishing Vessels Disrupt Indian Ocean Maritime Lanes, Navy Placed on Alert",
+      "description": "A flotilla of over 200 Chinese distant-water fishing vessels — suspected of also conducting intelligence gathering — was detected operating in the exclusive economic zones of the Andaman and Nicobar Islands and the Lakshadweep archipelago. India's Indian Ocean surveillance posture was elevated. Fishing communities in Andhra Pradesh and Tamil Nadu demand government action to protect their maritime livelihoods from competitive displacement.",
+      "category": "geopolitical",
+      "source": "Indian Navy Maritime Domain Awareness / Ministry of Fisheries India"
+    },
+    {
+      "title": "Global Shipping Container Shortage Returns Amid Trade Volume Recovery",
+      "description": "A sharp recovery in global merchandise trade following the easing of multiple supply chain disruptions outpaced the repositioning of empty containers, creating acute shortages on Asia-Europe and Asia-Americas routes. Container spot rates tripled in three months. Indian exporters — particularly in textiles, leather goods, and chemicals — report booking lead times extending to 6–8 weeks versus a normal 1–2 weeks.",
+      "category": "geopolitical",
+      "source": "Freightos Baltic Index / Container Trades Statistics"
+    },
+    {
+      "title": "Germany's Energy Transition Drives Massive Demand for Indian Solar Engineering Talent",
+      "description": "Germany's accelerated Energiewende transition — aiming for 80% renewable electricity by 2030 — created unprecedented demand for engineering services in solar, wind, and battery storage project management. Indian solar EPC firms and engineering consultancies report a 65% surge in European project enquiries. Hyderabad and Bengaluru-based renewable energy engineering firms begin aggressive international hiring.",
+      "category": "geopolitical",
+      "source": "German Federal Ministry for Economic Affairs / Ministry of New and Renewable Energy India"
+    },
+    {
+      "title": "US Chips Act Restrictions Bar TSMC from Selling Advanced Chips to China, Redirects Indian Orders",
+      "description": "New US CHIPS Act compliance requirements bar TSMC and Samsung from supplying chips manufactured with US-origin equipment to Chinese entities. This redirects chip allocation toward non-Chinese buyers including Indian smartphone assemblers and automotive electronics makers. While beneficial for Indian access, the tighter global allocation means chip lead times remain elevated at 20–26 weeks.",
+      "category": "geopolitical",
+      "source": "US Department of Commerce / Indian Electronics and Semiconductor Association"
+    },
+    {
+      "title": "GCC Countries Accelerate Post-Oil Economic Transition, Cutting Petrochemical Subsidies",
+      "description": "Saudi Arabia, UAE, and Kuwait announced the phased removal of domestic energy subsidies for petrochemical industries as part of economic diversification plans, raising production costs for Gulf-based polymer manufacturers. This levels the playing field for Indian petrochemical producers who had been competing against heavily subsidised Gulf output. Indian polymer prices are expected to stabilise with reduced import pressure.",
+      "category": "geopolitical",
+      "source": "Gulf Petrochemicals and Chemicals Association / Chemicals and Petrochemicals Manufacturers Association India"
+    },
+    {
+      "title": "China's Property Sector Meltdown Reduces Iron Ore Demand, Australian-Indian Supply Chain Rebalances",
+      "description": "China's ongoing property sector crisis — with major developers including Evergrande and Country Garden defaulting on over $500 billion in combined debt — has structurally reduced Chinese steel and iron ore demand. Australian iron ore — which China had been buying at 70% market share — becomes partially available to alternative buyers including India's Tata Steel and JSW Steel at improved negotiating terms.",
+      "category": "geopolitical",
+      "source": "World Steel Association / Ministry of Steel India"
+    },
+    {
+      "title": "India's G20 Presidency Drives Trade Finance Reform, Reducing SME Export Barriers",
+      "description": "India's G20 Presidency delivered a multilateral framework for trade finance reform, including standardised digital documentation, reduced collateral requirements for SME exporters, and cross-border fintech payment facilitation. Indian MSMEs — which account for 47% of India's exports — are projected to increase export volumes by 18–22% over three years as financing costs fall by an estimated 150–200 basis points.",
+      "category": "geopolitical",
+      "source": "G20 Trade Finance Working Group / EXIM Bank of India"
+    },
+    {
+      "title": "India-EU Free Trade Agreement Negotiations Stall Over Data Localisation Clause",
+      "description": "The India-European Union free trade and investment partnership agreement negotiations hit a critical impasse over India's insistence on data localisation requirements that European digital services companies refuse to accept. A deal would have been worth €100 billion in annual trade. Indian software and IT services firms — which had anticipated zero-duty access to the EU digital services market — face a continued 18–24 month delay.",
+      "category": "geopolitical",
+      "source": "Ministry of Commerce India / European Commission DG Trade"
+    },
+    {
+      "title": "Andhra Pradesh's Krishnapatnam Port Expansion Faces Regulatory Delay Due to China Equipment Origin Concerns",
+      "description": "India's port security committee delayed clearance for 14 port cranes ordered from Chinese manufacturer ZPMC for Krishnapatnam Port's Phase 3 expansion, citing embedded technology and connectivity security concerns. The delay pushes back the port's capacity expansion by 18 months. Cargo diversion to Vizag and Chennai ports creates congestion, raising container dwell times and increasing costs for AP-based exporters by ₹12,000–18,000 per TEU.",
+      "category": "geopolitical",
+      "source": "Ministry of Ports Shipping and Waterways India / AP Port Development Corporation"
+    },
+    {
+      "title": "India's Rupee-Rouble Trade Mechanism Faces Settlement Pile-Up Worth ₹25,000 Crore",
+      "description": "India's bilateral rupee-rouble trade settlement mechanism with Russia — designed to bypass Western payment sanctions — has created a surplus of unspent rupee balances in Indian accounts that Russia cannot convert into usable currencies. Over ₹25,000 crore in unresolved balances sits in Indian correspondent bank accounts. Russian oil payments to India are being partially structured through UAE and Turkish intermediaries to avoid settlement deadlocks.",
+      "category": "geopolitical",
+      "source": "Reserve Bank of India / Ministry of External Affairs India"
+    },
+    {
+      "title": "China Retaliates Against US Tech Bans with Restrictions on Antimony, Bismuth Exports",
+      "description": "Beijing announced export restrictions on antimony and bismuth — critical for flame retardants, semiconductors, and military applications — in direct retaliation for US semiconductor export controls. China controls 87% of global antimony supply. Indian electronics and defence manufacturing sectors face a potential 200–300% price spike in antimony-based materials within 90 days as global inventories are drawn down.",
+      "category": "geopolitical",
+      "source": "Chinese Ministry of Commerce / Indian Defence R&D Organisation"
+    },
+    {
+      "title": "India's Production Linked Incentive for Textiles Collapses as Scheme Fails to Meet Targets",
+      "description": "India's PLI scheme for man-made fibre textiles and technical textiles fell significantly short of investment and production targets after two years, with less than 40% of approved applicants achieving qualifying thresholds. The scheme review triggers policy uncertainty for textile manufacturers in Andhra Pradesh and Tamil Nadu who had committed capital to qualifying investments. Export targets for MMF textiles to the EU and US are being revised downward.",
+      "category": "geopolitical",
+      "source": "Ministry of Textiles India / Confederation of Indian Textile Industry"
+    },
+    {
+      "title": "Suez Canal Deepening Works Temporarily Restrict Large Vessel Transit",
+      "description": "The Suez Canal Authority began a 90-day programme of deepening works on the southern section of the canal, restricting transit to vessels with draught below 19 metres during working hours. Ultra-large container vessels and VLCCs are required to transit at night with a 35% reduction in daily convoy capacity. Freight rates on Asia-Europe routes rise 15% during the works, with Indian exporters facing increased logistics costs.",
+      "category": "geopolitical",
+      "source": "Suez Canal Authority / Indian Chamber of Commerce"
+    },
+    {
+      "title": "India's Agri-Export Restrictions Under WTO Fire as Countries File Dispute Complaints",
+      "description": "A coalition of 14 countries filed formal dispute complaints at the World Trade Organization against India's export restrictions on rice, wheat, and sugar, arguing they breach WTO agreements on agriculture and market distortion. India faces potential retaliatory trade measures on its pharmaceutical and IT services exports if the dispute panel finds against its position. The diplomatic pressure may force India to ease export controls earlier than domestically preferred.",
+      "category": "geopolitical",
+      "source": "World Trade Organization / Ministry of Commerce India"
+    },
+    {
+      "title": "India's Space Sector Opens to Foreign Direct Investment, Triggers Global Interest",
+      "description": "India amended its foreign direct investment policy to allow 100% FDI in satellite manufacturing, launch vehicle production, and ground station infrastructure. Within three months, investment commitments of over $2 billion from US, European, and Japanese space companies were registered. Andhra Pradesh's Sriharikota aerospace corridor emerges as a leading investment destination with three new private launch vehicle companies announcing facilities.",
+      "category": "geopolitical",
+      "source": "IN-SPACe / Department for Promotion of Industry and Internal Trade India"
+    },
+    {
+      "title": "Pakistan's IMF Bailout Conditions Force Removal of Electricity Subsidies, Textile Sector Collapses",
+      "description": "Pakistan's IMF Extended Fund Facility conditions required the removal of electricity and gas subsidies for industrial consumers, raising manufacturing energy costs by 120–180%. Pakistan's textile sector — the country's largest export industry — reports mass factory closures with over 400 units shutting down. Indian cotton yarn exporters to Pakistan lose a market worth $400 million annually.",
+      "category": "geopolitical",
+      "source": "IMF Pakistan Article IV / Pakistan Textile Council"
+    },
+    {
+      "title": "Red Sea Crisis Extends, India's Pharmaceutical Exports to Europe Face 45-Day Delays",
+      "description": "The extended Houthi attack campaign on Red Sea shipping has now been sustained for over eight months, with no diplomatic resolution in sight. India's pharmaceutical exports to European markets — worth $8.7 billion annually — face an average transit time increase of 40 days when rerouted via the Cape of Good Hope. Cold chain integrity for temperature-sensitive biologics and vaccines is being compromised, raising rejection rates at European customs.",
+      "category": "geopolitical",
+      "source": "Pharmaceuticals Export Promotion Council India / European Medicines Agency"
+    },
+    {
+      "title": "India Launches Emergency Coal Import Programme After Domestic Mining Shortfall",
+      "description": "Coal India Limited's output fell 18 million tonnes below targets in a single quarter due to monsoon flooding and geological challenges, forcing power utilities to launch emergency import tenders. Thermal coal import costs at ₹12,000 per tonne versus domestic costs of ₹2,200 per tonne add ₹4,800 crore to power generation costs. Power tariff revisions of 8–12% are under consideration by state electricity regulatory commissions.",
+      "category": "geopolitical",
+      "source": "Coal India Limited / Central Electricity Authority India"
+    },
+    {
+      "title": "India's Defence Exports Cross $2 Billion, Driven by BrahMos and Tejas Contracts",
+      "description": "India's defence export figure crossed $2 billion for the first time, driven by BrahMos supersonic missile supply contracts with the Philippines and Vietnam, Tejas light combat aircraft negotiations with Argentina and Egypt, and artillery ammunition exports to Ukraine via European intermediaries. Andhra Pradesh's defence industrial corridor — anchored at Amaravati and Kurnool — reports a manufacturing order book growth of 340% year on year.",
+      "category": "geopolitical",
+      "source": "Ministry of Defence India / Defence Research and Development Organisation"
+    },
+    {
+      "title": "India and Saudi Arabia Sign ₹5 Lakh Crore Strategic Investment Partnership",
+      "description": "India and Saudi Arabia formalised a comprehensive strategic partnership with Saudi commitments of ₹5 lakh crore in investments across petroleum refining, renewable energy, food processing, and infrastructure over five years. ARAMCO's proposed 20% stake acquisition in Reliance Industries' O2C business is revived with new terms. Indian refiners gain preferential access to Saudi crude allocation as a quid pro quo of the investment framework.",
+      "category": "geopolitical",
+      "source": "Ministry of External Affairs India / Saudi Ministry of Investment"
+    },
+    {
+      "title": "Andhra Pradesh Aquaculture Exports Face EU Ban After Antibiotic Residue Violations",
+      "description": "The European Food Safety Authority detected antibiotic residue violations in shrimp and fish exports from Andhra Pradesh processing units, triggering an emergency EU import ban on Andhra seafood products. The ban affects approximately $1.8 billion of annual exports. Over 2 lakh aquaculture workers in the Krishna and West Godavari delta regions face immediate employment disruption as processing plants halt operations and pond-raised shrimp cannot find alternative markets at comparable prices.",
+      "category": "geopolitical",
+      "source": "European Food Safety Authority / Marine Products Export Development Authority India"
+    },
+    {
+      "title": "Japan and Korea Activate Currency Swap Lines as Yen and Won Weaken Against Dollar",
+      "description": "Japan and South Korea activated bilateral currency swap lines and coordinated central bank intervention after the yen fell to 155 per dollar and the won to 1,380 per dollar, reflecting dollar strength from sustained US interest rate policy. The coordinated action signals a broader G7 conversation on managing dollar dominance. Indian rupee came under renewed pressure at ₹86.40 per dollar as Asian currency contagion spread.",
+      "category": "geopolitical",
+      "source": "Bank of Japan / Reserve Bank of India"
+    },
+    {
+      "title": "India's Semiconductor Mission Attracts Micron Technology $2.75 Billion Investment in Gujarat",
+      "description": "Micron Technology broke ground on a $2.75 billion semiconductor assembly, test, and packaging facility in Sanand, Gujarat, under India's Semiconductor Mission incentive framework. The facility will produce DRAM and NAND memory chips for global markets. The investment catalyses a semiconductor supply chain ecosystem with over 80 component and chemical suppliers planning satellite units in Gujarat and Telangana.",
+      "category": "geopolitical",
+      "source": "Ministry of Electronics and IT India / Micron Technology"
+    },
+    {
+      "title": "Colombia Coca Eradication Programme Disrupts Chemical Solvent Supply Chain",
+      "description": "Colombia's forced coca eradication campaign inadvertently destroyed significant legal palm oil and rubber plantation areas across the Caquetá and Putumayo departments while targeting illicit crops. Colombia's palm oil exports to the Indian market — worth approximately $180 million annually — fell by 35% in a single quarter, contributing to a 4% uptick in Indian palm oil import prices.",
+      "category": "geopolitical",
+      "source": "Colombian Agriculture Ministry / Solvent Extractors Association of India"
+    },
+    {
+      "title": "India's National Monetisation Pipeline Accelerates Asset Sales Amid Fiscal Pressures",
+      "description": "India's government accelerated asset monetisation under the National Monetisation Pipeline, completing InvIT transactions for 3,500 km of national highways and 30,000 circuit km of power transmission lines. The ₹88,000 crore raised helps offset fertiliser and food subsidy overruns. Infrastructure investment trusts see strong institutional investor demand from domestic pension funds and foreign sovereign wealth funds including Singapore GIC.",
+      "category": "geopolitical",
+      "source": "NITI Aayog / Ministry of Finance India"
+    },
+    {
+      "title": "Bangladesh Garment Sector Collapses Amid Student Uprising and Government Change",
+      "description": "Bangladesh's political upheaval following a mass student uprising that toppled the Hasina government triggered widespread factory closures across Dhaka's garment export zones. Over 3,500 factories halted production for between 2 and 6 weeks. Global apparel buyers including H&M, Gap, and Primark placed emergency orders with Indian manufacturers in Tiruppur and Bengaluru, driving a 55% surge in Indian garment export enquiries.",
+      "category": "geopolitical",
+      "source": "BGMEA / Apparel Export Promotion Council India"
+    }
+  ]

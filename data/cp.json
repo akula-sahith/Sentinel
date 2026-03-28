@@ -1,0 +1,614 @@
+[
+  {
+    "commodity": "Wheat (Grain)",
+    "category": "Food",
+    "price": 22400,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Wheat Flour (Maida)",
+    "category": "Food",
+    "price": 75,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Wheat Atta (Whole Wheat Flour)",
+    "category": "Food",
+    "price": 75,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Rice (Non-Basmati)",
+    "category": "Food",
+    "price": 35370,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Basmati Rice",
+    "category": "Food",
+    "price": 90000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Maize (Corn)",
+    "category": "Food",
+    "price": 17890,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Refined Sugar",
+    "category": "Food",
+    "price": 42000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Palm Oil (Refined)",
+    "category": "Food",
+    "price": 88000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Sunflower Oil (Refined)",
+    "category": "Food",
+    "price": 128000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Soybean Oil",
+    "category": "Food",
+    "price": 95700,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Mustard Oil",
+    "category": "Food",
+    "price": 165,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Groundnut Oil",
+    "category": "Food",
+    "price": 185,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Ghee (Clarified Butter)",
+    "category": "Food",
+    "price": 620,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Butter",
+    "category": "Food",
+    "price": 480,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Milk (Full Fat)",
+    "category": "Food",
+    "price": 55,
+    "unit": "INR/liter"
+  },
+  {
+    "commodity": "Skimmed Milk Powder",
+    "category": "Food",
+    "price": 310,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Cream (Fresh Dairy)",
+    "category": "Food",
+    "price": 280,
+    "unit": "INR/liter"
+  },
+  {
+    "commodity": "Mozzarella Cheese",
+    "category": "Food",
+    "price": 420,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Paneer (Cottage Cheese)",
+    "category": "Food",
+    "price": 340,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Eggs (Hen, Table)",
+    "category": "Food",
+    "price": 7,
+    "unit": "INR/piece"
+  },
+  {
+    "commodity": "Chicken (Broiler, Whole)",
+    "category": "Food",
+    "price": 115,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Mutton (Goat)",
+    "category": "Food",
+    "price": 680,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Pork (Swine)",
+    "category": "Food",
+    "price": 260,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Fish (Rohu / Catla)",
+    "category": "Food",
+    "price": 220,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Prawns / Shrimp",
+    "category": "Food",
+    "price": 560,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Onion",
+    "category": "Food",
+    "price": 22,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Tomato",
+    "category": "Food",
+    "price": 16,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Potato",
+    "category": "Food",
+    "price": 8,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Garlic",
+    "category": "Food",
+    "price": 130,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Ginger",
+    "category": "Food",
+    "price": 90,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Green Chilli",
+    "category": "Food",
+    "price": 45,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Bell Pepper (Capsicum)",
+    "category": "Food",
+    "price": 55,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Mushroom (Button)",
+    "category": "Food",
+    "price": 160,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Sweet Corn (Canned)",
+    "category": "Food",
+    "price": 95,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Black Olives (Imported)",
+    "category": "Food",
+    "price": 380,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Turmeric Powder",
+    "category": "Food",
+    "price": 150,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Red Chilli Powder",
+    "category": "Food",
+    "price": 180,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Cumin (Jeera)",
+    "category": "Food",
+    "price": 250,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Garam Masala (Blend)",
+    "category": "Food",
+    "price": 550,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Coriander Seeds",
+    "category": "Food",
+    "price": 80,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Mustard Seeds",
+    "category": "Food",
+    "price": 75,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Cardamom",
+    "category": "Food",
+    "price": 2500,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Vanilla Essence",
+    "category": "Food",
+    "price": 1500,
+    "unit": "INR/liter"
+  },
+  {
+    "commodity": "Cocoa Powder",
+    "category": "Food",
+    "price": 630,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Cocoa Beans",
+    "category": "Food",
+    "price": 585000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Refined Sugar (Icing / Powdered)",
+    "category": "Food",
+    "price": 50,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Baking Powder",
+    "category": "Food",
+    "price": 100,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Dry Yeast",
+    "category": "Food",
+    "price": 380,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Salt (Iodized)",
+    "category": "Food",
+    "price": 18,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Toor Dal (Split Pigeon Pea)",
+    "category": "Food",
+    "price": 140,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Masoor Dal (Red Lentil)",
+    "category": "Food",
+    "price": 95,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Chana Dal (Bengal Gram)",
+    "category": "Food",
+    "price": 85,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Moong Dal (Green Gram Split)",
+    "category": "Food",
+    "price": 110,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Soybeans",
+    "category": "Food",
+    "price": 31400,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Coffee (Arabica Beans)",
+    "category": "Food",
+    "price": 3990,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Tea (Mombasa/Auction Grade)",
+    "category": "Food",
+    "price": 330,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "LPG (Commercial Cylinder, per kg)",
+    "category": "Food",
+    "price": 99,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "LPG Domestic Cylinder (14.2kg)",
+    "category": "Food",
+    "price": 913,
+    "unit": "INR/cylinder"
+  },
+  {
+    "commodity": "Tomato Paste / Puree",
+    "category": "Food",
+    "price": 95,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Olive Oil (Extra Virgin, Imported)",
+    "category": "Food",
+    "price": 850,
+    "unit": "INR/liter"
+  },
+  {
+    "commodity": "Dried Oregano / Basil (Herbs)",
+    "category": "Food",
+    "price": 500,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Pepperoni (Pork, Imported)",
+    "category": "Food",
+    "price": 850,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Sesame Seeds",
+    "category": "Food",
+    "price": 120,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Natural Rubber (RSS3 Grade)",
+    "category": "Food",
+    "price": 200,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Cotton (Lint, Middling Grade)",
+    "category": "Food",
+    "price": 59000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Copper (LME Grade A, MCX India)",
+    "category": "Manufacturing",
+    "price": 1115,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Aluminium (Primary Ingot, NALCO Domestic)",
+    "category": "Manufacturing",
+    "price": 220,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Nickel (LME)",
+    "category": "Manufacturing",
+    "price": 1258000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Zinc (LME)",
+    "category": "Manufacturing",
+    "price": 232000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Lead (LME)",
+    "category": "Manufacturing",
+    "price": 162000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Tin (LME)",
+    "category": "Manufacturing",
+    "price": 2806000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Cobalt (LME)",
+    "category": "Manufacturing",
+    "price": 2780000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Hot-Rolled Steel Coil",
+    "category": "Manufacturing",
+    "price": 56440,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Cold-Rolled Steel Sheet",
+    "category": "Manufacturing",
+    "price": 64740,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Iron Ore (Fe63.5%)",
+    "category": "Manufacturing",
+    "price": 8731,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Lithium Carbonate (Battery Grade)",
+    "category": "Manufacturing",
+    "price": 1162000,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Gold (LME / MCX)",
+    "category": "Manufacturing",
+    "price": 9550,
+    "unit": "INR/gram"
+  },
+  {
+    "commodity": "Silver (LME)",
+    "category": "Manufacturing",
+    "price": 103000,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Platinum (LME)",
+    "category": "Manufacturing",
+    "price": 290000,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Palladium (LME)",
+    "category": "Manufacturing",
+    "price": 98000,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Crude Oil (Brent Spot)",
+    "category": "Manufacturing",
+    "price": 5560,
+    "unit": "INR/barrel"
+  },
+  {
+    "commodity": "Diesel (Industrial / Retail India)",
+    "category": "Manufacturing",
+    "price": 88,
+    "unit": "INR/liter"
+  },
+  {
+    "commodity": "Petrol (Gasoline, Retail India)",
+    "category": "Manufacturing",
+    "price": 95,
+    "unit": "INR/liter"
+  },
+  {
+    "commodity": "Natural Gas (Henry Hub, converted)",
+    "category": "Manufacturing",
+    "price": 324,
+    "unit": "INR/MMBtu"
+  },
+  {
+    "commodity": "Coal (Thermal, Australian Export)",
+    "category": "Manufacturing",
+    "price": 9499,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Coal (Coking / Metallurgical)",
+    "category": "Manufacturing",
+    "price": 16466,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Uranium (U3O8)",
+    "category": "Manufacturing",
+    "price": 14200,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Silicon Wafer (300mm, Semiconductor Grade)",
+    "category": "Manufacturing",
+    "price": 14940,
+    "unit": "INR/wafer"
+  },
+  {
+    "commodity": "Polysilicon (High Purity, Solar/Semi Grade)",
+    "category": "Manufacturing",
+    "price": 830,
+    "unit": "INR/kg"
+  },
+  {
+    "commodity": "Neon Gas (99.999% Purity)",
+    "category": "Manufacturing",
+    "price": 41500,
+    "unit": "INR/m3"
+  },
+  {
+    "commodity": "Nitrogen Gas (Ultra-Pure Industrial)",
+    "category": "Manufacturing",
+    "price": 42,
+    "unit": "INR/m3"
+  },
+  {
+    "commodity": "Argon Gas (Industrial)",
+    "category": "Manufacturing",
+    "price": 100,
+    "unit": "INR/m3"
+  },
+  {
+    "commodity": "Hydrogen Fluoride (Electronic Grade)",
+    "category": "Manufacturing",
+    "price": 182500,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Isopropyl Alcohol (Electronic Grade)",
+    "category": "Manufacturing",
+    "price": 124500,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Polypropylene (PP Granules)",
+    "category": "Manufacturing",
+    "price": 99600,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "ABS Plastic (Acrylonitrile Butadiene Styrene)",
+    "category": "Manufacturing",
+    "price": 149400,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Polyurethane Foam",
+    "category": "Manufacturing",
+    "price": 199200,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Carbon Black",
+    "category": "Manufacturing",
+    "price": 91300,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Electricity (Industrial Commercial Tariff)",
+    "category": "Manufacturing",
+    "price": 8,
+    "unit": "INR/kWh"
+  },
+  {
+    "commodity": "Phosphate Fertilizer (DAP)",
+    "category": "Manufacturing",
+    "price": 60500,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Urea (Nitrogen Fertilizer)",
+    "category": "Manufacturing",
+    "price": 15250,
+    "unit": "INR/ton"
+  },
+  {
+    "commodity": "Potassium Chloride (MOP Fertilizer)",
+    "category": "Manufacturing",
+    "price": 28650,
+    "unit": "INR/ton"
+  }
+]
