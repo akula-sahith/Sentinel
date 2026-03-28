@@ -30,7 +30,7 @@ async function runQuantumCategory(strategies) {
   try {
     const Q = buildQUBO(strategies);
 
-    const response = await axios.post("http://127.0.0.1:5001/optimize", {
+    const response = await axios.post("https://sentinelquantumengine.onrender.com/optimize", {
       qubo: Q
     });
 
