@@ -4,9 +4,9 @@ const express = require("express");
 const router = express.Router();
 
 const authMiddleware = require("../middleware/authMiddleware");
-const { analyzeBusiness } = require("../controllers/analysisController");
+const { getDashboard } = require("../controllers/dashboardController");
 
 // 🚀 Analyze Business (AI Inference)
-router.post("/analyze", authMiddleware, analyzeBusiness);
+router.post("/analyze", authMiddleware, getDashboard);
 
 module.exports = router;

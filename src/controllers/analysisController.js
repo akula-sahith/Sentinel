@@ -1,119 +1,69 @@
-// controllers/analysisController.js
-
 const Business = require("../models/Business");
-const RawNews = require("../models/RawNews");
-const RawShipment = require("../models/RawShipment");
-const RawSupply = require("../models/RawSupply");
-const RawWeather = require("../models/RawWeather");
-const CommodityPrice = require("../models/CommodityPrice");
-const User = require("../models/User");
-const { runInference } = require("../services/inferenceService");
 
-// 🔥 Fetch ALL events (no filtering)
-const getAllEventsFromDB = async () => {
+const { fetchAllEvents } = require("../services/eventFetchService");
+const { applyRules } = require("../services/ruleEngine");
+const { getPriority } = require("../services/priorityService");
+const { chunkArray } = require("../services/batchProcessor");
+const { callLLM } = require("../services/llmService");
+
+exports.analyze = async (req, res) => {
   try {
-    const [news, shipments, supply, weather, prices] = await Promise.all([
-      RawNews.find().limit(10),
-      RawShipment.find().limit(10),
-      RawSupply.find().limit(10),
-      RawWeather.find().limit(10),
-      CommodityPrice.find().limit(10)
-    ]);
-
-    return {
-      news,
-      shipments,
-      supply,
-      weather,
-      prices
-    };
-
-  } catch (error) {
-    console.error("DB Fetch Error:", error.message);
-    return {
-      news: [],
-      shipments: [],
-      supply: [],
-      weather: [],
-      prices: []
-    };
-  }
-};
-
-// 🧠 Extract Business Context
-const extractBusinessContext = (business) => {
-  return {
-    industry: business.profile.industry,
-    subIndustry: business.profile.subIndustry,
-    location: business.profile.location,
-
-    rawMaterials:
-      business.supplyChain?.rawMaterials?.map(r => r.name) || [],
-
-    dependencies:
-      business.logistics?.transportMode || [],
-
-    products:
-      business.products?.map(p => p.name) || [],
-
-    financials: business.financials,
-    riskProfile: business.riskProfile,
-
-    description: business.description
-  };
-};
-
-// 🚀 MAIN ANALYSIS
-exports.analyzeBusiness = async (req, res) => {
-  try {
-    const { businessId } = req.body;
-    const user = await User.findOne({ firebaseUid: req.firebaseUid });
-    if (!businessId) {
-      return res.status(400).json({
-        success: false,
-        message: "Business ID is required"
-      });
-    }
-
-    // 🔐 SECURE FETCH (no extra user query needed)
+    // 🔥 1. Get business
     const business = await Business.findOne({
-  _id: businessId,
-  createdBy: user._id
-});
-    if (!business) {
-      return res.status(404).json({
-        success: false,
-        message: "Business not found or unauthorized"
+      createdBy: req.user.id
+    }).lean();
+
+    // 🔥 2. Fetch events (FAST)
+    const events = await fetchAllEvents(business);
+
+    const results = [];
+    const llmQueue = [];
+
+    // 🔥 3. Rule + Priority
+    for (let event of events) {
+
+      const rule = applyRules(event);
+
+      if (rule) {
+        results.push({ eventId: event.id, ...rule });
+        continue;
+      }
+
+      const priority = getPriority(event);
+
+      if (priority >= 7) {
+        llmQueue.push(event);
+      } else {
+        results.push({
+          eventId: event.id,
+          impact: "Low",
+          reason: "Low priority"
+        });
+      }
+    }
+
+    // 🔥 4. Batch LLM
+    const batches = chunkArray(llmQueue, 5);
+
+    for (let batch of batches) {
+      const formatted = batch.map(e => ({ text: e.content }));
+
+      const llmResult = await callLLM(formatted, business);
+
+      results.push({
+        type: "AI_ANALYSIS",
+        result: llmResult
       });
     }
 
-    // 📦 Fetch ALL events
-    const events = await getAllEventsFromDB();
-
-    // 🧠 Extract context
-    const context = extractBusinessContext(business);
-
-    // ⚡ Run inference (Ollama)
-    const inferenceResult = await runInference(context, events);
-
-    res.status(200).json({
+    res.json({
       success: true,
-      businessId,
-      totalEventsProcessed:
-        events.news.length +
-        events.shipments.length +
-        events.supply.length +
-        events.weather.length +
-        events.prices.length,
-      inference: inferenceResult
+      totalEvents: events.length,
+      results
     });
 
-  } catch (error) {
-    console.error("Analysis Error:", error.message);
-
-    res.status(500).json({
-      success: false,
-      message: "Analysis failed"
-    });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "Analysis failed" });
   }
 };

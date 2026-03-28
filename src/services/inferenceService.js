@@ -56,7 +56,7 @@ Return STRICT JSON ONLY:
     {
       "event": "...",
       "reason": "...",
-      "impactLevel": "low | medium | high"
+  "impactLevel": "low | medium | high"
     }
   ]
 }
@@ -88,35 +88,54 @@ const runInference = async (context, events) => {
         try {
           // Using the official ollama library's chat method
           const response = await ollama.chat({
-            model: "gemma", // Ensure this matches your downloaded model
-            messages: [{ role: "user", content: promptText }],
+            model: "gpt-oss:120b",
+            messages: [
+              {
+                role: "user",
+                content: buildPrompt(context, singleEvent),
+              },
+            ],
             stream: false,
             options: {
               temperature: 0.1,
-              num_predict: 1200,
-            }
+              num_predict: 300,
+            },
           });
 
-          if (response && response.message && response.message.content) {
-            const parsed = extractJSON(response.message.content);
-            if (parsed && Array.isArray(parsed.relevantEvents)) {
-              allResults.push(...parsed.relevantEvents);
-            }
-          }
-        } catch (chunkError) {
-          console.error(`Ollama Error in ${category} chunk:`, chunkError.message);
+          const content = response?.message?.content;
+
+          if (!content) continue;
+
+          const parsed = extractJSON(content);
+
+          if (!parsed || parsed.relevant !== true) continue;
+
+          if (!isValid(parsed)) continue;
+
+          const { relevant, ...eventData } = parsed;
+
+          allResults.push(eventData);
+        } catch (eventError) {
+          console.error(
+            "⚠️ Event Processing Error:",
+            eventError.message
+          );
         }
       }
     }
 
-    // Deduplication logic
+    /**
+     * 🧹 Deduplication (SAFE VERSION)
+     */
     const unique = [];
     const seen = new Set();
 
     for (const ev of allResults) {
-      if (!ev || !ev.event) continue;
-      const key = ev.event.toLowerCase().trim();
-      if (!seen.has(key)) {
+      const key = normalizeEvent(ev.event)
+        .toLowerCase()
+        .trim();
+
+      if (key && !seen.has(key)) {
         seen.add(key);
         unique.push(ev);
       }
@@ -128,11 +147,8 @@ const runInference = async (context, events) => {
     };
 
   } catch (error) {
-    console.error("Critical Inference Error:", error.message);
-    return {
-      totalRelevantEvents: 0,
-      relevantEvents: [],
-    };
+    console.error("🔥 Critical Inference Error:", error.message);
+    return { totalRelevantEvents: 0, relevantEvents: [] };
   }
 };
 
