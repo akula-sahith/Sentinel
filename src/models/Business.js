@@ -3,11 +3,17 @@ const mongoose = require("mongoose");
 // 📦 Raw Material Schema
 const rawMaterialSchema = new mongoose.Schema({
   name: {
-    type: String,
-    required: true,
-    lowercase: true,   // 🔥 normalize for matching
-    trim: true
-  },
+  type: String,
+  required: true,
+  lowercase: true,
+  trim: true,
+  set: (val) => {
+    if (typeof val === "object") {
+      return String(val.name || "unknown");
+    }
+    return String(val);
+  }
+},
   dependencyPercentage: {
     type: Number,
     required: true,
@@ -19,9 +25,15 @@ const rawMaterialSchema = new mongoose.Schema({
 // 🛒 Product Schema
 const productSchema = new mongoose.Schema({
   name: {
-    type: String,
-    required: true
-  },
+  type: String,
+  required: true,
+  set: (val) => {
+    if (typeof val === "object" && val !== null) {
+      return String(val.name || "Unknown");
+    }
+    return String(val);
+  }
+},
   category: String,
   price: {
     type: Number,
