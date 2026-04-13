@@ -25,4 +25,4 @@ jobs:
                         docker pull ${{secrets.DOCKER_USERNAME}}/sentinel:latest
                         docker stop sentinel || true
                         docker rm sentinel || true
-                        docker run -d --name sentinel -p 80:80 ${{secrets.DOCKER_USERNAME}}/sentinel:latest
+                        docker run -d --name sentinel -p 80:5000 --env-file /home/ec2-user/.env --restart always ${{ secrets.DOCKER_USERNAME }}/sentinel:latest
