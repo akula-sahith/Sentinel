@@ -2,3 +2,4 @@ node_modules
 .env
 sentinel.json
 serviceAccountKey.json
+Sentinel-1.pem
